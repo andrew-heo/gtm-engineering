@@ -13,6 +13,16 @@ from dataclasses import dataclass
 import numpy as np
 import pandas as pd
 
+COMMIT_SFDC = False
+
+if COMMIT_SFDC:
+    from simple_salesforce import Salesforce
+    SFDC_CONFIG = {
+    "username": "andrew.heo@company.com",
+    "password": "MySuperSecretPassword123",
+    "security_token": "XYZ123ABC456TOKEN",
+    "domain": "login"   # use "test" for sandbox
+    }
 
 pd.set_option('display.max_columns', None)
 pd.set_option('display.width', 200)
@@ -568,7 +578,23 @@ def main():
             f"{EXPORT_PATH}/territory_run_summary.csv",
             index=False,
         )
-
+    if COMMIT_SFDC:
+        sfdc = best_assignment_dataset.rename(columns={"account_id":"id", "Current owner":"ownerid"})
+        sfdc = sfdc[["id", "ownerid"]]
+        payload = sfdc.to_dict("records")
+        def connect_to_salesforce():
+            sf = Salesforce(
+                username=SFDC_CONFIG["username"],
+                password=SFDC_CONFIG["password"],
+                security_token=SFDC_CONFIG["security_token"],
+                domain=SFDC_CONFIG["domain"]
+            )
+            return sf
+        def push_updates_to_salesforce(sf, payload):
+            print(f"Pushing {len(payload)} account updates to Salesforce")
+            results = sf.bulk.Account.update(payload)
+            print("Salesforce update complete")
+            return results
 
 if __name__ == "__main__":
     main()
