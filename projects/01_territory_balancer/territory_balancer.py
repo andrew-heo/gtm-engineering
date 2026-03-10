@@ -18,8 +18,8 @@ COMMIT_SFDC = False
 if COMMIT_SFDC:
     from simple_salesforce import Salesforce
     SFDC_CONFIG = {
-    "username": "andrew.heo@company.com",
-    "password": "MySuperSecretPassword123",
+    "username": "andrew.heo@dtdg.com",
+    "password": "password",
     "security_token": "XYZ123ABC456TOKEN",
     "domain": "login"   # use "test" for sandbox
     }
