@@ -1,6 +1,6 @@
 # Andrew Heo — GTM Engineering Portfolio
 
-Former GTM Strategy & Operations at Datadog.
+Former Datadog GTM StratOps (NYC & Singapore)
 
 I build systems that connect revenue data, automation, and analytics to improve go-to-market performance.
 
