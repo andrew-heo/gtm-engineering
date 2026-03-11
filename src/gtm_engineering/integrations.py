@@ -8,7 +8,7 @@ from typing import Any, Dict, Optional
 
 import pandas as pd
 
-from .config import CLAY_CONFIG, DEFAULT_DRY_RUN, SALESFORCE_CONFIG, SLACK_CONFIG, USAGE_EVENTS_CONFIG
+from .config import CLAY_CONFIG, DEFAULT_DRY_RUN, PARABOLA_CONFIG, SALESFORCE_CONFIG, SLACK_CONFIG, USAGE_EVENTS_CONFIG
 
 LAST_INTERESTING_MOMENT_COLUMN = "last_interesting_moment"
 SALESFORCE_ACCOUNT_ID_PREFIX = "001"
@@ -21,6 +21,7 @@ MESSAGE_ACCOUNT_CREATE = "Account create prepared for Salesforce."
 MESSAGE_LEAD_CREATE = "Lead create prepared for Salesforce."
 MESSAGE_TASK_CREATE = "Task create prepared for Salesforce."
 MESSAGE_CLAY_ENRICHMENT = "Clay enrichment prepared."
+MESSAGE_PARABOLA_FLOW = "Parabola flow run prepared."
 MESSAGE_SLACK_POST = "Slack message prepared."
 DEFAULT_CLAY_JOB_TITLE = "Operations Leader"
 DEFAULT_CLAY_INDUSTRY = "SaaS"
@@ -63,6 +64,7 @@ class SalesforceClient:
             )
         self._account_counter = len(self.datasets["accounts"]) + 1
         self._lead_counter = len(self.datasets["leads"]) + 1
+        self._opportunity_counter = len(self.datasets["opportunities"]) + 1
 
     def find_lead_by_email(self, email: str) -> Optional[Dict[str, Any]]:
         leads = self.datasets["leads"]
@@ -122,6 +124,20 @@ class SalesforceClient:
             message=MESSAGE_TASK_CREATE,
         )
 
+    def create_opportunity(self, payload: Dict[str, Any]) -> IntegrationResult:
+        opportunity_id = f"006{self._opportunity_counter:0{SALESFORCE_ID_PADDING}d}"
+        self._opportunity_counter += 1
+        opportunity_payload = {"opportunity_id": opportunity_id, **payload}
+        self.datasets["opportunities"] = pd.concat(
+            [self.datasets["opportunities"], pd.DataFrame([opportunity_payload])],
+            ignore_index=True,
+        )
+        return IntegrationResult(
+            status=_integration_status(self.dry_run),
+            payload=opportunity_payload,
+            message="Opportunity create prepared for Salesforce.",
+        )
+
 
 class ClayClient:
     """Portfolio-safe Clay enrichment wrapper."""
@@ -151,6 +167,21 @@ class ClayClient:
             status=_integration_status(self.dry_run),
             payload=payload,
             message=MESSAGE_CLAY_ENRICHMENT,
+        )
+
+
+class ParabolaClient:
+    """Portfolio-safe Parabola wrapper for form automation workflows."""
+
+    def __init__(self, dry_run: bool = DEFAULT_DRY_RUN, config: Optional[Dict[str, str]] = None) -> None:
+        self.dry_run = dry_run
+        self.config = config or PARABOLA_CONFIG
+
+    def run_flow(self, flow_name: str, payload: Dict[str, Any]) -> IntegrationResult:
+        return IntegrationResult(
+            status=_integration_status(self.dry_run),
+            payload={"flow_name": flow_name, **payload},
+            message=MESSAGE_PARABOLA_FLOW,
         )
 
 

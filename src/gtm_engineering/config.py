@@ -20,6 +20,9 @@ DEFAULT_SFDC_DOMAIN = "login"
 DEFAULT_CLAY_API_KEY = "clay-placeholder-key"
 DEFAULT_CLAY_BASE_URL = "https://api.clay.com/v1"
 
+DEFAULT_PARABOLA_API_KEY = "parabola-placeholder-key"
+DEFAULT_PARABOLA_BASE_URL = "https://api.parabola.io/v1"
+
 DEFAULT_SLACK_BOT_TOKEN = "xoxb-placeholder-token"
 DEFAULT_SLACK_CHANNEL = "#gtm-automation"
 
@@ -33,6 +36,7 @@ DATA_OUTPUT_DIR = DATA_FOUNDATIONS_DIR / "output"
 TERRITORY_BALANCER_DIR = PROJECTS_ROOT / "02_territory_balancer"
 FREETIER_ALERT_DIR = PROJECTS_ROOT / "03_freetier_usage_alert"
 LEAD_ENRICHMENT_DIR = PROJECTS_ROOT / "04_lead_enrichment"
+RENEWAL_AUTOMATION_DIR = PROJECTS_ROOT / "05_am_renewal_form_automation"
 
 SALESFORCE_CONFIG = {
     "username": os.getenv("SFDC_USERNAME", DEFAULT_SFDC_USERNAME),
@@ -44,6 +48,11 @@ SALESFORCE_CONFIG = {
 CLAY_CONFIG = {
     "api_key": os.getenv("CLAY_API_KEY", DEFAULT_CLAY_API_KEY),
     "base_url": os.getenv("CLAY_BASE_URL", DEFAULT_CLAY_BASE_URL),
+}
+
+PARABOLA_CONFIG = {
+    "api_key": os.getenv("PARABOLA_API_KEY", DEFAULT_PARABOLA_API_KEY),
+    "base_url": os.getenv("PARABOLA_BASE_URL", DEFAULT_PARABOLA_BASE_URL),
 }
 
 SLACK_CONFIG = {

@@ -1,0 +1,5 @@
+submission_id,account_id,account_name,owner_name,status,path,renewal_forecast,renewal_risk_level,renewal_nnarr,message
+renewal_form_001,001000000106,Company106 Labs,AM_9,processed,renewal_opportunity_created,commit,low,145000,Renewal opportunity created and downstream actions prepared.
+renewal_form_002,001000000060,Company060 Labs,AM_1,processed,renewal_opportunity_created,best case,high,98000,Renewal opportunity created and downstream actions prepared.
+renewal_form_003,001000000122,Company122 Labs,AM_10,blocked,validation_failed,pipeline,medium,88000,Submitting owner does not match the current AM owner.
+renewal_form_004,001000000122,Company122 Labs,AM_10,blocked,validation_failed,,medium,76000,Renewal forecast is required.

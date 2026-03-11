@@ -1,0 +1,5 @@
+submission_id,account_id,submitted_by_owner_name,renewal_forecast,renewal_risk_level,renewal_strategy,contract_end_date,renewal_nnarr,pricing_exception_requested,flow_status,flow_name
+renewal_form_001,001000000106,AM_9,commit,low,multi-year upsell,2026-05-25,145000,False,dry_run,am-renewal-form-automation
+renewal_form_002,001000000060,AM_1,best case,high,discount request,2026-04-28,98000,True,dry_run,am-renewal-form-automation
+renewal_form_003,001000000122,AM_99,pipeline,medium,needs validation,2026-05-05,88000,False,dry_run,am-renewal-form-automation
+renewal_form_004,001000000122,AM_10,,medium,missing forecast,2026-05-12,76000,False,dry_run,am-renewal-form-automation

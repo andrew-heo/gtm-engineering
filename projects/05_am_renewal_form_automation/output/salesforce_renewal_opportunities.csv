@@ -1,0 +1,3 @@
+opportunity_id,account_id,opportunity_name,owner_id,stage_name,nnarr,is_open,created_date,close_date,source
+006000000211,001000000106,Company106 Labs - Renewal,005CSM00009,Proposal,145000,True,2026-03-11,2026-05-25,am_renewal_form
+006000000212,001000000060,Company060 Labs - Renewal,005CSM00001,Proposal,98000,True,2026-03-11,2026-04-28,am_renewal_form

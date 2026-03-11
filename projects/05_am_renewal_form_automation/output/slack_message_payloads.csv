@@ -1,0 +1,5 @@
+channel,text
+#renewals-desk,Renewal form processed for Company106 Labs | owner=AM_9 | forecast=commit | risk=low | nnarr=145000
+#renewals-desk,Renewal form processed for Company060 Labs | owner=AM_1 | forecast=best case | risk=high | nnarr=98000
+#renewals-desk,Renewal form renewal_form_003 blocked: Submitting owner does not match the current AM owner.
+#renewals-desk,Renewal form renewal_form_004 blocked: Renewal forecast is required.
