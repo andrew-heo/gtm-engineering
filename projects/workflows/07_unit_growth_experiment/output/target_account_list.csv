@@ -1,0 +1,76 @@
+account_id,account_name,industry,account_segment,employee_band,segment_bucket,use_case_bucket,payment_flow_fit_score,urgency_score,revenue_potential_score,likelihood_to_buy_score,icp_grade,buyer_persona,wedge_priority,current_owner_name,cohort
+001000000001,Company001 Labs,Healthcare,Mid-Market,501-2000,healthcare_admin,patient_payments,3,2,5,4,A1,VP Strategy,comparison,AM_6,comparison
+001000000002,Company002 Labs,SaaS,Mid-Market,51-200,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_9,comparison
+001000000003,Company003 Labs,Retail,Mid-Market,201-500,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_5,comparison
+001000000006,Company006 Labs,SaaS,Mid-Market,501-2000,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_3,comparison
+001000000007,Company007 Labs,SaaS,Mid-Market,501-2000,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_4,comparison
+001000000009,Company009 Labs,Fintech,Mid-Market,51-200,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_3,comparison
+001000000011,Company011 Labs,Fintech,Mid-Market,1-50,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_5,comparison
+001000000013,Company013 Labs,SaaS,Mid-Market,201-500,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_3,comparison
+001000000015,Company015 Labs,Healthcare,SMB,51-200,healthcare_admin,patient_payments,3,2,5,4,A1,VP Strategy,comparison,AM_6,comparison
+001000000017,Company017 Labs,SaaS,Mid-Market,51-200,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_8,comparison
+001000000018,Company018 Labs,SaaS,SMB,51-200,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_9,comparison
+001000000019,Company019 Labs,SaaS,Mid-Market,51-200,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_1,comparison
+001000000021,Company021 Labs,SaaS,Mid-Market,1-50,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_3,comparison
+001000000022,Company022 Labs,Fintech,SMB,51-200,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_3,comparison
+001000000024,Company024 Labs,Fintech,Mid-Market,501-2000,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_7,comparison
+001000000025,Company025 Labs,Retail,SMB,1-50,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_4,comparison
+001000000026,Company026 Labs,Fintech,Mid-Market,501-2000,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_4,comparison
+001000000028,Company028 Labs,Retail,Mid-Market,1-50,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_6,comparison
+001000000034,Company034 Labs,Retail,Mid-Market,201-500,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_2,comparison
+001000000035,Company035 Labs,Retail,Mid-Market,51-200,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_5,comparison
+001000000036,Company036 Labs,SaaS,Enterprise,1-50,vertical_saas,platform_monetization,4,4,5,4,A1,Head of Product,comparison,AE_7,comparison
+001000000038,Company038 Labs,Retail,Enterprise,51-200,commerce_platforms,merchant_payouts,5,4,5,4,A1,VP Payments,comparison,AE_8,comparison
+001000000004,Company004 Labs,Fintech,Mid-Market,2000+,banking_software,embedded_accounts,4,3,4,4,A1,GM Embedded Finance,comparison,AM_1,comparison
+001000000005,Company005 Labs,Healthcare,Mid-Market,201-500,healthcare_admin,patient_payments,3,2,4,4,A1,VP Strategy,comparison,AM_8,comparison
+001000000037,Company037 Labs,SaaS,Mid-Market,51-200,vertical_saas,platform_monetization,4,4,4,5,A1,Head of Product,comparison,AM_4,comparison
+001000000008,Company008 Labs,Media,Mid-Market,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_1,priority
+001000000010,Company010 Labs,Media,Mid-Market,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_8,priority
+001000000012,Company012 Labs,Media,Mid-Market,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_10,priority
+001000000016,Company016 Labs,Media,Mid-Market,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_5,priority
+001000000027,Company027 Labs,Media,Mid-Market,2000+,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_3,priority
+001000000029,Company029 Labs,Media,Mid-Market,2000+,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_5,priority
+001000000031,Company031 Labs,Media,Mid-Market,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_6,priority
+001000000032,Company032 Labs,Media,Mid-Market,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_10,priority
+001000000043,Company043 Labs,Media,Mid-Market,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_9,priority
+001000000050,Company050 Labs,Media,Mid-Market,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_4,priority
+001000000056,Company056 Labs,Media,Mid-Market,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_5,priority
+001000000062,Company062 Labs,Media,Mid-Market,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_5,priority
+001000000075,Company075 Labs,Media,Mid-Market,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_10,priority
+001000000078,Company078 Labs,Media,Mid-Market,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_6,priority
+001000000080,Company080 Labs,Media,Mid-Market,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_1,priority
+001000000082,Company082 Labs,Media,Mid-Market,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_9,priority
+001000000089,Company089 Labs,Media,Mid-Market,501-2000,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_9,priority
+001000000091,Company091 Labs,Media,Mid-Market,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_2,priority
+001000000096,Company096 Labs,Media,Mid-Market,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_1,priority
+001000000105,Company105 Labs,Media,SMB,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_5,priority
+001000000111,Company111 Labs,Media,Mid-Market,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_3,priority
+001000000120,Company120 Labs,Media,Enterprise,501-2000,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AE_7,priority
+001000000122,Company122 Labs,Media,Mid-Market,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_10,priority
+001000000137,Company137 Labs,Media,Mid-Market,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_5,priority
+001000000144,Company144 Labs,Media,Mid-Market,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_2,priority
+001000000150,Company150 Labs,Media,Mid-Market,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_3,priority
+001000000152,Company152 Labs,Media,Mid-Market,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_2,priority
+001000000163,Company163 Labs,Media,Mid-Market,501-2000,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_6,priority
+001000000167,Company167 Labs,Media,Mid-Market,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_5,priority
+001000000170,Company170 Labs,Media,Mid-Market,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_6,priority
+001000000174,Company174 Labs,Media,SMB,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_1,priority
+001000000177,Company177 Labs,Media,Mid-Market,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_7,priority
+001000000181,Company181 Labs,Media,Mid-Market,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_1,priority
+001000000189,Company189 Labs,Media,Mid-Market,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_9,priority
+001000000191,Company191 Labs,Media,Mid-Market,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_8,priority
+001000000199,Company199 Labs,Media,Mid-Market,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_2,priority
+001000000200,Company200 Labs,Media,Mid-Market,501-2000,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_3,priority
+001000000218,Company218 Labs,Media,Mid-Market,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_6,priority
+001000000219,Company219 Labs,Media,SMB,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_7,priority
+001000000227,Company227 Labs,Media,SMB,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_1,priority
+001000000231,Company231 Labs,Media,Mid-Market,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_4,priority
+001000000233,Company233 Labs,Media,Mid-Market,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_5,priority
+001000000237,Company237 Labs,Media,Mid-Market,501-2000,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_2,priority
+001000000252,Company252 Labs,Media,Mid-Market,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_7,priority
+001000000254,Company254 Labs,Media,Mid-Market,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_10,priority
+001000000255,Company255 Labs,Media,Mid-Market,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_2,priority
+001000000256,Company256 Labs,Media,Mid-Market,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_8,priority
+001000000262,Company262 Labs,Media,Mid-Market,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_3,priority
+001000000271,Company271 Labs,Media,Mid-Market,501-2000,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_1,priority
+001000000272,Company272 Labs,Media,Mid-Market,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_7,priority

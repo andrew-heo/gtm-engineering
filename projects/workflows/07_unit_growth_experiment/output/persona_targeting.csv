@@ -1,0 +1,76 @@
+account_id,account_name,segment_bucket,use_case_bucket,buyer_persona,icp_grade,cohort,persona_reason
+001000000001,Company001 Labs,healthcare_admin,patient_payments,VP Strategy,A1,comparison,Likely owns workflow and monetization efficiency.
+001000000002,Company002 Labs,vertical_saas,platform_monetization,Head of Product,A1,comparison,Likely owns fintech roadmap and packaging decisions.
+001000000003,Company003 Labs,commerce_platforms,merchant_payouts,VP Payments,A1,comparison,Likely evaluates payment monetization and bank-partner tradeoffs.
+001000000006,Company006 Labs,vertical_saas,platform_monetization,Head of Product,A1,comparison,Likely owns fintech roadmap and packaging decisions.
+001000000007,Company007 Labs,vertical_saas,platform_monetization,Head of Product,A1,comparison,Likely owns fintech roadmap and packaging decisions.
+001000000009,Company009 Labs,banking_software,embedded_accounts,GM Embedded Finance,A1,comparison,Likely owns banking product expansion.
+001000000011,Company011 Labs,banking_software,embedded_accounts,GM Embedded Finance,A1,comparison,Likely owns banking product expansion.
+001000000013,Company013 Labs,vertical_saas,platform_monetization,Head of Product,A1,comparison,Likely owns fintech roadmap and packaging decisions.
+001000000015,Company015 Labs,healthcare_admin,patient_payments,VP Strategy,A1,comparison,Likely owns workflow and monetization efficiency.
+001000000017,Company017 Labs,vertical_saas,platform_monetization,Head of Product,A1,comparison,Likely owns fintech roadmap and packaging decisions.
+001000000018,Company018 Labs,vertical_saas,platform_monetization,Head of Product,A1,comparison,Likely owns fintech roadmap and packaging decisions.
+001000000019,Company019 Labs,vertical_saas,platform_monetization,Head of Product,A1,comparison,Likely owns fintech roadmap and packaging decisions.
+001000000021,Company021 Labs,vertical_saas,platform_monetization,Head of Product,A1,comparison,Likely owns fintech roadmap and packaging decisions.
+001000000022,Company022 Labs,banking_software,embedded_accounts,GM Embedded Finance,A1,comparison,Likely owns banking product expansion.
+001000000024,Company024 Labs,banking_software,embedded_accounts,GM Embedded Finance,A1,comparison,Likely owns banking product expansion.
+001000000025,Company025 Labs,commerce_platforms,merchant_payouts,VP Payments,A1,comparison,Likely evaluates payment monetization and bank-partner tradeoffs.
+001000000026,Company026 Labs,banking_software,embedded_accounts,GM Embedded Finance,A1,comparison,Likely owns banking product expansion.
+001000000028,Company028 Labs,commerce_platforms,merchant_payouts,VP Payments,A1,comparison,Likely evaluates payment monetization and bank-partner tradeoffs.
+001000000034,Company034 Labs,commerce_platforms,merchant_payouts,VP Payments,A1,comparison,Likely evaluates payment monetization and bank-partner tradeoffs.
+001000000035,Company035 Labs,commerce_platforms,merchant_payouts,VP Payments,A1,comparison,Likely evaluates payment monetization and bank-partner tradeoffs.
+001000000036,Company036 Labs,vertical_saas,platform_monetization,Head of Product,A1,comparison,Likely owns fintech roadmap and packaging decisions.
+001000000038,Company038 Labs,commerce_platforms,merchant_payouts,VP Payments,A1,comparison,Likely evaluates payment monetization and bank-partner tradeoffs.
+001000000004,Company004 Labs,banking_software,embedded_accounts,GM Embedded Finance,A1,comparison,Likely owns banking product expansion.
+001000000005,Company005 Labs,healthcare_admin,patient_payments,VP Strategy,A1,comparison,Likely owns workflow and monetization efficiency.
+001000000037,Company037 Labs,vertical_saas,platform_monetization,Head of Product,A1,comparison,Likely owns fintech roadmap and packaging decisions.
+001000000008,Company008 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000010,Company010 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000012,Company012 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000016,Company016 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000027,Company027 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000029,Company029 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000031,Company031 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000032,Company032 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000043,Company043 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000050,Company050 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000056,Company056 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000062,Company062 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000075,Company075 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000078,Company078 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000080,Company080 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000082,Company082 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000089,Company089 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000091,Company091 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000096,Company096 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000105,Company105 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000111,Company111 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000120,Company120 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000122,Company122 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000137,Company137 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000144,Company144 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000150,Company150 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000152,Company152 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000163,Company163 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000167,Company167 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000170,Company170 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000174,Company174 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000177,Company177 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000181,Company181 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000189,Company189 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000191,Company191 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000199,Company199 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000200,Company200 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000218,Company218 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000219,Company219 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000227,Company227 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000231,Company231 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000233,Company233 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000237,Company237 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000252,Company252 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000254,Company254 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000255,Company255 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000256,Company256 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000262,Company262 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000271,Company271 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.
+001000000272,Company272 Labs,property_management_software,rent_payments,CEO / GM,A1,priority,Likely owns monetization and launch speed for platform revenue initiatives.

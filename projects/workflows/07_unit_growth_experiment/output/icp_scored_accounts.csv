@@ -1,0 +1,301 @@
+account_id,account_name,industry,account_segment,employee_band,segment_bucket,use_case_bucket,payment_flow_fit_score,urgency_score,revenue_potential_score,likelihood_to_buy_score,icp_grade,buyer_persona,wedge_priority,current_owner_name
+001000000001,Company001 Labs,Healthcare,Mid-Market,501-2000,healthcare_admin,patient_payments,3,2,5,4,A1,VP Strategy,comparison,AM_6
+001000000002,Company002 Labs,SaaS,Mid-Market,51-200,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_9
+001000000003,Company003 Labs,Retail,Mid-Market,201-500,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_5
+001000000004,Company004 Labs,Fintech,Mid-Market,2000+,banking_software,embedded_accounts,4,3,4,4,A1,GM Embedded Finance,comparison,AM_1
+001000000005,Company005 Labs,Healthcare,Mid-Market,201-500,healthcare_admin,patient_payments,3,2,4,4,A1,VP Strategy,comparison,AM_8
+001000000006,Company006 Labs,SaaS,Mid-Market,501-2000,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_3
+001000000007,Company007 Labs,SaaS,Mid-Market,501-2000,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_4
+001000000008,Company008 Labs,Media,Mid-Market,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_1
+001000000009,Company009 Labs,Fintech,Mid-Market,51-200,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_3
+001000000010,Company010 Labs,Media,Mid-Market,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_8
+001000000011,Company011 Labs,Fintech,Mid-Market,1-50,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_5
+001000000012,Company012 Labs,Media,Mid-Market,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_10
+001000000013,Company013 Labs,SaaS,Mid-Market,201-500,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_3
+001000000014,Company014 Labs,Manufacturing,Enterprise,51-200,b2b_erp,vendor_payments,2,2,5,2,A3,Head of Revenue,comparison,AE_3
+001000000015,Company015 Labs,Healthcare,SMB,51-200,healthcare_admin,patient_payments,3,2,5,4,A1,VP Strategy,comparison,AM_6
+001000000016,Company016 Labs,Media,Mid-Market,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_5
+001000000017,Company017 Labs,SaaS,Mid-Market,51-200,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_8
+001000000018,Company018 Labs,SaaS,SMB,51-200,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_9
+001000000019,Company019 Labs,SaaS,Mid-Market,51-200,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_1
+001000000020,Company020 Labs,Manufacturing,Mid-Market,2000+,b2b_erp,vendor_payments,2,2,3,3,B2,Head of Revenue,comparison,AM_10
+001000000021,Company021 Labs,SaaS,Mid-Market,1-50,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_3
+001000000022,Company022 Labs,Fintech,SMB,51-200,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_3
+001000000023,Company023 Labs,Manufacturing,Mid-Market,501-2000,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_10
+001000000024,Company024 Labs,Fintech,Mid-Market,501-2000,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_7
+001000000025,Company025 Labs,Retail,SMB,1-50,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_4
+001000000026,Company026 Labs,Fintech,Mid-Market,501-2000,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_4
+001000000027,Company027 Labs,Media,Mid-Market,2000+,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_3
+001000000028,Company028 Labs,Retail,Mid-Market,1-50,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_6
+001000000029,Company029 Labs,Media,Mid-Market,2000+,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_5
+001000000030,Company030 Labs,Manufacturing,Mid-Market,1-50,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_4
+001000000031,Company031 Labs,Media,Mid-Market,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_6
+001000000032,Company032 Labs,Media,Mid-Market,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_10
+001000000033,Company033 Labs,Manufacturing,Mid-Market,1-50,b2b_erp,vendor_payments,2,2,3,3,B2,Head of Revenue,comparison,AM_4
+001000000034,Company034 Labs,Retail,Mid-Market,201-500,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_2
+001000000035,Company035 Labs,Retail,Mid-Market,51-200,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_5
+001000000036,Company036 Labs,SaaS,Enterprise,1-50,vertical_saas,platform_monetization,4,4,5,4,A1,Head of Product,comparison,AE_7
+001000000037,Company037 Labs,SaaS,Mid-Market,51-200,vertical_saas,platform_monetization,4,4,4,5,A1,Head of Product,comparison,AM_4
+001000000038,Company038 Labs,Retail,Enterprise,51-200,commerce_platforms,merchant_payouts,5,4,5,4,A1,VP Payments,comparison,AE_8
+001000000039,Company039 Labs,Manufacturing,Mid-Market,201-500,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_6
+001000000040,Company040 Labs,Retail,Mid-Market,1-50,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_2
+001000000041,Company041 Labs,Healthcare,SMB,2000+,healthcare_admin,patient_payments,3,2,4,4,A1,VP Strategy,comparison,AM_5
+001000000042,Company042 Labs,Manufacturing,Mid-Market,1-50,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_10
+001000000043,Company043 Labs,Media,Mid-Market,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_9
+001000000044,Company044 Labs,Fintech,Mid-Market,501-2000,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_2
+001000000045,Company045 Labs,Manufacturing,Mid-Market,51-200,b2b_erp,vendor_payments,2,2,3,3,B2,Head of Revenue,comparison,AM_7
+001000000046,Company046 Labs,SaaS,Mid-Market,1-50,vertical_saas,platform_monetization,4,4,4,5,A1,Head of Product,comparison,AM_9
+001000000047,Company047 Labs,SaaS,SMB,501-2000,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_4
+001000000048,Company048 Labs,Retail,Mid-Market,1-50,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_2
+001000000049,Company049 Labs,Healthcare,Mid-Market,1-50,healthcare_admin,patient_payments,3,2,4,4,A1,VP Strategy,comparison,AM_8
+001000000050,Company050 Labs,Media,Mid-Market,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_4
+001000000051,Company051 Labs,SaaS,Mid-Market,1-50,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_4
+001000000052,Company052 Labs,Manufacturing,Mid-Market,51-200,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_2
+001000000053,Company053 Labs,Manufacturing,Mid-Market,501-2000,b2b_erp,vendor_payments,2,2,5,3,A2,Head of Revenue,comparison,AM_6
+001000000054,Company054 Labs,Manufacturing,Mid-Market,1-50,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_8
+001000000055,Company055 Labs,Healthcare,Mid-Market,51-200,healthcare_admin,patient_payments,3,2,4,4,A1,VP Strategy,comparison,AM_6
+001000000056,Company056 Labs,Media,Mid-Market,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_5
+001000000057,Company057 Labs,Retail,Mid-Market,2000+,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_4
+001000000058,Company058 Labs,Fintech,Mid-Market,201-500,banking_software,embedded_accounts,4,3,4,4,A1,GM Embedded Finance,comparison,AM_7
+001000000059,Company059 Labs,Healthcare,Mid-Market,501-2000,healthcare_admin,patient_payments,3,2,5,4,A1,VP Strategy,comparison,AM_1
+001000000060,Company060 Labs,Retail,Mid-Market,201-500,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_1
+001000000061,Company061 Labs,Healthcare,SMB,1-50,healthcare_admin,patient_payments,3,2,5,4,A1,VP Strategy,comparison,AM_2
+001000000062,Company062 Labs,Media,Mid-Market,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_5
+001000000063,Company063 Labs,Fintech,SMB,51-200,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_10
+001000000064,Company064 Labs,Manufacturing,Mid-Market,1-50,b2b_erp,vendor_payments,2,2,5,3,A2,Head of Revenue,comparison,AM_10
+001000000065,Company065 Labs,Manufacturing,Mid-Market,1-50,b2b_erp,vendor_payments,2,2,3,3,B2,Head of Revenue,comparison,AM_7
+001000000066,Company066 Labs,Manufacturing,Mid-Market,1-50,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_6
+001000000067,Company067 Labs,Retail,Mid-Market,501-2000,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_8
+001000000068,Company068 Labs,Retail,Mid-Market,1-50,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_9
+001000000069,Company069 Labs,Retail,SMB,1-50,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_6
+001000000070,Company070 Labs,Fintech,Mid-Market,51-200,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_9
+001000000071,Company071 Labs,Retail,Mid-Market,1-50,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_1
+001000000072,Company072 Labs,SaaS,Mid-Market,201-500,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_2
+001000000073,Company073 Labs,Healthcare,Enterprise,2000+,healthcare_admin,patient_payments,3,2,5,2,A3,VP Strategy,comparison,AE_8
+001000000074,Company074 Labs,SaaS,Mid-Market,1-50,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_7
+001000000075,Company075 Labs,Media,Mid-Market,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_10
+001000000076,Company076 Labs,Manufacturing,Mid-Market,51-200,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_5
+001000000077,Company077 Labs,Retail,SMB,501-2000,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_6
+001000000078,Company078 Labs,Media,Mid-Market,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_6
+001000000079,Company079 Labs,Fintech,Mid-Market,51-200,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_9
+001000000080,Company080 Labs,Media,Mid-Market,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_1
+001000000081,Company081 Labs,Manufacturing,Mid-Market,201-500,b2b_erp,vendor_payments,2,2,5,3,A2,Head of Revenue,comparison,AM_9
+001000000082,Company082 Labs,Media,Mid-Market,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_9
+001000000083,Company083 Labs,Retail,SMB,1-50,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_1
+001000000084,Company084 Labs,Retail,Mid-Market,2000+,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_3
+001000000085,Company085 Labs,Healthcare,Mid-Market,1-50,healthcare_admin,patient_payments,3,2,5,4,A1,VP Strategy,comparison,AM_1
+001000000086,Company086 Labs,Fintech,Mid-Market,1-50,banking_software,embedded_accounts,4,3,4,4,A1,GM Embedded Finance,comparison,AM_7
+001000000087,Company087 Labs,Retail,Mid-Market,501-2000,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_5
+001000000088,Company088 Labs,Retail,SMB,2000+,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_1
+001000000089,Company089 Labs,Media,Mid-Market,501-2000,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_9
+001000000090,Company090 Labs,Retail,Mid-Market,2000+,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_7
+001000000091,Company091 Labs,Media,Mid-Market,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_2
+001000000092,Company092 Labs,Retail,Mid-Market,2000+,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_2
+001000000093,Company093 Labs,SaaS,Mid-Market,201-500,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_9
+001000000094,Company094 Labs,Fintech,Mid-Market,201-500,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_6
+001000000095,Company095 Labs,SaaS,SMB,501-2000,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_8
+001000000096,Company096 Labs,Media,Mid-Market,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_1
+001000000097,Company097 Labs,Manufacturing,Mid-Market,51-200,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_1
+001000000098,Company098 Labs,Healthcare,SMB,201-500,healthcare_admin,patient_payments,3,2,4,4,A1,VP Strategy,comparison,AM_4
+001000000099,Company099 Labs,Healthcare,Enterprise,201-500,healthcare_admin,patient_payments,3,2,5,2,A3,VP Strategy,comparison,AE_3
+001000000100,Company100 Labs,SaaS,Mid-Market,201-500,vertical_saas,platform_monetization,4,4,4,5,A1,Head of Product,comparison,AM_2
+001000000101,Company101 Labs,Manufacturing,Mid-Market,201-500,b2b_erp,vendor_payments,2,2,3,3,B2,Head of Revenue,comparison,AM_5
+001000000102,Company102 Labs,Manufacturing,Mid-Market,201-500,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_10
+001000000103,Company103 Labs,Retail,Mid-Market,501-2000,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_2
+001000000104,Company104 Labs,SaaS,Mid-Market,1-50,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_7
+001000000105,Company105 Labs,Media,SMB,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_5
+001000000106,Company106 Labs,Retail,Mid-Market,51-200,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_9
+001000000107,Company107 Labs,SaaS,Mid-Market,201-500,vertical_saas,platform_monetization,4,4,4,5,A1,Head of Product,comparison,AM_4
+001000000108,Company108 Labs,Fintech,Mid-Market,1-50,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_1
+001000000109,Company109 Labs,Manufacturing,Mid-Market,201-500,b2b_erp,vendor_payments,2,2,5,3,A2,Head of Revenue,comparison,AM_6
+001000000110,Company110 Labs,Retail,SMB,501-2000,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_8
+001000000111,Company111 Labs,Media,Mid-Market,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_3
+001000000112,Company112 Labs,Retail,Mid-Market,501-2000,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_9
+001000000113,Company113 Labs,Fintech,Mid-Market,501-2000,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_1
+001000000114,Company114 Labs,SaaS,Mid-Market,1-50,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_10
+001000000115,Company115 Labs,Fintech,Mid-Market,51-200,banking_software,embedded_accounts,4,3,4,4,A1,GM Embedded Finance,comparison,AM_8
+001000000116,Company116 Labs,Healthcare,Mid-Market,201-500,healthcare_admin,patient_payments,3,2,5,4,A1,VP Strategy,comparison,AM_8
+001000000117,Company117 Labs,Fintech,Enterprise,51-200,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AE_8
+001000000118,Company118 Labs,Healthcare,Mid-Market,201-500,healthcare_admin,patient_payments,3,2,4,4,A1,VP Strategy,comparison,AM_7
+001000000119,Company119 Labs,Retail,SMB,51-200,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_4
+001000000120,Company120 Labs,Media,Enterprise,501-2000,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AE_7
+001000000121,Company121 Labs,Manufacturing,Enterprise,1-50,b2b_erp,vendor_payments,2,2,5,2,A3,Head of Revenue,comparison,AE_8
+001000000122,Company122 Labs,Media,Mid-Market,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_10
+001000000123,Company123 Labs,Fintech,Mid-Market,1-50,banking_software,embedded_accounts,4,3,4,4,A1,GM Embedded Finance,comparison,AM_9
+001000000124,Company124 Labs,Healthcare,Mid-Market,1-50,healthcare_admin,patient_payments,3,2,4,4,A1,VP Strategy,comparison,AM_5
+001000000125,Company125 Labs,Retail,Mid-Market,501-2000,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_8
+001000000126,Company126 Labs,Manufacturing,Mid-Market,201-500,b2b_erp,vendor_payments,2,2,3,3,B2,Head of Revenue,comparison,AM_5
+001000000127,Company127 Labs,Manufacturing,Mid-Market,51-200,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_1
+001000000128,Company128 Labs,Manufacturing,Mid-Market,51-200,b2b_erp,vendor_payments,2,2,3,3,B2,Head of Revenue,comparison,AM_5
+001000000129,Company129 Labs,Manufacturing,Mid-Market,2000+,b2b_erp,vendor_payments,2,2,5,3,A2,Head of Revenue,comparison,AM_9
+001000000130,Company130 Labs,Manufacturing,Mid-Market,201-500,b2b_erp,vendor_payments,2,2,5,3,A2,Head of Revenue,comparison,AM_2
+001000000131,Company131 Labs,SaaS,Mid-Market,51-200,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_6
+001000000132,Company132 Labs,Manufacturing,Mid-Market,201-500,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_6
+001000000133,Company133 Labs,Retail,Enterprise,501-2000,commerce_platforms,merchant_payouts,5,4,5,4,A1,VP Payments,comparison,AE_7
+001000000134,Company134 Labs,Fintech,Mid-Market,201-500,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_10
+001000000135,Company135 Labs,Manufacturing,Mid-Market,501-2000,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_6
+001000000136,Company136 Labs,Manufacturing,Mid-Market,201-500,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_1
+001000000137,Company137 Labs,Media,Mid-Market,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_5
+001000000138,Company138 Labs,Manufacturing,Mid-Market,51-200,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_8
+001000000139,Company139 Labs,Manufacturing,Mid-Market,1-50,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_3
+001000000140,Company140 Labs,Healthcare,Mid-Market,201-500,healthcare_admin,patient_payments,3,2,4,4,A1,VP Strategy,comparison,AM_8
+001000000141,Company141 Labs,SaaS,Mid-Market,51-200,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_6
+001000000142,Company142 Labs,Retail,SMB,51-200,commerce_platforms,merchant_payouts,5,4,4,5,A1,VP Payments,comparison,AM_3
+001000000143,Company143 Labs,Fintech,Mid-Market,201-500,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_3
+001000000144,Company144 Labs,Media,Mid-Market,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_2
+001000000145,Company145 Labs,Healthcare,Mid-Market,201-500,healthcare_admin,patient_payments,3,2,4,4,A1,VP Strategy,comparison,AM_7
+001000000146,Company146 Labs,SaaS,Mid-Market,501-2000,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_7
+001000000147,Company147 Labs,Retail,Enterprise,51-200,commerce_platforms,merchant_payouts,5,4,5,4,A1,VP Payments,comparison,AE_3
+001000000148,Company148 Labs,Retail,Mid-Market,2000+,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_5
+001000000149,Company149 Labs,Healthcare,Mid-Market,51-200,healthcare_admin,patient_payments,3,2,4,4,A1,VP Strategy,comparison,AM_4
+001000000150,Company150 Labs,Media,Mid-Market,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_3
+001000000151,Company151 Labs,Retail,Mid-Market,51-200,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_7
+001000000152,Company152 Labs,Media,Mid-Market,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_2
+001000000153,Company153 Labs,Retail,Mid-Market,51-200,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_7
+001000000154,Company154 Labs,Fintech,Mid-Market,201-500,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_8
+001000000155,Company155 Labs,Manufacturing,Mid-Market,51-200,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_3
+001000000156,Company156 Labs,Fintech,Mid-Market,501-2000,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_3
+001000000157,Company157 Labs,Retail,Mid-Market,2000+,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_7
+001000000158,Company158 Labs,SaaS,SMB,501-2000,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_7
+001000000159,Company159 Labs,Fintech,Mid-Market,51-200,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_2
+001000000160,Company160 Labs,Retail,Mid-Market,501-2000,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_9
+001000000161,Company161 Labs,Fintech,Mid-Market,51-200,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_7
+001000000162,Company162 Labs,Healthcare,Mid-Market,1-50,healthcare_admin,patient_payments,3,2,4,4,A1,VP Strategy,comparison,AM_4
+001000000163,Company163 Labs,Media,Mid-Market,501-2000,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_6
+001000000164,Company164 Labs,Fintech,Mid-Market,51-200,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_4
+001000000165,Company165 Labs,Retail,SMB,51-200,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_8
+001000000166,Company166 Labs,Healthcare,Mid-Market,2000+,healthcare_admin,patient_payments,3,2,5,4,A1,VP Strategy,comparison,AM_10
+001000000167,Company167 Labs,Media,Mid-Market,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_5
+001000000168,Company168 Labs,Fintech,SMB,51-200,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_8
+001000000169,Company169 Labs,SaaS,SMB,201-500,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_6
+001000000170,Company170 Labs,Media,Mid-Market,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_6
+001000000171,Company171 Labs,SaaS,Mid-Market,201-500,vertical_saas,platform_monetization,4,4,4,5,A1,Head of Product,comparison,AM_3
+001000000172,Company172 Labs,Healthcare,Mid-Market,51-200,healthcare_admin,patient_payments,3,2,4,4,A1,VP Strategy,comparison,AM_3
+001000000173,Company173 Labs,SaaS,Mid-Market,51-200,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_7
+001000000174,Company174 Labs,Media,SMB,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_1
+001000000175,Company175 Labs,Manufacturing,Mid-Market,1-50,b2b_erp,vendor_payments,2,2,5,3,A2,Head of Revenue,comparison,AM_7
+001000000176,Company176 Labs,SaaS,Mid-Market,201-500,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_5
+001000000177,Company177 Labs,Media,Mid-Market,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_7
+001000000178,Company178 Labs,Healthcare,SMB,51-200,healthcare_admin,patient_payments,3,2,5,4,A1,VP Strategy,comparison,AM_4
+001000000179,Company179 Labs,Manufacturing,Enterprise,201-500,b2b_erp,vendor_payments,2,2,5,2,A3,Head of Revenue,comparison,AE_8
+001000000180,Company180 Labs,Healthcare,Mid-Market,201-500,healthcare_admin,patient_payments,3,2,4,4,A1,VP Strategy,comparison,AM_1
+001000000181,Company181 Labs,Media,Mid-Market,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_1
+001000000182,Company182 Labs,Healthcare,SMB,51-200,healthcare_admin,patient_payments,3,2,5,4,A1,VP Strategy,comparison,AM_9
+001000000183,Company183 Labs,Manufacturing,Mid-Market,2000+,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_5
+001000000184,Company184 Labs,Fintech,Mid-Market,501-2000,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_7
+001000000185,Company185 Labs,SaaS,Mid-Market,1-50,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_1
+001000000186,Company186 Labs,Retail,Mid-Market,51-200,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_6
+001000000187,Company187 Labs,Retail,Enterprise,201-500,commerce_platforms,merchant_payouts,5,4,5,4,A1,VP Payments,comparison,AE_3
+001000000188,Company188 Labs,Retail,SMB,201-500,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_9
+001000000189,Company189 Labs,Media,Mid-Market,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_9
+001000000190,Company190 Labs,Fintech,Mid-Market,1-50,banking_software,embedded_accounts,4,3,4,4,A1,GM Embedded Finance,comparison,AM_10
+001000000191,Company191 Labs,Media,Mid-Market,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_8
+001000000192,Company192 Labs,Healthcare,SMB,1-50,healthcare_admin,patient_payments,3,2,4,4,A1,VP Strategy,comparison,AM_6
+001000000193,Company193 Labs,Healthcare,Enterprise,51-200,healthcare_admin,patient_payments,3,2,5,2,A3,VP Strategy,comparison,AE_3
+001000000194,Company194 Labs,Retail,Mid-Market,51-200,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_7
+001000000195,Company195 Labs,SaaS,SMB,51-200,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_1
+001000000196,Company196 Labs,Healthcare,Mid-Market,201-500,healthcare_admin,patient_payments,3,2,4,4,A1,VP Strategy,comparison,AM_2
+001000000197,Company197 Labs,Manufacturing,Mid-Market,51-200,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_7
+001000000198,Company198 Labs,Healthcare,Mid-Market,51-200,healthcare_admin,patient_payments,3,2,5,4,A1,VP Strategy,comparison,AM_4
+001000000199,Company199 Labs,Media,Mid-Market,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_2
+001000000200,Company200 Labs,Media,Mid-Market,501-2000,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_3
+001000000201,Company201 Labs,SaaS,Enterprise,51-200,vertical_saas,platform_monetization,4,4,5,4,A1,Head of Product,comparison,AE_7
+001000000202,Company202 Labs,Healthcare,Enterprise,501-2000,healthcare_admin,patient_payments,3,2,5,2,A3,VP Strategy,comparison,AE_3
+001000000203,Company203 Labs,Fintech,Mid-Market,501-2000,banking_software,embedded_accounts,4,3,4,4,A1,GM Embedded Finance,comparison,AM_10
+001000000204,Company204 Labs,Healthcare,Mid-Market,1-50,healthcare_admin,patient_payments,3,2,4,4,A1,VP Strategy,comparison,AM_8
+001000000205,Company205 Labs,Fintech,Mid-Market,51-200,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_7
+001000000206,Company206 Labs,Healthcare,SMB,51-200,healthcare_admin,patient_payments,3,2,4,4,A1,VP Strategy,comparison,AM_2
+001000000207,Company207 Labs,Retail,SMB,1-50,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_9
+001000000208,Company208 Labs,Retail,SMB,1-50,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_9
+001000000209,Company209 Labs,Healthcare,SMB,501-2000,healthcare_admin,patient_payments,3,2,4,4,A1,VP Strategy,comparison,AM_1
+001000000210,Company210 Labs,Retail,Enterprise,1-50,commerce_platforms,merchant_payouts,5,4,5,4,A1,VP Payments,comparison,AE_3
+001000000211,Company211 Labs,Fintech,Mid-Market,51-200,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_1
+001000000212,Company212 Labs,Healthcare,Mid-Market,1-50,healthcare_admin,patient_payments,3,2,5,4,A1,VP Strategy,comparison,AM_10
+001000000213,Company213 Labs,Manufacturing,Mid-Market,51-200,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_4
+001000000214,Company214 Labs,Manufacturing,Mid-Market,1-50,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_3
+001000000215,Company215 Labs,Fintech,Mid-Market,201-500,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_3
+001000000216,Company216 Labs,Retail,Mid-Market,51-200,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_2
+001000000217,Company217 Labs,Healthcare,SMB,501-2000,healthcare_admin,patient_payments,3,2,5,4,A1,VP Strategy,comparison,AM_2
+001000000218,Company218 Labs,Media,Mid-Market,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_6
+001000000219,Company219 Labs,Media,SMB,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_7
+001000000220,Company220 Labs,Retail,Mid-Market,51-200,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_10
+001000000221,Company221 Labs,Fintech,Mid-Market,51-200,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_7
+001000000222,Company222 Labs,SaaS,Mid-Market,1-50,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_1
+001000000223,Company223 Labs,Retail,Mid-Market,2000+,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_4
+001000000224,Company224 Labs,Manufacturing,Mid-Market,51-200,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_2
+001000000225,Company225 Labs,Healthcare,SMB,51-200,healthcare_admin,patient_payments,3,2,4,4,A1,VP Strategy,comparison,AM_2
+001000000226,Company226 Labs,Fintech,Enterprise,201-500,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AE_3
+001000000227,Company227 Labs,Media,SMB,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_1
+001000000228,Company228 Labs,Manufacturing,Mid-Market,51-200,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_5
+001000000229,Company229 Labs,Retail,Mid-Market,201-500,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_8
+001000000230,Company230 Labs,Manufacturing,Mid-Market,201-500,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_8
+001000000231,Company231 Labs,Media,Mid-Market,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_4
+001000000232,Company232 Labs,Fintech,SMB,501-2000,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_10
+001000000233,Company233 Labs,Media,Mid-Market,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_5
+001000000234,Company234 Labs,Healthcare,Mid-Market,501-2000,healthcare_admin,patient_payments,3,2,4,4,A1,VP Strategy,comparison,AM_9
+001000000235,Company235 Labs,Healthcare,Mid-Market,1-50,healthcare_admin,patient_payments,3,2,5,4,A1,VP Strategy,comparison,AM_8
+001000000236,Company236 Labs,Manufacturing,Mid-Market,1-50,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_3
+001000000237,Company237 Labs,Media,Mid-Market,501-2000,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_2
+001000000238,Company238 Labs,Manufacturing,SMB,501-2000,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_9
+001000000239,Company239 Labs,Fintech,Mid-Market,501-2000,banking_software,embedded_accounts,4,3,4,4,A1,GM Embedded Finance,comparison,AM_10
+001000000240,Company240 Labs,Fintech,Mid-Market,1-50,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_2
+001000000241,Company241 Labs,Fintech,SMB,201-500,banking_software,embedded_accounts,4,3,4,4,A1,GM Embedded Finance,comparison,AM_2
+001000000242,Company242 Labs,Fintech,SMB,51-200,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_2
+001000000243,Company243 Labs,Fintech,Mid-Market,51-200,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_3
+001000000244,Company244 Labs,Retail,Mid-Market,201-500,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_6
+001000000245,Company245 Labs,Retail,Enterprise,1-50,commerce_platforms,merchant_payouts,5,4,5,4,A1,VP Payments,comparison,AE_3
+001000000246,Company246 Labs,Healthcare,Mid-Market,51-200,healthcare_admin,patient_payments,3,2,4,4,A1,VP Strategy,comparison,AM_9
+001000000247,Company247 Labs,Fintech,SMB,501-2000,banking_software,embedded_accounts,4,3,4,4,A1,GM Embedded Finance,comparison,AM_10
+001000000248,Company248 Labs,Fintech,Mid-Market,51-200,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_4
+001000000249,Company249 Labs,Retail,Mid-Market,1-50,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_9
+001000000250,Company250 Labs,SaaS,Mid-Market,51-200,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_4
+001000000251,Company251 Labs,Fintech,Enterprise,51-200,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AE_3
+001000000252,Company252 Labs,Media,Mid-Market,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_7
+001000000253,Company253 Labs,Retail,Enterprise,501-2000,commerce_platforms,merchant_payouts,5,4,5,4,A1,VP Payments,comparison,AE_3
+001000000254,Company254 Labs,Media,Mid-Market,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_10
+001000000255,Company255 Labs,Media,Mid-Market,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_2
+001000000256,Company256 Labs,Media,Mid-Market,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_8
+001000000257,Company257 Labs,Healthcare,Mid-Market,51-200,healthcare_admin,patient_payments,3,2,5,4,A1,VP Strategy,comparison,AM_10
+001000000258,Company258 Labs,Healthcare,Mid-Market,501-2000,healthcare_admin,patient_payments,3,2,4,4,A1,VP Strategy,comparison,AM_3
+001000000259,Company259 Labs,Fintech,Mid-Market,201-500,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_5
+001000000260,Company260 Labs,Retail,Mid-Market,1-50,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_10
+001000000261,Company261 Labs,Healthcare,Mid-Market,1-50,healthcare_admin,patient_payments,3,2,4,4,A1,VP Strategy,comparison,AM_3
+001000000262,Company262 Labs,Media,Mid-Market,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_3
+001000000263,Company263 Labs,SaaS,Enterprise,501-2000,vertical_saas,platform_monetization,4,4,5,4,A1,Head of Product,comparison,AE_7
+001000000264,Company264 Labs,Retail,Mid-Market,51-200,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_6
+001000000265,Company265 Labs,Manufacturing,Mid-Market,51-200,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_5
+001000000266,Company266 Labs,SaaS,Mid-Market,51-200,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_2
+001000000267,Company267 Labs,Manufacturing,Enterprise,201-500,b2b_erp,vendor_payments,2,2,5,2,A3,Head of Revenue,comparison,AE_7
+001000000268,Company268 Labs,Manufacturing,Mid-Market,1-50,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_2
+001000000269,Company269 Labs,Manufacturing,Mid-Market,201-500,b2b_erp,vendor_payments,2,2,5,3,A2,Head of Revenue,comparison,AM_4
+001000000270,Company270 Labs,Healthcare,Enterprise,501-2000,healthcare_admin,patient_payments,3,2,4,2,A3,VP Strategy,comparison,AE_3
+001000000271,Company271 Labs,Media,Mid-Market,501-2000,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_1
+001000000272,Company272 Labs,Media,Mid-Market,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_7
+001000000273,Company273 Labs,Healthcare,Mid-Market,501-2000,healthcare_admin,patient_payments,3,2,5,4,A1,VP Strategy,comparison,AM_10
+001000000274,Company274 Labs,Manufacturing,Mid-Market,51-200,b2b_erp,vendor_payments,2,2,5,3,A2,Head of Revenue,comparison,AM_2
+001000000275,Company275 Labs,Retail,Mid-Market,51-200,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_7
+001000000276,Company276 Labs,Manufacturing,Mid-Market,51-200,b2b_erp,vendor_payments,2,2,4,3,A2,Head of Revenue,comparison,AM_6
+001000000277,Company277 Labs,SaaS,Mid-Market,1-50,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_1
+001000000278,Company278 Labs,SaaS,Mid-Market,51-200,vertical_saas,platform_monetization,4,4,5,5,A1,Head of Product,comparison,AM_6
+001000000279,Company279 Labs,Media,Mid-Market,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_4
+001000000280,Company280 Labs,Media,Mid-Market,201-500,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_6
+001000000281,Company281 Labs,Media,SMB,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_8
+001000000282,Company282 Labs,Media,Mid-Market,2000+,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_10
+001000000283,Company283 Labs,Media,Mid-Market,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_4
+001000000284,Company284 Labs,Manufacturing,Mid-Market,51-200,b2b_erp,vendor_payments,2,2,3,3,B2,Head of Revenue,comparison,AM_1
+001000000285,Company285 Labs,Healthcare,Mid-Market,51-200,healthcare_admin,patient_payments,3,2,4,4,A1,VP Strategy,comparison,AM_5
+001000000286,Company286 Labs,SaaS,Mid-Market,2000+,vertical_saas,platform_monetization,4,4,4,5,A1,Head of Product,comparison,AM_3
+001000000287,Company287 Labs,Retail,SMB,2000+,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_7
+001000000288,Company288 Labs,Manufacturing,Mid-Market,501-2000,b2b_erp,vendor_payments,2,2,5,3,A2,Head of Revenue,comparison,AM_10
+001000000289,Company289 Labs,Media,SMB,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_6
+001000000290,Company290 Labs,SaaS,Enterprise,1-50,vertical_saas,platform_monetization,4,4,5,4,A1,Head of Product,comparison,AE_7
+001000000291,Company291 Labs,Fintech,SMB,201-500,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_5
+001000000292,Company292 Labs,Retail,Enterprise,201-500,commerce_platforms,merchant_payouts,5,4,5,4,A1,VP Payments,comparison,AE_7
+001000000293,Company293 Labs,Healthcare,Mid-Market,51-200,healthcare_admin,patient_payments,3,2,4,4,A1,VP Strategy,comparison,AM_5
+001000000294,Company294 Labs,Fintech,SMB,201-500,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_8
+001000000295,Company295 Labs,Fintech,SMB,501-2000,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AM_9
+001000000296,Company296 Labs,Fintech,Enterprise,51-200,banking_software,embedded_accounts,4,3,5,4,A1,GM Embedded Finance,comparison,AE_7
+001000000297,Company297 Labs,Retail,Mid-Market,51-200,commerce_platforms,merchant_payouts,5,4,5,5,A1,VP Payments,comparison,AM_4
+001000000298,Company298 Labs,Media,Mid-Market,501-2000,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_5
+001000000299,Company299 Labs,Media,SMB,51-200,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AM_8
+001000000300,Company300 Labs,Media,Enterprise,1-50,property_management_software,rent_payments,5,5,5,5,A1,CEO / GM,primary,AE_3

@@ -1,0 +1,3 @@
+cohort,accounts,reply_rate_target,positive_reply_rate_target,meeting_rate_target,qualification_rate_target,success_criteria
+priority,50,0.05,0.03,0.015,0.6,A1/A2 priority wedge should exceed reply and meeting thresholds.
+comparison,25,0.037500000000000006,0.0225,0.01125,0.6,Primary wedge should outperform comparison segments on reply and meeting rates.
