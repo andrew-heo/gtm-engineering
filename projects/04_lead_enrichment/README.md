@@ -1,12 +1,12 @@
 # Lead Enrichment With Clay
 
-## Problem Statement
+## Introduction
 
-Inbound leads slow down when the system cannot quickly tell whether they belong to an existing record or need a new one.
+Inbound lead operations work best when CRM context and external enrichment data are combined before creating or updating records.
 
 ## Output
 
-This project shows how inbound lead data is verified, enriched, matched, and written back into Salesforce-style records.
+This project represents an inbound lead workflow that combines shared CRM context with Clay-style enrichment before creating or updating Salesforce-style records.
 
 ### Scenario Results
 

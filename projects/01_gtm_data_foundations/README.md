@@ -1,12 +1,12 @@
 # GTM Data Foundations
 
-## Problem Statement
+## Introduction
 
-Every GTM workflow is weaker if teams are looking at different versions of the business.
+This project creates the shared datasets used by the downstream workflows. In production, this would be the layer where core GTM inputs from systems like Salesforce and product telemetry are ingested and normalized into a canonical operating dataset.
 
 ## Output
 
-This project creates a shared canonical GTM dataset that downstream workflows can consume.
+This project acts as the shared GTM data layer for the portfolio, creating a canonical operating dataset that downstream workflows can consume.
 
 | Metric | Value |
 |---|---:|

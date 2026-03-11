@@ -1,12 +1,12 @@
 # Free-Tier Usage Alert For AEs
 
-## Problem Statement
+## Introduction
 
-Free-product usage is valuable only if someone acts on it.
+Product usage signals are most valuable when they can be activated through the external tools GTM teams use every day.
 
 ## Output
 
-This project produces an AE-ready Slack alert and Salesforce task payloads from free-tier product usage.
+This project represents a product-signal workflow on top of the shared GTM data layer, turning free-tier usage into AE-ready Slack alerts and Salesforce task payloads.
 
 ```text
 Top free-tier usage accounts: 2026-03-05 to 2026-03-11

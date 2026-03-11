@@ -1,12 +1,12 @@
 # Territory Balancer For AMs
 
-## Problem Statement
+## Introduction
 
-Some AMs end up carrying too much revenue, too much complexity, or too many renewals at once.
+Territory management is a core BAU workflow in a GTM ecosystem, and it breaks down when account coverage becomes uneven across AM books.
 
 ## Output
 
-This project produces reassignment recommendations and Salesforce update payloads to rebalance AM books.
+This project represents a BAU ownership and coverage workflow built on the shared GTM data layer, producing reassignment recommendations and Salesforce update payloads to rebalance AM books.
 
 ### Before State
 

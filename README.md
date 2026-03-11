@@ -1,8 +1,10 @@
 # Andrew Heo - GTM Engineering Portfolio
 
-## Problem Statement
+## Introduction
 
-GTM breaks when account ownership, product signals, and CRM data stop lining up.
+This project is an approximation of a startup GTM ecosystem: a shared GTM data layer, external tool integrations, and Python workflows that automate core BAU revenue operations.
+
+It shows the systems and automations I would stand up early as a GTM engineer to keep CRM data, ownership, product signals, and enrichment workflows aligned.
 
 ## Output
 
@@ -22,10 +24,13 @@ flowchart LR
     A --> D[Lead enrichment]
 ```
 
-One shared dataset. Multiple revenue workflows.
+One shared GTM data layer. Multiple operational workflows.
 
 ## Technical
 
+- shared GTM data layer
+- external tool integrations
+- Python workflows for BAU revenue operations
 - Python
 - pandas / numpy
 - Salesforce-style object model
