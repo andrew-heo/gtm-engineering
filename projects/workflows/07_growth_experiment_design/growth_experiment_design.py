@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Growth experiment simulation for Unit's out-of-the-box plan."""
+"""Growth experiment simulation for a new out-of-the-box plan."""
 
 from __future__ import annotations
 
@@ -11,11 +11,11 @@ import pandas as pd
 REPO_ROOT = Path(__file__).resolve().parents[3]
 sys.path.insert(0, str(REPO_ROOT / "src"))
 
-from gtm_engineering.config import DATA_DIR, UNIT_GROWTH_EXPERIMENT_DIR
+from gtm_engineering.config import DATA_DIR, GROWTH_EXPERIMENT_DIR
 from gtm_engineering.synthetic_data import load_sample_data
 
 
-OUTPUT_DIR = UNIT_GROWTH_EXPERIMENT_DIR / "output"
+OUTPUT_DIR = GROWTH_EXPERIMENT_DIR / "output"
 PRIMARY_WEDGE = "property_management_software"
 SUCCESS_REPLY_RATE = 0.05
 SUCCESS_POSITIVE_REPLY_RATE = 0.03
@@ -193,7 +193,7 @@ def build_outbound_messages(target_accounts: pd.DataFrame) -> pd.DataFrame:
                     f"Saw you're building a {account.segment_bucket.replace('_', ' ')} platform.\n\n"
                     "Many teams like yours are looking for ways to capture revenue from payment flows "
                     "without taking on a long fintech build.\n\n"
-                    "Unit recently launched an out-of-the-box program that helps platforms launch "
+                    "We recently launched an out-of-the-box program that helps platforms launch "
                     "embedded banking and payments in weeks instead of months.\n\n"
                     "Worth a quick conversation?"
                 ),

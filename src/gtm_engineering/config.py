@@ -40,7 +40,7 @@ FREETIER_ALERT_DIR = WORKFLOWS_ROOT / "03_freetier_usage_alert"
 LEAD_ENRICHMENT_DIR = WORKFLOWS_ROOT / "04_lead_enrichment"
 RENEWAL_AUTOMATION_DIR = WORKFLOWS_ROOT / "05_am_renewal_form_automation"
 MARKETING_ATTRIBUTION_DIR = WORKFLOWS_ROOT / "06_marketing_attribution_and_funnel_model"
-UNIT_GROWTH_EXPERIMENT_DIR = WORKFLOWS_ROOT / "07_unit_growth_experiment"
+GROWTH_EXPERIMENT_DIR = WORKFLOWS_ROOT / "07_growth_experiment_design"
 
 SALESFORCE_CONFIG = {
     "username": os.getenv("SFDC_USERNAME", DEFAULT_SFDC_USERNAME),

@@ -1,8 +1,8 @@
-# Unit Growth Experiment
+# Growth Experiment Design
 
 ## Introduction
 
-This project simulates a Growth Manager experiment for Unit’s new out-of-the-box plan. The business problem is that current revenue is concentrated in large custom-plan customers, while the future of the company depends on opening a faster-moving growth wedge around a more standardized plan.
+This project simulates a Growth Manager experiment for a newly launched out-of-the-box plan. The business problem is that current revenue is concentrated in large custom-plan customers, while the future of the company depends on opening a faster-moving growth wedge around a more standardized plan.
 
 ## Business Problem
 
@@ -10,7 +10,7 @@ The custom plan likely wins larger, slower enterprise deals. The out-of-the-box 
 
 ## Experiment Hypothesis
 
-If Unit targets software platforms with strong payment-flow monetization potential and clear product fit for an out-of-the-box embedded-finance program, then messaging centered on **speed to launch** and **revenue capture from payment flows** should outperform generic embedded-finance messaging on:
+If a company targets software platforms with strong payment-flow monetization potential and clear product fit for an out-of-the-box embedded-finance program, then messaging centered on **speed to launch** and **revenue capture from payment flows** should outperform generic embedded-finance messaging on:
 
 - reply rate
 - positive reply rate
@@ -105,7 +105,7 @@ Saw you're building a property management platform.
 
 Many teams like yours are looking for ways to capture revenue from payment flows without taking on a long fintech build.
 
-Unit recently launched an out-of-the-box program that helps platforms launch embedded banking and payments in weeks instead of months.
+We recently launched an out-of-the-box program that helps platforms launch embedded banking and payments in weeks instead of months.
 
 Worth a quick conversation?
 
@@ -141,5 +141,5 @@ The experiment is successful if the primary wedge clears those thresholds and ou
 Run:
 
 ```bash
-python3 projects/workflows/07_unit_growth_experiment/unit_growth_experiment.py
+python3 projects/workflows/07_growth_experiment_design/growth_experiment_design.py
 ```
