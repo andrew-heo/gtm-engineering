@@ -6,7 +6,7 @@ Some AMs end up carrying too much revenue, too much complexity, or too many rene
 
 ## Output
 
-This project shows the book before and after rebalancing.
+This project produces reassignment recommendations and Salesforce update payloads to rebalance AM books.
 
 ### Before State
 
@@ -26,7 +26,7 @@ This project shows the book before and after rebalancing.
 | Avg products per AM | 2.3 | 3.1 |
 | Avg ICP per AM | 2.1 | 3.0 |
 
-The book becomes materially tighter after rebalancing, especially on revenue and product complexity.
+The book becomes materially tighter after rebalancing, especially on revenue and product complexity, while preserving locked accounts.
 
 ## Logic
 
@@ -42,6 +42,7 @@ Only paying SMB and Mid-Market accounts are included. Enterprise stays out of sc
 
 ## Technical
 
+- territory balancing, reassignment, and Salesforce writeback payload generation
 - uses canonical `owner_id` with `owner_role = AM`
 - preserves `must_keep_with_owner`
 - exports:

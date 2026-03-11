@@ -6,7 +6,7 @@ Free-product usage is valuable only if someone acts on it.
 
 ## Output
 
-This project produces an AE-ready usage alert.
+This project produces an AE-ready Slack alert and Salesforce task payloads from free-tier product usage.
 
 ```text
 Top free-tier usage accounts: 2026-03-05 to 2026-03-11
@@ -17,7 +17,7 @@ Top free-tier usage accounts: 2026-03-05 to 2026-03-11
 5. Free Freeworkspace175 | owner=AE_8 | owner_role=AE | events=6 | users=4 | top user=user2@freeworkspace175.com (33%)
 ```
 
-The output is simple: who is active, who owns it, and who the most engaged user is.
+The output is simple: who is active, who owns it, who the most engaged user is, and what follow-up actions should be created.
 
 ## Logic
 
@@ -33,6 +33,7 @@ Free-product accounts resolve to AEs through canonical ownership.
 
 ## Technical
 
+- usage signal detection, Slack alerting, and Salesforce task creation
 - 7-day lookback
 - free-product accounts only
 - ranks by total events and active users

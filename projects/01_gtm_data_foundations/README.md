@@ -6,7 +6,7 @@ Every GTM workflow is weaker if teams are looking at different versions of the b
 
 ## Output
 
-This project creates one operating picture of the company.
+This project creates a shared canonical GTM dataset that downstream workflows can consume.
 
 | Metric | Value |
 |---|---:|
@@ -25,7 +25,7 @@ This project creates one operating picture of the company.
 | Opportunities | Past 365 days of pipeline creation |
 | Usage events | Past 7 days |
 
-This means the lead file shows recent demand, the opportunity file shows the last year of pipeline creation, and the usage file shows the last week of product engagement.
+This means the lead file shows recent demand, the opportunity file shows the last year of pipeline creation, and the usage file shows the last week of product engagement in one normalized operating view.
 
 ### Account Counts
 
@@ -63,6 +63,9 @@ Business rules:
 
 ## Technical
 
+- synthetic GTM source generation
+- canonical dataset creation across owners, accounts, leads, opportunities, and usage events
+- normalized CSV outputs with modeled time windows for downstream workflows
 - `owners.csv`
 - `accounts.csv`
 - `leads.csv`

@@ -6,12 +6,12 @@ GTM breaks when account ownership, product signals, and CRM data stop lining up.
 
 ## Output
 
-| Project | Business Output | Why It Matters |
+| Project | Business Output | Technical Details |
 |---|---|---|
-| `01_gtm_data_foundations` | One operating picture of the company | Every workflow runs off the same data |
-| `02_territory_balancer` | Before vs after AM imbalance view | Shows where ownership can be rebalanced |
-| `03_freetier_usage_alert` | AE-ready free-product signal | Turns usage into action |
-| `04_lead_enrichment` | Matched and enriched lead outcome | Speeds up routing and follow-up |
+| `01_gtm_data_foundations` | Clean & actionable data | Data ingestion & normalization |
+| `02_territory_balancer` | Balance AM territories | Territory balancing, reassignment, & Salesforce writeback |
+| `03_freetier_usage_alert` | Weekly alerts to AEs on free-tier usage | Usage signal detection, Slack alerting, & Salesforce task creation |
+| `04_lead_enrichment` | Lead enrichment & SFDC update | Lead intake, company-email verification, enrichment, & Salesforce update |
 
 ## Logic
 

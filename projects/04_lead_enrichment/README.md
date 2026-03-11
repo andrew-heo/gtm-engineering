@@ -6,7 +6,7 @@ Inbound leads slow down when the system cannot quickly tell whether they belong 
 
 ## Output
 
-This project shows what the system decides and what it adds.
+This project shows how inbound lead data is verified, enriched, matched, and written back into Salesforce-style records.
 
 ### Scenario Results
 
@@ -30,7 +30,7 @@ This project shows what the system decides and what it adds.
 | Enriched company name | `Company050 Labs` |
 | Enriched job title | `Operations Leader` |
 
-The value is clarity: the system tells you whether to reuse, attach, or create.
+The value is clarity: the system tells you whether to reuse, attach, or create while improving the quality of the CRM record.
 
 ## Logic
 
@@ -49,6 +49,7 @@ Reuse what exists before creating anything new.
 
 ## Technical
 
+- lead intake, company-email verification, CRM matching, enrichment, and Salesforce update
 - checks email type
 - checks for existing lead by email
 - checks for existing account by domain
