@@ -2,18 +2,11 @@
 
 ## Problem Statement
 
-Revenue workflows fail when every team is looking at a different version of the business. This project creates one operating picture for owners, accounts, leads, pipeline, and product usage.
+Every GTM workflow is weaker if teams are looking at different versions of the business.
 
 ## Output
 
-- `owners.csv`
-- `accounts.csv`
-- `leads.csv`
-- `opportunities.csv`
-- `product_usage_events.csv`
-- `output/data_summary.csv`
-
-Current snapshot:
+This project creates one operating picture of the company.
 
 | Metric | Value |
 |---|---:|
@@ -40,7 +33,7 @@ Current snapshot:
 | Mid-Market | 67.3% | 31.3% |
 | Enterprise | 6.0% | 28.3% |
 
-The paying base is mostly Mid-Market. The free-product base is broader, with SMB the largest slice.
+The paying base is concentrated in Mid-Market. The free-product base is broader, with SMB the largest slice.
 
 ## Logic
 
@@ -60,11 +53,12 @@ Business rules:
 
 ## Technical
 
-- `owners.csv`: AE and AM coverage
-- `accounts.csv`: canonical owner fields plus AE/AM metadata
-- `leads.csv`: inbound demand with optional account match
-- `opportunities.csv`: pipeline tied to accounts and AEs
-- `product_usage_events.csv`: product behavior tied back to accounts
+- `owners.csv`
+- `accounts.csv`
+- `leads.csv`
+- `opportunities.csv`
+- `product_usage_events.csv`
+- `output/data_summary.csv`
 
 Run:
 

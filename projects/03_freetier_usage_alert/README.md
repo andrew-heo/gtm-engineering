@@ -2,18 +2,22 @@
 
 ## Problem Statement
 
-Free-product activity is easy to ignore until it becomes a missed pipeline opportunity. This project turns engaged free-product usage into an AE follow-up list.
+Free-product usage is valuable only if someone acts on it.
 
 ## Output
 
-- `output/free_tier_usage_alerts.csv`
-- `output/slack_message_payload.csv`
-- `output/salesforce_tasks.csv`
+This project produces an AE-ready usage alert.
 
-What comes out:
-- ranked free-product accounts by recent engagement
-- the most active user for each account
-- AE-ready Slack and Salesforce follow-up payloads
+```text
+Top free-tier usage accounts: 2026-03-05 to 2026-03-11
+1. Free Freeworkspace099 | owner=AE_5 | owner_role=AE | events=7 | users=4 | top user=user2@freeworkspace099.com (43%)
+2. Free Freeworkspace186 | owner=AE_8 | owner_role=AE | events=7 | users=4 | top user=user1@freeworkspace186.com (43%)
+3. Free Freeworkspace002 | owner=AE_4 | owner_role=AE | events=7 | users=3 | top user=user3@freeworkspace002.com (43%)
+4. Free Freeworkspace003 | owner=AE_7 | owner_role=AE | events=7 | users=3 | top user=user4@freeworkspace003.com (71%)
+5. Free Freeworkspace175 | owner=AE_8 | owner_role=AE | events=6 | users=4 | top user=user2@freeworkspace175.com (33%)
+```
+
+The output is simple: who is active, who owns it, and who the most engaged user is.
 
 ## Logic
 
@@ -25,15 +29,17 @@ flowchart LR
     D --> E[Route to AE owner]
 ```
 
-This workflow uses canonical account ownership. For free-product accounts, that owner is always the AE.
+Free-product accounts resolve to AEs through canonical ownership.
 
 ## Technical
 
-- looks back 7 days
-- uses free-product accounts only
+- 7-day lookback
+- free-product accounts only
 - ranks by total events and active users
-- resolves owner from canonical `owner_id`
-- exports Slack and Salesforce task payloads in dry-run mode
+- exports:
+  - `output/free_tier_usage_alerts.csv`
+  - `output/slack_message_payload.csv`
+  - `output/salesforce_tasks.csv`
 
 Run:
 

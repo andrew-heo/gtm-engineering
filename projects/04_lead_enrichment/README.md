@@ -2,17 +2,35 @@
 
 ## Problem Statement
 
-Inbound leads lose value when routing is slow or unclear. This project shows how to decide quickly whether the lead belongs to an existing account, an existing lead, or a brand-new record.
+Inbound leads slow down when the system cannot quickly tell whether they belong to an existing record or need a new one.
 
 ## Output
 
-- `output/lead_enrichment_scenarios.csv`
+This project shows what the system decides and what it adds.
 
-What comes out:
-- the path taken for each lead scenario
-- matched account context
-- matched owner context
-- the next action the system would take
+### Scenario Results
+
+| Scenario | Path | Account Segment | Matched Owner | Owner Role |
+|---|---|---|---|---|
+| `existing_lead` | existing lead reused | SMB | AE_5 | AE |
+| `matched_account` | new lead under matched account | Mid-Market | AM_5 | AM |
+| `net_new` | new account and new lead | SMB |  |  |
+| `personal_email` | rejected |  |  |  |
+
+### Example: What Came In vs What The System Resolved
+
+| Stage | Value |
+|---|---|
+| Inbound email | `newperson@company050.com` |
+| Inbound company | `Company050 Labs` |
+| Matched account | `001000000050` |
+| Matched segment | `Mid-Market` |
+| Matched owner | `AM_5` |
+| Matched owner role | `AM` |
+| Enriched company name | `Company050 Labs` |
+| Enriched job title | `Operations Leader` |
+
+The value is clarity: the system tells you whether to reuse, attach, or create.
 
 ## Logic
 
@@ -27,15 +45,16 @@ flowchart TD
     F -->|No| H[Create new account and lead]
 ```
 
-The important business idea is simple: reuse what already exists before creating anything new.
+Reuse what exists before creating anything new.
 
 ## Technical
 
-- checks personal email vs company email
+- checks email type
 - checks for existing lead by email
 - checks for existing account by domain
-- enriches the record with Clay-style data
-- reports canonical owner and account segment when an account match exists
+- enriches person and company fields
+- exports:
+  - `output/lead_enrichment_scenarios.csv`
 
 Run:
 

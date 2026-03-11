@@ -2,19 +2,31 @@
 
 ## Problem Statement
 
-SMB and Mid-Market books drift. Some AMs inherit too much revenue, too much complexity, or too many renewals in the same quarter. That creates uneven coverage.
+Some AMs end up carrying too much revenue, too much complexity, or too many renewals at once.
 
 ## Output
 
-- `output/territory_summary_before.csv`
-- `output/territory_summary_after.csv`
-- `output/territory_reassignment_recommendations.csv`
-- `output/salesforce_update_payloads.csv`
+This project shows the book before and after rebalancing.
 
-What comes out:
-- before/after owner book summaries
-- account-level reassignment recommendations
-- a dry-run Salesforce `OwnerId` update file
+### Before State
+
+| Metric | Low | High |
+|---|---:|---:|
+| Accounts per AM | 10 | 46 |
+| Avg MRR per AM | 1,445 | 3,581 |
+| Avg products per AM | 1.2 | 3.3 |
+| Avg ICP per AM | 1.2 | 3.1 |
+
+### After State
+
+| Metric | Low | High |
+|---|---:|---:|
+| Accounts per AM | 10 | 46 |
+| Avg MRR per AM | 2,510 | 3,125 |
+| Avg products per AM | 2.3 | 3.1 |
+| Avg ICP per AM | 2.1 | 3.0 |
+
+The book becomes materially tighter after rebalancing, especially on revenue and product complexity.
 
 ## Logic
 
@@ -26,21 +38,17 @@ flowchart LR
     D --> E[Export recommended owner changes]
 ```
 
-The script only touches paying SMB and Mid-Market accounts. Enterprise is out of scope here.
-
-The balancing logic tries to make each AM book look closer to the overall customer base on:
-- MRR
-- product footprint
-- ICP tier
-- renewal mix by quarter
+Only paying SMB and Mid-Market accounts are included. Enterprise stays out of scope.
 
 ## Technical
 
-- filters to paying accounts only
-- filters to `SMB` and `Mid-Market` only
-- treats canonical `owner_id` / `owner_role = AM` as the live book owner
+- uses canonical `owner_id` with `owner_role = AM`
 - preserves `must_keep_with_owner`
-- exports owner changes as Salesforce payloads
+- exports:
+  - `output/territory_summary_before.csv`
+  - `output/territory_summary_after.csv`
+  - `output/territory_reassignment_recommendations.csv`
+  - `output/salesforce_update_payloads.csv`
 
 Run:
 

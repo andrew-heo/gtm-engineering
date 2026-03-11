@@ -2,16 +2,16 @@
 
 ## Problem Statement
 
-GTM teams break when ownership, product signals, and CRM data stop lining up. This repo shows how GTM engineering can make that system usable.
+GTM breaks when account ownership, product signals, and CRM data stop lining up.
 
 ## Output
 
-| Project | What It Produces | Why It Matters |
+| Project | Business Output | Why It Matters |
 |---|---|---|
-| `01_gtm_data_foundations` | A shared GTM dataset | Gives every workflow the same source of truth |
-| `02_territory_balancer` | AM owner reassignment recommendations | Keeps SMB and Mid-Market books balanced |
-| `03_freetier_usage_alert` | AE alerts for engaged free-product accounts | Turns product usage into pipeline signals |
-| `04_lead_enrichment` | Routed and enriched inbound lead actions | Speeds up account matching and follow-up |
+| `01_gtm_data_foundations` | One operating picture of the company | Every workflow runs off the same data |
+| `02_territory_balancer` | Before vs after AM imbalance view | Shows where ownership can be rebalanced |
+| `03_freetier_usage_alert` | AE-ready free-product signal | Turns usage into action |
+| `04_lead_enrichment` | Matched and enriched lead outcome | Speeds up routing and follow-up |
 
 ## Logic
 
@@ -22,7 +22,7 @@ flowchart LR
     A --> D[Lead enrichment]
 ```
 
-The point is simple: one clean data model, then multiple revenue workflows on top of it.
+One shared dataset. Multiple revenue workflows.
 
 ## Technical
 
