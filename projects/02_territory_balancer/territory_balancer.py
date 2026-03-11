@@ -27,6 +27,7 @@ SALESFORCE_ACCOUNT_OBJECT = "Account"
 SALESFORCE_OWNER_FIELD_NAME = "OwnerId"
 PAID_ACCOUNT_MRR_THRESHOLD = 0
 BALANCED_ACCOUNT_SEGMENTS = {"SMB", "Mid-Market"}
+BALANCE_IMPROVEMENT_OUTPUT = "territory_balance_improvement_summary.csv"
 
 
 def prepare_accounts(accounts: pd.DataFrame, owners: pd.DataFrame) -> pd.DataFrame:
@@ -69,6 +70,102 @@ def calculate_book_statistics(accounts: pd.DataFrame) -> pd.DataFrame:
             territory_summary[renewal_quarter] = 0
 
     return territory_summary.sort_values("current_owner_name").reset_index(drop=True)
+
+
+def calculate_balance_summary(territory_summary: pd.DataFrame) -> pd.DataFrame:
+    summary_rows = [
+        {
+            "metric": "Accounts per AM",
+            "low": float(territory_summary["account_count"].min()),
+            "high": float(territory_summary["account_count"].max()),
+            "mean": float(territory_summary["account_count"].mean()),
+            "sum": float(territory_summary["account_count"].sum()),
+            "range": float(territory_summary["account_count"].max() - territory_summary["account_count"].min()),
+            "stddev": float(territory_summary["account_count"].std(ddof=0)),
+        },
+        {
+            "metric": "Avg MRR per AM",
+            "low": float(territory_summary["avg_mrr"].min()),
+            "high": float(territory_summary["avg_mrr"].max()),
+            "mean": float(territory_summary["avg_mrr"].mean()),
+            "sum": float(territory_summary["avg_mrr"].sum()),
+            "range": float(territory_summary["avg_mrr"].max() - territory_summary["avg_mrr"].min()),
+            "stddev": float(territory_summary["avg_mrr"].std(ddof=0)),
+        },
+        {
+            "metric": "Total MRR per AM",
+            "low": float(territory_summary["total_mrr"].min()),
+            "high": float(territory_summary["total_mrr"].max()),
+            "mean": float(territory_summary["total_mrr"].mean()),
+            "sum": float(territory_summary["total_mrr"].sum()),
+            "range": float(territory_summary["total_mrr"].max() - territory_summary["total_mrr"].min()),
+            "stddev": float(territory_summary["total_mrr"].std(ddof=0)),
+        },
+    ]
+
+    for quarter in RENEWAL_QUARTERS:
+        summary_rows.append(
+            {
+                "metric": f"{quarter} renewals per AM",
+                "low": float(territory_summary[quarter].min()),
+                "high": float(territory_summary[quarter].max()),
+                "mean": float(territory_summary[quarter].mean()),
+                "sum": float(territory_summary[quarter].sum()),
+                "range": float(territory_summary[quarter].max() - territory_summary[quarter].min()),
+                "stddev": float(territory_summary[quarter].std(ddof=0)),
+            }
+        )
+
+    return pd.DataFrame(summary_rows)
+
+
+def calculate_improvement_summary(before_summary: pd.DataFrame, after_summary: pd.DataFrame) -> pd.DataFrame:
+    comparison = before_summary.merge(after_summary, on="metric", suffixes=("_before", "_after"))
+    comparison["range_improvement"] = comparison["range_before"] - comparison["range_after"]
+    comparison["range_improvement_pct"] = np.where(
+        comparison["range_before"] > 0,
+        comparison["range_improvement"] / comparison["range_before"],
+        0,
+    )
+    comparison["stddev_improvement"] = comparison["stddev_before"] - comparison["stddev_after"]
+    comparison["stddev_improvement_pct"] = np.where(
+        comparison["stddev_before"] > 0,
+        comparison["stddev_improvement"] / comparison["stddev_before"],
+        0,
+    )
+    return comparison
+
+
+def build_normalized_target_counts(accounts: pd.DataFrame, owner_names: list[str]) -> dict[str, int]:
+    locked_counts = accounts[accounts["must_keep_with_owner"].astype(bool)]["current_owner_name"].value_counts().to_dict()
+    total_accounts = len(accounts)
+    base_count = total_accounts // len(owner_names)
+    remainder = total_accounts % len(owner_names)
+    sorted_owner_names = sorted(owner_names, key=lambda owner_name: (locked_counts.get(owner_name, 0), owner_name))
+    target_counts = {owner_name: base_count for owner_name in owner_names}
+
+    for owner_name in sorted_owner_names[:remainder]:
+        target_counts[owner_name] += 1
+
+    for owner_name, locked_count in locked_counts.items():
+        if locked_count > target_counts[owner_name]:
+            target_counts[owner_name] = locked_count
+
+    difference = total_accounts - sum(target_counts.values())
+    if difference != 0:
+        adjustable = sorted(owner_names, key=lambda owner_name: (target_counts[owner_name], owner_name), reverse=difference < 0)
+        step = 1 if difference > 0 else -1
+        remaining = abs(difference)
+        while remaining > 0:
+            for owner_name in adjustable:
+                proposed = target_counts[owner_name] + step
+                if proposed >= locked_counts.get(owner_name, 0):
+                    target_counts[owner_name] = proposed
+                    remaining -= 1
+                    if remaining == 0:
+                        break
+
+    return target_counts
 
 
 def build_owner_state(accounts: pd.DataFrame, owner_names: list[str]) -> dict[str, dict[str, object]]:
@@ -116,7 +213,7 @@ def assign_accounts(accounts: pd.DataFrame, owner_names: list[str]) -> pd.DataFr
 
     population_means = working[FEATURE_COLUMNS].mean().to_numpy()
     population_stds = working[FEATURE_COLUMNS].std().replace(0, 1).to_numpy()
-    target_counts = accounts["current_owner_name"].value_counts().to_dict()
+    target_counts = build_normalized_target_counts(accounts=accounts, owner_names=owner_names)
     quarter_caps = {
         quarter: int(np.ceil((working["renewal_quarter"] == quarter).sum() / len(owner_names)))
         for quarter in RENEWAL_QUARTERS
@@ -222,21 +319,44 @@ def main() -> None:
     owner_names = owners[owners["owner_role"] == AM_ROLE]["owner_name"].tolist()
 
     before_stats = calculate_book_statistics(accounts)
+    before_balance_summary = calculate_balance_summary(before_stats)
     after_accounts = assign_accounts(accounts=accounts, owner_names=owner_names)
     after_stats = calculate_book_statistics(after_accounts)
+    after_balance_summary = calculate_balance_summary(after_stats)
+    improvement_summary = calculate_improvement_summary(before_balance_summary, after_balance_summary)
     recommendations = build_recommendations(accounts, after_accounts, owners)
     payloads = build_salesforce_payloads(recommendations)
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     before_stats.to_csv(OUTPUT_DIR / "territory_summary_before.csv", index=False)
     after_stats.to_csv(OUTPUT_DIR / "territory_summary_after.csv", index=False)
+    improvement_summary.to_csv(OUTPUT_DIR / BALANCE_IMPROVEMENT_OUTPUT, index=False)
     recommendations.to_csv(OUTPUT_DIR / "territory_reassignment_recommendations.csv", index=False)
     payloads.to_csv(OUTPUT_DIR / "salesforce_update_payloads.csv", index=False)
 
     print("Before rebalance:")
     print(before_stats.to_string(index=False))
+    print("\nBefore rebalance summary:")
+    print(before_balance_summary.to_string(index=False))
     print("\nAfter rebalance:")
     print(after_stats.to_string(index=False))
+    print("\nAfter rebalance summary:")
+    print(after_balance_summary.to_string(index=False))
+    print("\nBalance improvement summary:")
+    print(
+        improvement_summary[
+            [
+                "metric",
+                "range_before",
+                "range_after",
+                "range_improvement",
+                "range_improvement_pct",
+                "stddev_before",
+                "stddev_after",
+                "stddev_improvement_pct",
+            ]
+        ].to_string(index=False)
+    )
     print("\nRecommended reassignments:")
     print(
         recommendations[recommendations["reassignment_required"]]

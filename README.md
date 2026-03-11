@@ -8,6 +8,15 @@ It shows the systems and automations I would stand up early as a GTM engineer to
 
 ## Output
 
+The shared dataset simulates a Series C SaaS company at roughly `$50M ARR` from paying customers, planned to grow about `30%` over the next 12 months.
+
+| Business Demographic | Value |
+|---|---:|
+| Current paid ARR | `$50.0M` |
+| Next-12-month growth target | `30%` |
+| Future `NNARR` pipeline | `$50.0M` |
+| Planning win rate | `30%` |
+
 | Project | Business Output | Technical Details |
 |---|---|---|
 | `01_gtm_data_foundations` | Clean & actionable data | Data ingestion & normalization |

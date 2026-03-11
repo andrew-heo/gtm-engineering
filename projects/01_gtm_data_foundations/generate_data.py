@@ -16,6 +16,9 @@ from gtm_engineering.synthetic_data import (
     FREE_PLAN,
     LEAD_MODELED_TIMEFRAME_DAYS,
     OPPORTUNITY_MODELED_TIMEFRAME_DAYS,
+    TARGET_ANNUAL_GROWTH_RATE,
+    TARGET_PIPELINE_WIN_RATE,
+    TARGET_COMPANY_ARR,
     USAGE_EVENT_MODELED_TIMEFRAME_DAYS,
     save_synthetic_gtm_data,
 )
@@ -28,11 +31,17 @@ SUMMARY_ROW_ORDER = [
     "opportunities",
         "product_usage_events",
         "paid_accounts",
-        "free_plan_accounts",
-        "open_opportunities",
-        "matched_leads",
-        "lead_modeled_timeframe_days",
-        "opportunity_modeled_timeframe_days",
+    "free_plan_accounts",
+    "open_opportunities",
+    "current_paid_arr",
+    "target_company_arr",
+    "target_arr_growth_rate",
+    "future_pipeline_nnarr",
+    "expected_won_nnarr",
+    "pipeline_win_rate_assumption",
+    "matched_leads",
+    "lead_modeled_timeframe_days",
+    "opportunity_modeled_timeframe_days",
         "usage_event_modeled_timeframe_days",
         "lead_request_timestamp_min",
         "lead_request_timestamp_max",
@@ -51,6 +60,9 @@ def build_summary(dataframes: dict[str, pd.DataFrame]) -> pd.DataFrame:
     lead_timestamps = pd.to_datetime(leads["request_timestamp"], utc=True)
     opportunity_created_dates = pd.to_datetime(opportunities["created_date"], utc=True)
     usage_event_timestamps = pd.to_datetime(usage_events["event_timestamp"], utc=True)
+    current_paid_arr = int(accounts.loc[accounts["account_mrr"] > 0, "account_mrr"].sum() * 12)
+    future_pipeline_nnarr = int(opportunities["nnarr"].sum())
+    expected_won_nnarr = int(round(future_pipeline_nnarr * TARGET_PIPELINE_WIN_RATE))
 
     summary_values = {
         "owners": len(dataframes["owners"]),
@@ -61,6 +73,12 @@ def build_summary(dataframes: dict[str, pd.DataFrame]) -> pd.DataFrame:
         "paid_accounts": int((accounts["account_mrr"] > 0).sum()),
         "free_plan_accounts": int((accounts["plan_type"] == FREE_PLAN).sum()),
         "open_opportunities": int(opportunities["is_open"].sum()),
+        "current_paid_arr": current_paid_arr,
+        "target_company_arr": TARGET_COMPANY_ARR,
+        "target_arr_growth_rate": TARGET_ANNUAL_GROWTH_RATE,
+        "future_pipeline_nnarr": future_pipeline_nnarr,
+        "expected_won_nnarr": expected_won_nnarr,
+        "pipeline_win_rate_assumption": TARGET_PIPELINE_WIN_RATE,
         "matched_leads": int(leads["matched_account_id"].notna().sum()),
         "lead_modeled_timeframe_days": LEAD_MODELED_TIMEFRAME_DAYS,
         "opportunity_modeled_timeframe_days": OPPORTUNITY_MODELED_TIMEFRAME_DAYS,
