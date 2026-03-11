@@ -45,5 +45,5 @@ Free-product accounts resolve to AEs through canonical ownership.
 Run:
 
 ```bash
-python3 projects/03_freetier_usage_alert/freetier_usage_alert.py
+python3 projects/workflows/03_freetier_usage_alert/freetier_usage_alert.py
 ```

@@ -8,18 +8,18 @@ opportunity_id,account_id,account_name,created_date,close_date,stage_name,nnarr,
 006000000007,001000000231,Company231 Labs,2026-02-11,2026-08-13,Prospecting,58386,Unattributed,,,Unattributed,,
 006000000008,001000000199,Company199 Labs,2025-11-23,2027-01-05,Prospecting,396074,Unattributed,,,Unattributed,,
 006000000009,001000000072,Company072 Labs,2025-12-31,2026-10-09,Discovery,228056,Unattributed,,,Unattributed,,
-006000000010,001000000209,Company209 Labs,2026-01-01,2026-12-16,Negotiation,354895,Partner,Channel Partner,2025-06-13T14:58:07.453589+00:00,Unattributed,,
+006000000010,001000000209,Company209 Labs,2026-01-01,2026-12-16,Negotiation,354895,Partner,Channel Partner,2025-06-13T16:05:16.245484+00:00,Unattributed,,
 006000000011,001000000256,Company256 Labs,2026-03-11,2026-05-24,Discovery,390714,Unattributed,,,Unattributed,,
-006000000012,001000000156,Company156 Labs,2025-12-03,2027-02-28,Negotiation,58386,Organic Search,SEO - Nonbrand,2025-09-04T14:58:07.452871+00:00,Email,Mid-Funnel Nurture,2025-11-26T14:58:07.452871+00:00
+006000000012,001000000156,Company156 Labs,2025-12-03,2027-02-28,Negotiation,58386,Organic Search,SEO - Nonbrand,2025-09-04T16:05:16.244728+00:00,Email,Mid-Funnel Nurture,2025-11-26T16:05:16.244728+00:00
 006000000013,001000000214,Company214 Labs,2025-11-29,2026-11-30,Closed Won,58386,Unattributed,,,Unattributed,,
 006000000014,001000000033,Company033 Labs,2026-01-29,2027-02-04,Closed Lost,63416,Unattributed,,,Unattributed,,
 006000000015,001000000137,Company137 Labs,2026-02-08,2026-11-11,Discovery,136442,Unattributed,,,Unattributed,,
-006000000016,001000000268,Company268 Labs,2026-01-28,2026-11-28,Prospecting,58386,Field Event,Executive Dinner,2025-08-09T14:58:07.447239+00:00,Direct,Direct Visit,2025-11-03T14:58:07.447239+00:00
+006000000016,001000000268,Company268 Labs,2026-01-28,2026-11-28,Prospecting,58386,Field Event,Executive Dinner,2025-08-09T16:05:16.238091+00:00,Direct,Direct Visit,2025-11-03T16:05:16.238091+00:00
 006000000017,001000000240,Company240 Labs,2025-12-24,2026-09-25,Proposal,167026,Unattributed,,,Unattributed,,
 006000000018,001000000204,Company204 Labs,2026-03-07,2027-02-06,Closed Won,100140,Unattributed,,,Unattributed,,
 006000000019,001000000250,Company250 Labs,2026-02-28,2026-10-09,Prospecting,128568,Unattributed,,,Unattributed,,
 006000000020,001000000188,Company188 Labs,2026-02-19,2026-12-24,Discovery,600000,Unattributed,,,Unattributed,,
-006000000021,001000000189,Company189 Labs,2025-12-06,2027-02-28,Discovery,332230,Paid Search,Google Search - Demo,2025-08-01T14:58:07.456507+00:00,Webinar,Pipeline Webinar,2025-09-18T14:58:07.456507+00:00
+006000000021,001000000189,Company189 Labs,2025-12-06,2027-02-28,Discovery,332230,Paid Search,Google Search - Demo,2025-08-01T16:05:16.248876+00:00,Webinar,Pipeline Webinar,2025-09-18T16:05:16.248876+00:00
 006000000022,001000000033,Company033 Labs,2026-01-12,2026-06-09,Proposal,279874,Unattributed,,,Unattributed,,
 006000000023,001000000055,Company055 Labs,2026-02-18,2026-06-30,Proposal,276621,Unattributed,,,Unattributed,,
 006000000024,001000000297,Company297 Labs,2025-11-21,2026-10-26,Prospecting,215837,Unattributed,,,Unattributed,,
@@ -47,33 +47,33 @@ opportunity_id,account_id,account_name,created_date,close_date,stage_name,nnarr,
 006000000046,001000000260,Company260 Labs,2026-03-06,2027-03-06,Prospecting,166089,Unattributed,,,Unattributed,,
 006000000047,001000000235,Company235 Labs,2026-03-06,2026-06-20,Closed Won,69879,Unattributed,,,Unattributed,,
 006000000048,001000000137,Company137 Labs,2026-02-01,2026-05-21,Prospecting,60058,Unattributed,,,Unattributed,,
-006000000049,001000000149,Company149 Labs,2026-02-01,2026-08-02,Closed Lost,600000,Organic Search,SEO - Nonbrand,2025-06-18T14:58:07.447482+00:00,Unattributed,,
+006000000049,001000000149,Company149 Labs,2026-02-01,2026-08-02,Closed Lost,600000,Organic Search,SEO - Nonbrand,2025-06-18T16:05:16.238491+00:00,Unattributed,,
 006000000050,001000000274,Company274 Labs,2026-01-27,2026-12-05,Discovery,600000,Unattributed,,,Unattributed,,
 006000000051,001000000177,Company177 Labs,2025-12-24,2027-01-03,Proposal,199028,Unattributed,,,Unattributed,,
 006000000052,001000000139,Company139 Labs,2025-11-19,2026-07-31,Discovery,371737,Unattributed,,,Unattributed,,
 006000000053,001000000127,Company127 Labs,2025-12-08,2026-09-27,Proposal,291435,Unattributed,,,Unattributed,,
 006000000054,001000000260,Company260 Labs,2025-12-18,2026-04-25,Closed Won,58386,Unattributed,,,Unattributed,,
-006000000055,001000000202,Company202 Labs,2025-12-23,2026-05-18,Negotiation,196120,Partner,Channel Partner,2025-08-27T14:58:07.444355+00:00,Organic Search,SEO - Nonbrand,2025-12-05T14:58:07.445203+00:00
+006000000055,001000000202,Company202 Labs,2025-12-23,2026-05-18,Negotiation,196120,Partner,Channel Partner,2025-08-27T16:05:16.234750+00:00,Organic Search,SEO - Nonbrand,2025-12-05T16:05:16.235792+00:00
 006000000056,001000000217,Company217 Labs,2026-01-19,2026-08-04,Prospecting,67897,Unattributed,,,Unattributed,,
-006000000057,001000000241,Company241 Labs,2026-03-10,2027-02-23,Prospecting,232078,Paid Search,Google Search - Demo,2025-09-27T14:58:07.446042+00:00,Unattributed,,
+006000000057,001000000241,Company241 Labs,2026-03-10,2027-02-23,Prospecting,232078,Paid Search,Google Search - Demo,2025-09-27T16:05:16.236740+00:00,Unattributed,,
 006000000058,001000000157,Company157 Labs,2026-01-19,2026-12-31,Negotiation,58386,Unattributed,,,Unattributed,,
-006000000059,001000000063,Company063 Labs,2026-02-28,2026-06-26,Closed Won,61704,Organic Search,SEO - Nonbrand,2025-10-04T14:58:07.444714+00:00,Email,Lifecycle Nurture,2025-12-01T14:58:07.444714+00:00
+006000000059,001000000063,Company063 Labs,2026-02-28,2026-06-26,Closed Won,61704,Organic Search,SEO - Nonbrand,2025-10-04T16:05:16.235197+00:00,Email,Lifecycle Nurture,2025-12-01T16:05:16.235197+00:00
 006000000060,001000000054,Company054 Labs,2026-03-08,2027-03-07,Discovery,389143,Unattributed,,,Unattributed,,
 006000000061,001000000204,Company204 Labs,2026-02-13,2026-05-07,Negotiation,469805,Unattributed,,,Unattributed,,
 006000000062,001000000086,Company086 Labs,2026-01-21,2027-03-02,Closed Won,598193,Unattributed,,,Unattributed,,
-006000000063,001000000170,Company170 Labs,2026-01-15,2026-05-08,Negotiation,571458,Field Event,Executive Dinner,2025-10-04T14:58:07.448190+00:00,Email,Lifecycle Nurture,2026-01-12T14:58:07.448190+00:00
+006000000063,001000000170,Company170 Labs,2026-01-15,2026-05-08,Negotiation,571458,Field Event,Executive Dinner,2025-10-04T16:05:16.239181+00:00,Email,Lifecycle Nurture,2026-01-12T16:05:16.239181+00:00
 006000000064,001000000004,Company004 Labs,2026-02-07,2027-02-04,Closed Won,597059,Unattributed,,,Unattributed,,
 006000000065,001000000062,Company062 Labs,2026-02-17,2027-02-06,Prospecting,58386,Unattributed,,,Unattributed,,
 006000000066,001000000108,Company108 Labs,2025-11-20,2026-10-29,Closed Won,280823,Unattributed,,,Unattributed,,
 006000000067,001000000181,Company181 Labs,2026-01-28,2026-07-07,Negotiation,312536,Unattributed,,,Unattributed,,
 006000000068,001000000069,Company069 Labs,2025-11-18,2026-04-30,Negotiation,94450,Unattributed,,,Unattributed,,
 006000000069,001000000002,Company002 Labs,2025-12-12,2026-11-01,Closed Lost,600000,Unattributed,,,Unattributed,,
-006000000070,001000000040,Company040 Labs,2026-02-25,2027-02-25,Discovery,100392,Paid Search,Google Search - Demo,2025-10-30T14:58:07.451371+00:00,Paid Social,LinkedIn Retargeting,2026-01-05T14:58:07.451371+00:00
+006000000070,001000000040,Company040 Labs,2026-02-25,2027-02-25,Discovery,100392,Paid Search,Google Search - Demo,2025-10-30T16:05:16.242836+00:00,Paid Social,LinkedIn Retargeting,2026-01-05T16:05:16.242836+00:00
 006000000071,001000000184,Company184 Labs,2026-01-26,2026-09-23,Proposal,226766,Unattributed,,,Unattributed,,
 006000000072,001000000119,Company119 Labs,2025-11-17,2026-07-26,Prospecting,519846,Unattributed,,,Unattributed,,
 006000000073,001000000098,Company098 Labs,2026-01-10,2026-11-24,Closed Won,101540,Unattributed,,,Unattributed,,
-006000000074,001000000166,Company166 Labs,2026-02-19,2027-02-06,Negotiation,245593,Field Event,Executive Dinner,2025-09-06T14:58:07.446966+00:00,Direct,Direct Visit,2025-12-01T14:58:07.446966+00:00
-006000000075,001000000284,Company284 Labs,2025-12-16,2026-07-06,Closed Lost,328499,Partner,Channel Partner,2025-12-12T14:58:07.445800+00:00,Partner,Channel Partner,2025-12-12T14:58:07.445800+00:00
+006000000074,001000000166,Company166 Labs,2026-02-19,2027-02-06,Negotiation,245593,Field Event,Executive Dinner,2025-09-06T16:05:16.237757+00:00,Direct,Direct Visit,2025-12-01T16:05:16.237757+00:00
+006000000075,001000000284,Company284 Labs,2025-12-16,2026-07-06,Closed Lost,328499,Partner,Channel Partner,2025-12-12T16:05:16.236471+00:00,Partner,Channel Partner,2025-12-12T16:05:16.236471+00:00
 006000000076,001000000035,Company035 Labs,2025-12-28,2026-10-09,Negotiation,258434,Unattributed,,,Unattributed,,
 006000000077,001000000184,Company184 Labs,2026-01-13,2026-10-14,Proposal,145260,Unattributed,,,Unattributed,,
 006000000078,001000000207,Company207 Labs,2025-12-23,2026-07-09,Proposal,600000,Unattributed,,,Unattributed,,
@@ -86,14 +86,14 @@ opportunity_id,account_id,account_name,created_date,close_date,stage_name,nnarr,
 006000000085,001000000057,Company057 Labs,2026-03-11,2026-07-01,Proposal,60320,Unattributed,,,Unattributed,,
 006000000086,001000000153,Company153 Labs,2026-02-08,2027-02-25,Negotiation,58386,Unattributed,,,Unattributed,,
 006000000087,001000000100,Company100 Labs,2026-02-09,2027-01-13,Prospecting,82120,Unattributed,,,Unattributed,,
-006000000088,001000000223,Company223 Labs,2026-02-22,2027-01-20,Negotiation,97783,Partner,Channel Partner,2025-08-18T14:58:07.444604+00:00,Unattributed,,
+006000000088,001000000223,Company223 Labs,2026-02-22,2027-01-20,Negotiation,97783,Partner,Channel Partner,2025-08-18T16:05:16.235012+00:00,Unattributed,,
 006000000089,001000000111,Company111 Labs,2026-01-03,2026-12-27,Proposal,171454,Unattributed,,,Unattributed,,
 006000000090,001000000205,Company205 Labs,2026-02-22,2027-01-19,Proposal,600000,Unattributed,,,Unattributed,,
 006000000091,001000000097,Company097 Labs,2025-12-25,2026-04-29,Prospecting,600000,Unattributed,,,Unattributed,,
 006000000092,001000000203,Company203 Labs,2026-01-22,2027-03-08,Closed Lost,359709,Unattributed,,,Unattributed,,
 006000000093,001000000183,Company183 Labs,2026-01-10,2027-01-14,Discovery,271711,Unattributed,,,Unattributed,,
 006000000094,001000000244,Company244 Labs,2025-11-23,2026-06-14,Prospecting,600000,Unattributed,,,Unattributed,,
-006000000095,001000000034,Company034 Labs,2026-03-04,2026-12-20,Closed Lost,58386,Organic Search,SEO - Nonbrand,2025-11-21T14:58:07.451829+00:00,Email,Lifecycle Nurture,2026-01-27T14:58:07.451829+00:00
+006000000095,001000000034,Company034 Labs,2026-03-04,2026-12-20,Closed Lost,58386,Organic Search,SEO - Nonbrand,2025-11-21T16:05:16.243399+00:00,Email,Lifecycle Nurture,2026-01-27T16:05:16.243399+00:00
 006000000096,001000000200,Company200 Labs,2025-12-23,2026-06-23,Discovery,116065,Unattributed,,,Unattributed,,
 006000000097,001000000194,Company194 Labs,2026-01-12,2027-02-10,Closed Won,214714,Unattributed,,,Unattributed,,
 006000000098,001000000018,Company018 Labs,2025-11-12,2026-05-08,Proposal,428044,Unattributed,,,Unattributed,,
@@ -103,7 +103,7 @@ opportunity_id,account_id,account_name,created_date,close_date,stage_name,nnarr,
 006000000102,001000000131,Company131 Labs,2026-02-15,2027-02-16,Negotiation,70543,Unattributed,,,Unattributed,,
 006000000103,001000000229,Company229 Labs,2025-12-06,2026-06-18,Prospecting,347069,Unattributed,,,Unattributed,,
 006000000104,001000000052,Company052 Labs,2025-12-27,2027-02-03,Prospecting,122697,Unattributed,,,Unattributed,,
-006000000105,001000000226,Company226 Labs,2025-12-23,2027-03-09,Discovery,157940,Paid Search,Google Search - Demo,2025-08-02T14:58:07.451721+00:00,Paid Social,LinkedIn Retargeting,2025-10-08T14:58:07.451721+00:00
+006000000105,001000000226,Company226 Labs,2025-12-23,2027-03-09,Discovery,157940,Paid Search,Google Search - Demo,2025-08-02T16:05:16.243276+00:00,Paid Social,LinkedIn Retargeting,2025-10-08T16:05:16.243276+00:00
 006000000106,001000000025,Company025 Labs,2026-02-17,2027-01-12,Discovery,400505,Unattributed,,,Unattributed,,
 006000000107,001000000245,Company245 Labs,2025-12-09,2026-12-11,Proposal,58386,Unattributed,,,Unattributed,,
 006000000108,001000000096,Company096 Labs,2025-12-23,2026-11-25,Negotiation,63184,Unattributed,,,Unattributed,,
@@ -112,7 +112,7 @@ opportunity_id,account_id,account_name,created_date,close_date,stage_name,nnarr,
 006000000111,001000000254,Company254 Labs,2026-02-11,2026-10-21,Closed Lost,144816,Unattributed,,,Unattributed,,
 006000000112,001000000083,Company083 Labs,2025-12-23,2026-08-08,Closed Won,89153,Unattributed,,,Unattributed,,
 006000000113,001000000013,Company013 Labs,2026-02-08,2026-07-25,Discovery,294763,Unattributed,,,Unattributed,,
-006000000114,001000000284,Company284 Labs,2026-03-07,2027-02-28,Negotiation,58386,Partner,Channel Partner,2025-12-12T14:58:07.445800+00:00,Direct,Direct Visit,2026-02-22T14:58:07.445800+00:00
+006000000114,001000000284,Company284 Labs,2026-03-07,2027-02-28,Negotiation,58386,Partner,Channel Partner,2025-12-12T16:05:16.236471+00:00,Direct,Direct Visit,2026-02-22T16:05:16.236471+00:00
 006000000115,001000000128,Company128 Labs,2026-02-13,2026-12-31,Discovery,381875,Unattributed,,,Unattributed,,
 006000000116,001000000001,Company001 Labs,2025-12-23,2026-07-06,Closed Won,309974,Unattributed,,,Unattributed,,
 006000000117,001000000109,Company109 Labs,2025-11-22,2027-03-09,Closed Lost,58386,Unattributed,,,Unattributed,,
@@ -123,21 +123,21 @@ opportunity_id,account_id,account_name,created_date,close_date,stage_name,nnarr,
 006000000122,001000000071,Company071 Labs,2025-12-06,2026-07-17,Negotiation,60917,Unattributed,,,Unattributed,,
 006000000123,001000000260,Company260 Labs,2025-11-30,2026-07-07,Prospecting,241393,Unattributed,,,Unattributed,,
 006000000124,001000000155,Company155 Labs,2025-12-24,2026-08-28,Closed Won,64103,Unattributed,,,Unattributed,,
-006000000125,001000000003,Company003 Labs,2025-12-11,2026-11-20,Closed Won,58386,Organic Search,SEO - Nonbrand,2025-09-30T14:58:07.457787+00:00,Email,Lifecycle Nurture,2025-12-01T14:58:07.457787+00:00
+006000000125,001000000003,Company003 Labs,2025-12-11,2026-11-20,Closed Won,58386,Organic Search,SEO - Nonbrand,2025-09-30T16:05:16.250285+00:00,Email,Lifecycle Nurture,2025-12-01T16:05:16.250285+00:00
 006000000126,001000000145,Company145 Labs,2026-01-29,2026-08-07,Negotiation,600000,Unattributed,,,Unattributed,,
-006000000127,001000000201,Company201 Labs,2026-02-04,2027-01-03,Closed Lost,58386,Partner,Channel Partner,2025-08-20T14:58:07.443389+00:00,Unattributed,,
+006000000127,001000000201,Company201 Labs,2026-02-04,2027-01-03,Closed Lost,58386,Partner,Channel Partner,2025-08-20T16:05:16.233715+00:00,Unattributed,,
 006000000128,001000000185,Company185 Labs,2026-01-19,2026-08-07,Prospecting,283996,Unattributed,,,Unattributed,,
 006000000129,001000000256,Company256 Labs,2026-02-18,2026-12-18,Proposal,600000,Unattributed,,,Unattributed,,
 006000000130,001000000272,Company272 Labs,2026-03-06,2026-09-05,Proposal,58386,Unattributed,,,Unattributed,,
-006000000131,001000000286,Company286 Labs,2026-02-13,2026-06-26,Closed Won,600000,Paid Search,Google Search - Demo,2025-09-06T14:58:07.443263+00:00,Unattributed,,
+006000000131,001000000286,Company286 Labs,2026-02-13,2026-06-26,Closed Won,600000,Paid Search,Google Search - Demo,2025-09-06T16:05:16.233580+00:00,Unattributed,,
 006000000132,001000000067,Company067 Labs,2026-02-20,2026-07-13,Negotiation,188382,Unattributed,,,Unattributed,,
 006000000133,001000000299,Company299 Labs,2025-11-15,2026-06-29,Closed Lost,392931,Unattributed,,,Unattributed,,
-006000000134,001000000093,Company093 Labs,2026-01-11,2026-07-01,Prospecting,257400,Paid Search,Google Search - Demo,2025-11-18T14:58:07.454147+00:00,Paid Search,Google Search - Demo,2025-11-18T14:58:07.454147+00:00
+006000000134,001000000093,Company093 Labs,2026-01-11,2026-07-01,Prospecting,257400,Paid Search,Google Search - Demo,2025-11-18T16:05:16.246101+00:00,Paid Search,Google Search - Demo,2025-11-18T16:05:16.246101+00:00
 006000000135,001000000259,Company259 Labs,2026-02-15,2026-09-11,Prospecting,252081,Unattributed,,,Unattributed,,
-006000000136,001000000122,Company122 Labs,2025-11-26,2027-03-06,Closed Won,397130,Field Event,Executive Dinner,2025-08-01T14:58:07.456259+00:00,Paid Social,LinkedIn Retargeting,2025-09-18T14:58:07.456259+00:00
+006000000136,001000000122,Company122 Labs,2025-11-26,2027-03-06,Closed Won,397130,Field Event,Executive Dinner,2025-08-01T16:05:16.248612+00:00,Paid Social,LinkedIn Retargeting,2025-09-18T16:05:16.248612+00:00
 006000000137,001000000220,Company220 Labs,2026-01-06,2026-11-05,Proposal,58386,Unattributed,,,Unattributed,,
 006000000138,001000000269,Company269 Labs,2026-01-15,2027-01-04,Closed Won,139756,Unattributed,,,Unattributed,,
-006000000139,001000000003,Company003 Labs,2026-01-02,2026-10-18,Closed Won,600000,Organic Search,SEO - Nonbrand,2025-09-30T14:58:07.457787+00:00,Email,Lifecycle Nurture,2025-12-01T14:58:07.457787+00:00
+006000000139,001000000003,Company003 Labs,2026-01-02,2026-10-18,Closed Won,600000,Organic Search,SEO - Nonbrand,2025-09-30T16:05:16.250285+00:00,Email,Lifecycle Nurture,2025-12-01T16:05:16.250285+00:00
 006000000140,001000000295,Company295 Labs,2025-12-18,2027-02-13,Closed Won,58386,Unattributed,,,Unattributed,,
 006000000141,001000000185,Company185 Labs,2026-01-02,2027-01-16,Discovery,92659,Unattributed,,,Unattributed,,
 006000000142,001000000190,Company190 Labs,2026-01-27,2026-08-16,Closed Won,290021,Unattributed,,,Unattributed,,
@@ -167,14 +167,14 @@ opportunity_id,account_id,account_name,created_date,close_date,stage_name,nnarr,
 006000000166,001000000253,Company253 Labs,2026-01-30,2026-12-15,Negotiation,75296,Unattributed,,,Unattributed,,
 006000000167,001000000032,Company032 Labs,2026-01-23,2026-07-13,Discovery,154979,Unattributed,,,Unattributed,,
 006000000168,001000000262,Company262 Labs,2026-02-16,2027-01-23,Negotiation,313543,Unattributed,,,Unattributed,,
-006000000169,001000000189,Company189 Labs,2026-01-12,2026-08-27,Discovery,375668,Paid Search,Google Search - Demo,2025-08-01T14:58:07.456507+00:00,Unattributed,,
+006000000169,001000000189,Company189 Labs,2026-01-12,2026-08-27,Discovery,375668,Paid Search,Google Search - Demo,2025-08-01T16:05:16.248876+00:00,Unattributed,,
 006000000170,001000000203,Company203 Labs,2025-12-21,2027-02-28,Discovery,79510,Unattributed,,,Unattributed,,
-006000000171,001000000265,Company265 Labs,2025-11-12,2026-04-14,Discovery,205137,Field Event,Executive Dinner,2025-10-11T14:58:07.456368+00:00,Field Event,Executive Dinner,2025-10-11T14:58:07.456368+00:00
+006000000171,001000000265,Company265 Labs,2025-11-12,2026-04-14,Discovery,205137,Field Event,Executive Dinner,2025-10-11T16:05:16.248729+00:00,Field Event,Executive Dinner,2025-10-11T16:05:16.248729+00:00
 006000000172,001000000098,Company098 Labs,2025-12-18,2026-10-17,Prospecting,236539,Unattributed,,,Unattributed,,
 006000000173,001000000072,Company072 Labs,2025-11-13,2026-11-21,Prospecting,563000,Unattributed,,,Unattributed,,
-006000000174,001000000151,Company151 Labs,2025-12-22,2026-12-25,Closed Won,527732,Partner,Channel Partner,2025-11-25T14:58:07.444076+00:00,Partner,Channel Partner,2025-11-25T14:58:07.444076+00:00
+006000000174,001000000151,Company151 Labs,2025-12-22,2026-12-25,Closed Won,527732,Partner,Channel Partner,2025-11-25T16:05:16.234444+00:00,Partner,Channel Partner,2025-11-25T16:05:16.234444+00:00
 006000000175,001000000025,Company025 Labs,2025-12-16,2026-10-25,Closed Lost,432604,Unattributed,,,Unattributed,,
-006000000176,001000000224,Company224 Labs,2026-01-31,2027-01-26,Closed Lost,195496,Field Event,Executive Dinner,2025-11-30T14:58:07.456614+00:00,Paid Social,LinkedIn Retargeting,2026-01-17T14:58:07.456614+00:00
+006000000176,001000000224,Company224 Labs,2026-01-31,2027-01-26,Closed Lost,195496,Field Event,Executive Dinner,2025-11-30T16:05:16.248994+00:00,Paid Social,LinkedIn Retargeting,2026-01-17T16:05:16.248994+00:00
 006000000177,001000000275,Company275 Labs,2026-02-02,2027-02-12,Discovery,58386,Unattributed,,,Unattributed,,
 006000000178,001000000208,Company208 Labs,2025-12-28,2026-11-30,Proposal,117577,Unattributed,,,Unattributed,,
 006000000179,001000000020,Company020 Labs,2026-03-04,2027-01-23,Negotiation,255199,Unattributed,,,Unattributed,,

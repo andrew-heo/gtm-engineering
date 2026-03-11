@@ -41,5 +41,5 @@ This keeps the model explainable: earliest pre-opportunity touch gets first-touc
 Run:
 
 ```bash
-python3 projects/06_marketing_attribution_and_funnel_model/marketing_attribution_and_funnel_model.py
+python3 projects/workflows/06_marketing_attribution_and_funnel_model/marketing_attribution_and_funnel_model.py
 ```

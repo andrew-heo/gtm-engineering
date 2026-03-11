@@ -1,0 +1,397 @@
+touch_id,lead_id,account_id,touch_timestamp,touch_type,source,subsource,campaign
+touch_000074_ft,00Q000000074,001000000162,2025-05-24 16:05:16.240662+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000141_ft,00Q000000141,001000000389,2025-06-01 16:05:16.246592+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000073_ft,00Q000000073,001000000535,2025-06-05 16:05:16.240524+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000056_ft,00Q000000056,001000000309,2025-06-08 16:05:16.238676+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000065_ft,00Q000000065,001000000589,2025-06-12 16:05:16.239476+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000126_ft,00Q000000126,,2025-06-12 16:05:16.245167+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000130_ft,00Q000000130,001000000209,2025-06-13 16:05:16.245484+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000064_ft,00Q000000064,,2025-06-14 16:05:16.239358+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000053_ft,00Q000000053,001000000149,2025-06-18 16:05:16.238491+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000066_ft,00Q000000066,001000000447,2025-06-18 16:05:16.239596+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000134_ft,00Q000000134,001000000580,2025-06-18 16:05:16.245955+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000036_ft,00Q000000036,001000000216,2025-06-25 16:05:16.236918+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000051_ft,00Q000000051,,2025-06-25 16:05:16.238132+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000148_ft,00Q000000148,,2025-06-27 16:05:16.247304+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000110_ft,00Q000000110,001000000567,2025-06-29 16:05:16.243926+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000069_ft,00Q000000069,001000000419,2025-07-01 16:05:16.240066+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000118_ft,00Q000000118,,2025-07-03 16:05:16.244484+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000142_ft,00Q000000142,,2025-07-06 16:05:16.246620+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000047_ft,00Q000000047,,2025-07-07 16:05:16.237785+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000067_ft,00Q000000067,001000000306,2025-07-08 16:05:16.239712+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000106_ft,00Q000000106,,2025-07-09 16:05:16.243429+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000149_ft,00Q000000149,001000000073,2025-07-10 16:05:16.247432+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000034_ft,00Q000000034,,2025-07-12 16:05:16.236769+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000052_ft,00Q000000052,001000000192,2025-07-12 16:05:16.238364+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000039_ft,00Q000000039,,2025-07-16 16:05:16.237195+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000015_ft,00Q000000015,001000000010,2025-07-17 16:05:16.234896+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000096_ft,00Q000000096,,2025-07-19 16:05:16.242404+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000006_ft,00Q000000006,001000000524,2025-07-24 16:05:16.234084+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000102_ft,00Q000000102,001000000474,2025-07-24 16:05:16.243013+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000116_ft,00Q000000116,,2025-07-24 16:05:16.244401+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000158_ft,00Q000000158,,2025-07-24 16:05:16.248464+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000111_ft,00Q000000111,001000000456,2025-07-25 16:05:16.244043+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000027_ft,00Q000000027,001000000345,2025-07-26 16:05:16.236098+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000088_ft,00Q000000088,001000000285,2025-07-26 16:05:16.241815+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000089_ft,00Q000000089,001000000462,2025-07-27 16:05:16.241931+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000008_ft,00Q000000008,001000000439,2025-07-30 16:05:16.234324+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000135_ft,00Q000000135,,2025-07-30 16:05:16.245984+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000123_ft,00Q000000123,001000000468,2025-08-01 16:05:16.244994+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000160_ft,00Q000000160,001000000122,2025-08-01 16:05:16.248612+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000163_ft,00Q000000163,001000000189,2025-08-01 16:05:16.248876+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000104_ft,00Q000000104,001000000226,2025-08-02 16:05:16.243276+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000152_ft,00Q000000152,001000000426,2025-08-03 16:05:16.247804+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000146_ft,00Q000000146,001000000147,2025-08-05 16:05:16.247100+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000072_ft,00Q000000072,,2025-08-07 16:05:16.240345+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000085_ft,00Q000000085,001000000563,2025-08-08 16:05:16.241551+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000050_ft,00Q000000050,001000000268,2025-08-09 16:05:16.238091+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000107_ft,00Q000000107,001000000045,2025-08-09 16:05:16.243547+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000121_ft,00Q000000121,,2025-08-11 16:05:16.244757+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000063_ft,00Q000000063,001000000551,2025-08-12 16:05:16.239329+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000094_ft,00Q000000094,,2025-08-12 16:05:16.242252+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000097_ft,00Q000000097,001000000277,2025-08-12 16:05:16.242540+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000057_ft,00Q000000057,001000000400,2025-08-16 16:05:16.238797+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000145_ft,00Q000000145,001000000569,2025-08-17 16:05:16.246913+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000180_ft,00Q000000180,001000000326,2025-08-17 16:05:16.250459+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000016_ft,00Q000000016,001000000223,2025-08-18 16:05:16.235012+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000003_ft,00Q000000003,001000000201,2025-08-20 16:05:16.233715+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000110_nu,00Q000000110,001000000567,2025-08-21 16:05:16.243926+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000140_ft,00Q000000140,001000000266,2025-08-23 16:05:16.246476+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000015_nu,00Q000000015,001000000010,2025-08-24 16:05:16.234896+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000048_ft,00Q000000048,001000000482,2025-08-24 16:05:16.237904+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000019_ft,00Q000000019,001000000492,2025-08-26 16:05:16.235380+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000013_ft,00Q000000013,001000000202,2025-08-27 16:05:16.234750+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000103_ft,00Q000000103,001000000306,2025-08-27 16:05:16.243138+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000109_ft,00Q000000109,001000000010,2025-08-27 16:05:16.243753+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000128_ft,00Q000000128,,2025-08-29 16:05:16.245313+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000171_ft,00Q000000171,001000000528,2025-08-30 16:05:16.249652+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000085_nu,00Q000000085,001000000563,2025-08-31 16:05:16.241551+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000055_ft,00Q000000055,,2025-09-01 16:05:16.238551+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000071_ft,00Q000000071,001000000354,2025-09-01 16:05:16.240259+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000176_ft,00Q000000176,001000000528,2025-09-01 16:05:16.250169+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000029_ft,00Q000000029,001000000418,2025-09-03 16:05:16.236352+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000114_ft,00Q000000114,001000000402,2025-09-03 16:05:16.244344+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000147_ft,00Q000000147,001000000466,2025-09-03 16:05:16.247272+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000110_lt,00Q000000110,001000000567,2025-09-04 16:05:16.243926+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000120_ft,00Q000000120,001000000156,2025-09-04 16:05:16.244728+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000130_nu,00Q000000130,001000000209,2025-09-04 16:05:16.245484+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000036_lt,00Q000000036,001000000216,2025-09-05 16:05:16.236918+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000002_ft,00Q000000002,001000000286,2025-09-06 16:05:16.233580+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000006_lt,00Q000000006,001000000524,2025-09-06 16:05:16.234084+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000037_ft,00Q000000037,001000000415,2025-09-06 16:05:16.237035+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000046_ft,00Q000000046,001000000166,2025-09-06 16:05:16.237757+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000152_lt,00Q000000152,001000000426,2025-09-06 16:05:16.247804+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000160_nu,00Q000000160,001000000122,2025-09-08 16:05:16.248612+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000040_ft,00Q000000040,001000000234,2025-09-09 16:05:16.237314+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000096_lt,00Q000000096,,2025-09-10 16:05:16.242404+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000155_ft,00Q000000155,001000000303,2025-09-10 16:05:16.248199+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000158_lt,00Q000000158,,2025-09-10 16:05:16.248464+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000028_ft,00Q000000028,001000000392,2025-09-11 16:05:16.236219+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000068_ft,00Q000000068,,2025-09-11 16:05:16.239742+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000008_lt,00Q000000008,001000000439,2025-09-12 16:05:16.234324+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000053_lt,00Q000000053,001000000149,2025-09-12 16:05:16.238491+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000150_ft,00Q000000150,001000000355,2025-09-12 16:05:16.247557+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000015_lt,00Q000000015,001000000010,2025-09-13 16:05:16.234896+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000106_lt,00Q000000106,,2025-09-14 16:05:16.243429+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000112_ft,00Q000000112,,2025-09-14 16:05:16.244072+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000074_lt,00Q000000074,001000000162,2025-09-15 16:05:16.240662+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000126_lt,00Q000000126,,2025-09-15 16:05:16.245167+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000004_ft,00Q000000004,001000000542,2025-09-16 16:05:16.233842+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000056_lt,00Q000000056,001000000309,2025-09-16 16:05:16.238676+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000130_lt,00Q000000130,001000000209,2025-09-16 16:05:16.245484+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000049_ft,00Q000000049,,2025-09-17 16:05:16.237932+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000088_lt,00Q000000088,001000000285,2025-09-17 16:05:16.241815+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000065_nu,00Q000000065,001000000589,2025-09-18 16:05:16.239476+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000081_ft,00Q000000081,,2025-09-18 16:05:16.241063+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000089_lt,00Q000000089,001000000462,2025-09-18 16:05:16.241931+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000141_lt,00Q000000141,001000000389,2025-09-18 16:05:16.246592+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000160_lt,00Q000000160,001000000122,2025-09-18 16:05:16.248612+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000163_lt,00Q000000163,001000000189,2025-09-18 16:05:16.248876+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000051_lt,00Q000000051,,2025-09-19 16:05:16.238132+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000124_ft,00Q000000124,,2025-09-19 16:05:16.245022+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000065_lt,00Q000000065,001000000589,2025-09-20 16:05:16.239476+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000018_ft,00Q000000018,,2025-09-21 16:05:16.235234+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000070_ft,00Q000000070,,2025-09-21 16:05:16.240098+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000134_lt,00Q000000134,001000000580,2025-09-21 16:05:16.245955+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000179_ft,00Q000000179,,2025-09-21 16:05:16.250342+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000027_lt,00Q000000027,001000000345,2025-09-22 16:05:16.236098+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000034_lt,00Q000000034,,2025-09-22 16:05:16.236769+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000064_lt,00Q000000064,,2025-09-22 16:05:16.239358+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000118_lt,00Q000000118,,2025-09-22 16:05:16.244484+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000138_ft,00Q000000138,,2025-09-23 16:05:16.246244+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000005_ft,00Q000000005,001000000495,2025-09-26 16:05:16.233964+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000039_lt,00Q000000039,,2025-09-26 16:05:16.237195+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000066_lt,00Q000000066,001000000447,2025-09-26 16:05:16.239596+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000133_ft,00Q000000133,001000000367,2025-09-26 16:05:16.245837+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000174_ft,00Q000000174,001000000129,2025-09-26 16:05:16.250025+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000033_ft,00Q000000033,001000000241,2025-09-27 16:05:16.236740+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000062_ft,00Q000000062,,2025-09-27 16:05:16.239209+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000073_lt,00Q000000073,001000000535,2025-09-27 16:05:16.240524+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000165_ft,00Q000000165,001000000428,2025-09-27 16:05:16.249110+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000093_ft,00Q000000093,,2025-09-28 16:05:16.242223+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000117_ft,00Q000000117,,2025-09-28 16:05:16.244429+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000102_lt,00Q000000102,001000000474,2025-09-29 16:05:16.243013+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000085_lt,00Q000000085,001000000563,2025-09-30 16:05:16.241551+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000111_lt,00Q000000111,001000000456,2025-09-30 16:05:16.244043+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000175_ft,00Q000000175,,2025-09-30 16:05:16.250053+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000177_ft,00Q000000177,001000000003,2025-09-30 16:05:16.250285+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000047_lt,00Q000000047,,2025-10-01 16:05:16.237785+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000054_ft,00Q000000054,,2025-10-01 16:05:16.238523+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000045_ft,00Q000000045,,2025-10-02 16:05:16.237639+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000079_ft,00Q000000079,,2025-10-02 16:05:16.241007+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000087_ft,00Q000000087,,2025-10-02 16:05:16.241697+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000113_ft,00Q000000113,001000000277,2025-10-02 16:05:16.244211+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000003_lt,00Q000000003,001000000201,2025-10-03 16:05:16.233715+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000017_ft,00Q000000017,001000000063,2025-10-04 16:05:16.235197+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000061_ft,00Q000000061,001000000170,2025-10-04 16:05:16.239181+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000094_lt,00Q000000094,,2025-10-04 16:05:16.242252+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000097_lt,00Q000000097,001000000277,2025-10-04 16:05:16.242540+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000044_ft,00Q000000044,001000000014,2025-10-05 16:05:16.237611+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000052_lt,00Q000000052,001000000192,2025-10-06 16:05:16.238364+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000060_ft,00Q000000060,001000000564,2025-10-07 16:05:16.239063+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000059_ft,00Q000000059,001000000382,2025-10-08 16:05:16.238946+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000104_lt,00Q000000104,001000000226,2025-10-08 16:05:16.243276+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000129_ft,00Q000000129,,2025-10-08 16:05:16.245364+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000143_ft,00Q000000143,001000000380,2025-10-08 16:05:16.246770+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000069_lt,00Q000000069,001000000419,2025-10-09 16:05:16.240066+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000013_lt,00Q000000013,001000000202,2025-10-10 16:05:16.234750+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000157_ft,00Q000000157,001000000546,2025-10-11 16:05:16.248435+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000161_ft,00Q000000161,001000000265,2025-10-11 16:05:16.248729+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000116_lt,00Q000000116,,2025-10-13 16:05:16.244401+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000137_ft,00Q000000137,001000000125,2025-10-13 16:05:16.246216+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000022_ft,00Q000000022,001000000384,2025-10-14 16:05:16.235668+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000148_lt,00Q000000148,,2025-10-14 16:05:16.247304+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000016_lt,00Q000000016,001000000223,2025-10-15 16:05:16.235012+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000107_lt,00Q000000107,001000000045,2025-10-15 16:05:16.243547+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000050_nu,00Q000000050,001000000268,2025-10-16 16:05:16.238091+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000067_lt,00Q000000067,001000000306,2025-10-16 16:05:16.239712+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000125_ft,00Q000000125,001000000354,2025-10-16 16:05:16.245139+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000139_ft,00Q000000139,001000000574,2025-10-16 16:05:16.246361+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000150_lt,00Q000000150,001000000355,2025-10-16 16:05:16.247557+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000031_ft,00Q000000031,,2025-10-18 16:05:16.236500+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000035_ft,00Q000000035,,2025-10-18 16:05:16.236797+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000155_nu,00Q000000155,001000000303,2025-10-18 16:05:16.248199+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000180_lt,00Q000000180,001000000326,2025-10-18 16:05:16.250459+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000020_ft,00Q000000020,,2025-10-19 16:05:16.235411+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000002_lt,00Q000000002,001000000286,2025-10-20 16:05:16.233580+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000150_nu,00Q000000150,001000000355,2025-10-20 16:05:16.247557+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000042_ft,00Q000000042,001000000233,2025-10-21 16:05:16.237463+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000123_lt,00Q000000123,001000000468,2025-10-21 16:05:16.244994+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000135_nu,00Q000000135,,2025-10-21 16:05:16.245984+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000019_lt,00Q000000019,001000000492,2025-10-23 16:05:16.235380+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000142_lt,00Q000000142,,2025-10-23 16:05:16.246620+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000026_ft,00Q000000026,,2025-10-24 16:05:16.235977+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000180_nu,00Q000000180,001000000326,2025-10-24 16:05:16.250459+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000024_ft,00Q000000024,,2025-10-25 16:05:16.235822+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000041_ft,00Q000000041,,2025-10-25 16:05:16.237344+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000144_ft,00Q000000144,,2025-10-25 16:05:16.246798+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000154_ft,00Q000000154,001000000551,2025-10-25 16:05:16.248067+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000081_lt,00Q000000081,,2025-10-27 16:05:16.241063+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000127_ft,00Q000000127,001000000460,2025-10-27 16:05:16.245285+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000149_lt,00Q000000149,001000000073,2025-10-27 16:05:16.247432+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000155_lt,00Q000000155,001000000303,2025-10-28 16:05:16.248199+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000168_ft,00Q000000168,001000000046,2025-10-28 16:05:16.249479+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000095_ft,00Q000000095,001000000518,2025-10-29 16:05:16.242376+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000004_lt,00Q000000004,001000000542,2025-10-30 16:05:16.233842+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000100_ft,00Q000000100,001000000040,2025-10-30 16:05:16.242836+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000121_lt,00Q000000121,,2025-10-31 16:05:16.244757+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000171_lt,00Q000000171,001000000528,2025-10-31 16:05:16.249652+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000172_ft,00Q000000172,001000000585,2025-10-31 16:05:16.249768+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000099_ft,00Q000000099,001000000490,2025-11-02 16:05:16.242702+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000103_lt,00Q000000103,001000000306,2025-11-02 16:05:16.243138+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000109_lt,00Q000000109,001000000010,2025-11-02 16:05:16.243753+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000135_lt,00Q000000135,,2025-11-02 16:05:16.245984+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000176_lt,00Q000000176,001000000528,2025-11-02 16:05:16.250169+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000005_nu,00Q000000005,001000000495,2025-11-03 16:05:16.233964+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000050_lt,00Q000000050,001000000268,2025-11-03 16:05:16.238091+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000165_nu,00Q000000165,001000000428,2025-11-04 16:05:16.249110+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000058_ft,00Q000000058,,2025-11-05 16:05:16.238826+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000076_ft,00Q000000076,,2025-11-05 16:05:16.240822+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000086_ft,00Q000000086,001000000278,2025-11-06 16:05:16.241668+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000010_ft,00Q000000010,001000000039,2025-11-07 16:05:16.234563+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000175_nu,00Q000000175,,2025-11-07 16:05:16.250053+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000055_nu,00Q000000055,,2025-11-08 16:05:16.238551+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000092_ft,00Q000000092,,2025-11-08 16:05:16.242195+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000145_nu,00Q000000145,001000000569,2025-11-08 16:05:16.246913+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000005_lt,00Q000000005,001000000495,2025-11-09 16:05:16.233964+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000098_ft,00Q000000098,,2025-11-09 16:05:16.242567+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000156_ft,00Q000000156,001000000454,2025-11-09 16:05:16.248318+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000079_lt,00Q000000079,,2025-11-10 16:05:16.241007+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000084_ft,00Q000000084,001000000554,2025-11-12 16:05:16.241433+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000029_lt,00Q000000029,001000000418,2025-11-14 16:05:16.236352+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000140_nu,00Q000000140,001000000266,2025-11-14 16:05:16.246476+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000165_lt,00Q000000165,001000000428,2025-11-14 16:05:16.249110+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000131_ft,00Q000000131,001000000312,2025-11-15 16:05:16.245602+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000178_ft,00Q000000178,,2025-11-15 16:05:16.250314+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000040_nu,00Q000000040,001000000234,2025-11-16 16:05:16.237314+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000037_lt,00Q000000037,001000000415,2025-11-17 16:05:16.237035+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000132_ft,00Q000000132,001000000527,2025-11-17 16:05:16.245718+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000018_lt,00Q000000018,,2025-11-18 16:05:16.235234+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000048_lt,00Q000000048,001000000482,2025-11-18 16:05:16.237904+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000136_ft,00Q000000136,001000000093,2025-11-18 16:05:16.246101+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000040_lt,00Q000000040,001000000234,2025-11-20 16:05:16.237314+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000063_lt,00Q000000063,001000000551,2025-11-20 16:05:16.239329+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000075_ft,00Q000000075,001000000316,2025-11-20 16:05:16.240791+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000093_lt,00Q000000093,,2025-11-20 16:05:16.242223+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000105_ft,00Q000000105,001000000034,2025-11-21 16:05:16.243399+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000028_lt,00Q000000028,001000000392,2025-11-22 16:05:16.236219+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000032_ft,00Q000000032,001000000544,2025-11-22 16:05:16.236621+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000038_ft,00Q000000038,001000000472,2025-11-22 16:05:16.237153+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000146_lt,00Q000000146,001000000147,2025-11-22 16:05:16.247100+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000179_lt,00Q000000179,,2025-11-22 16:05:16.250342+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000114_lt,00Q000000114,001000000402,2025-11-23 16:05:16.244344+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000057_lt,00Q000000057,001000000400,2025-11-24 16:05:16.238797+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000082_ft,00Q000000082,001000000167,2025-11-24 16:05:16.241187+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000087_lt,00Q000000087,,2025-11-24 16:05:16.241697+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000120_lt,00Q000000120,001000000156,2025-11-24 16:05:16.244728+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000009_ft,00Q000000009,001000000151,2025-11-25 16:05:16.234444+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000020_nu,00Q000000020,,2025-11-26 16:05:16.235411+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000055_lt,00Q000000055,,2025-11-26 16:05:16.238551+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000120_nu,00Q000000120,001000000156,2025-11-26 16:05:16.244728+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000091_ft,00Q000000091,001000000138,2025-11-27 16:05:16.242166+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000159_ft,00Q000000159,,2025-11-27 16:05:16.248492+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000174_lt,00Q000000174,001000000129,2025-11-27 16:05:16.250025+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000011_ft,00Q000000011,,2025-11-28 16:05:16.234597+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000157_lt,00Q000000157,001000000546,2025-11-28 16:05:16.248435+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000161_lt,00Q000000161,001000000265,2025-11-28 16:05:16.248729+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000072_lt,00Q000000072,,2025-11-29 16:05:16.240345+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000164_ft,00Q000000164,001000000224,2025-11-30 16:05:16.248994+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000170_ft,00Q000000170,,2025-11-30 16:05:16.249536+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000017_lt,00Q000000017,001000000063,2025-12-01 16:05:16.235197+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000046_lt,00Q000000046,001000000166,2025-12-01 16:05:16.237757+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000175_lt,00Q000000175,,2025-12-01 16:05:16.250053+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000177_lt,00Q000000177,001000000003,2025-12-01 16:05:16.250285+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000119_ft,00Q000000119,001000000123,2025-12-02 16:05:16.244607+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000128_lt,00Q000000128,,2025-12-02 16:05:16.245313+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000012_ft,00Q000000012,,2025-12-03 16:05:16.234626+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000112_lt,00Q000000112,,2025-12-04 16:05:16.244072+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000145_lt,00Q000000145,001000000569,2025-12-04 16:05:16.246913+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000023_ft,00Q000000023,001000000202,2025-12-05 16:05:16.235792+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000090_ft,00Q000000090,001000000478,2025-12-05 16:05:16.242048+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000043_ft,00Q000000043,,2025-12-06 16:05:16.237493+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000033_lt,00Q000000033,001000000241,2025-12-08 16:05:16.236740+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000045_nu,00Q000000045,,2025-12-09 16:05:16.237639+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000122_ft,00Q000000122,001000000369,2025-12-09 16:05:16.244876+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000124_lt,00Q000000124,,2025-12-09 16:05:16.245022+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000140_lt,00Q000000140,001000000266,2025-12-10 16:05:16.246476+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000022_lt,00Q000000022,001000000384,2025-12-11 16:05:16.235668+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000108_ft,00Q000000108,,2025-12-11 16:05:16.243576+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000021_ft,00Q000000021,001000000325,2025-12-12 16:05:16.235542+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000030_ft,00Q000000030,001000000284,2025-12-12 16:05:16.236471+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000049_lt,00Q000000049,,2025-12-12 16:05:16.237932+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000154_lt,00Q000000154,001000000551,2025-12-12 16:05:16.248067+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000075_nu,00Q000000075,001000000316,2025-12-13 16:05:16.240791+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000076_lt,00Q000000076,,2025-12-14 16:05:16.240822+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000010_nu,00Q000000010,001000000039,2025-12-15 16:05:16.234563+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000020_lt,00Q000000020,,2025-12-16 16:05:16.235411+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000115_ft,00Q000000115,,2025-12-16 16:05:16.244373+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000166_ft,00Q000000166,001000000566,2025-12-16 16:05:16.249225+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000167_ft,00Q000000167,001000000344,2025-12-16 16:05:16.249364+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000101_ft,00Q000000101,,2025-12-18 16:05:16.242884+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000117_lt,00Q000000117,,2025-12-18 16:05:16.244429+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000068_lt,00Q000000068,,2025-12-20 16:05:16.239742+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000173_ft,00Q000000173,001000000430,2025-12-20 16:05:16.249883+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000010_lt,00Q000000010,001000000039,2025-12-21 16:05:16.234563+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000026_lt,00Q000000026,,2025-12-21 16:05:16.235977+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000095_lt,00Q000000095,001000000518,2025-12-21 16:05:16.242376+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000095_nu,00Q000000095,001000000518,2025-12-21 16:05:16.242376+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000147_lt,00Q000000147,001000000466,2025-12-21 16:05:16.247272+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000024_lt,00Q000000024,,2025-12-22 16:05:16.235822+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000025_ft,00Q000000025,001000000043,2025-12-22 16:05:16.235946+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000100_nu,00Q000000100,001000000040,2025-12-22 16:05:16.242836+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000113_lt,00Q000000113,001000000277,2025-12-22 16:05:16.244211+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000071_lt,00Q000000071,001000000354,2025-12-24 16:05:16.240259+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000014_ft,00Q000000014,,2025-12-25 16:05:16.234779+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000035_nu,00Q000000035,,2025-12-25 16:05:16.236797+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000007_ft,00Q000000007,001000000349,2025-12-26 16:05:16.234204+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000054_lt,00Q000000054,,2025-12-26 16:05:16.238523+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000077_ft,00Q000000077,001000000533,2025-12-26 16:05:16.240947+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000045_lt,00Q000000045,,2025-12-27 16:05:16.237639+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000138_lt,00Q000000138,,2025-12-27 16:05:16.246244+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000156_lt,00Q000000156,001000000454,2025-12-27 16:05:16.248318+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000162_ft,00Q000000162,,2025-12-27 16:05:16.248757+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000169_ft,00Q000000169,,2025-12-27 16:05:16.249508+00:00,marketing_touch,Organic Search,organic_search,SEO - Nonbrand
+touch_000070_nu,00Q000000070,,2025-12-28 16:05:16.240098+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000031_lt,00Q000000031,,2025-12-29 16:05:16.236500+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000035_lt,00Q000000035,,2025-12-29 16:05:16.236797+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000075_lt,00Q000000075,001000000316,2025-12-29 16:05:16.240791+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000086_lt,00Q000000086,001000000278,2025-12-29 16:05:16.241668+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000168_lt,00Q000000168,001000000046,2025-12-29 16:05:16.249479+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000044_lt,00Q000000044,001000000014,2025-12-30 16:05:16.237611+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000133_lt,00Q000000133,001000000367,2025-12-30 16:05:16.245837+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000092_lt,00Q000000092,,2025-12-31 16:05:16.242195+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000172_lt,00Q000000172,001000000585,2026-01-01 16:05:16.249768+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000082_lt,00Q000000082,001000000167,2026-01-02 16:05:16.241187+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000078_ft,00Q000000078,,2026-01-04 16:05:16.240979+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000084_lt,00Q000000084,001000000554,2026-01-04 16:05:16.241433+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000041_lt,00Q000000041,,2026-01-05 16:05:16.237344+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000062_lt,00Q000000062,,2026-01-05 16:05:16.239209+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000083_ft,00Q000000083,001000000069,2026-01-05 16:05:16.241311+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000100_lt,00Q000000100,001000000040,2026-01-05 16:05:16.242836+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000125_lt,00Q000000125,001000000354,2026-01-05 16:05:16.245139+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000001_ft,00Q000000001,,2026-01-06 16:05:16.233308+00:00,marketing_touch,Paid Search,paid_search,Google Search - Demo
+touch_000125_nu,00Q000000125,001000000354,2026-01-07 16:05:16.245139+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000170_nu,00Q000000170,,2026-01-07 16:05:16.249536+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000009_lt,00Q000000009,001000000151,2026-01-08 16:05:16.234444+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000099_lt,00Q000000099,001000000490,2026-01-08 16:05:16.242702+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000011_lt,00Q000000011,,2026-01-11 16:05:16.234597+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000129_lt,00Q000000129,,2026-01-11 16:05:16.245364+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000153_ft,00Q000000153,001000000541,2026-01-11 16:05:16.247948+00:00,marketing_touch,Field Event,field_event,Executive Dinner
+touch_000061_lt,00Q000000061,001000000170,2026-01-12 16:05:16.239181+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000060_nu,00Q000000060,001000000564,2026-01-13 16:05:16.239063+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000070_lt,00Q000000070,,2026-01-13 16:05:16.240098+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000105_nu,00Q000000105,001000000034,2026-01-13 16:05:16.243399+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000159_lt,00Q000000159,,2026-01-14 16:05:16.248492+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000042_lt,00Q000000042,001000000233,2026-01-15 16:05:16.237463+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000060_lt,00Q000000060,001000000564,2026-01-15 16:05:16.239063+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000098_lt,00Q000000098,,2026-01-15 16:05:16.242567+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000012_lt,00Q000000012,,2026-01-16 16:05:16.234626+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000059_lt,00Q000000059,001000000382,2026-01-16 16:05:16.238946+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000137_lt,00Q000000137,001000000125,2026-01-16 16:05:16.246216+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000178_lt,00Q000000178,,2026-01-16 16:05:16.250314+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000164_lt,00Q000000164,001000000224,2026-01-17 16:05:16.248994+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000151_ft,00Q000000151,001000000454,2026-01-18 16:05:16.247682+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000091_lt,00Q000000091,001000000138,2026-01-19 16:05:16.242166+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000139_lt,00Q000000139,001000000574,2026-01-19 16:05:16.246361+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000080_ft,00Q000000080,,2026-01-20 16:05:16.241035+00:00,marketing_touch,Partner,partner,Channel Partner
+touch_000143_lt,00Q000000143,001000000380,2026-01-25 16:05:16.246770+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000090_lt,00Q000000090,001000000478,2026-01-27 16:05:16.242048+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000090_nu,00Q000000090,001000000478,2026-01-27 16:05:16.242048+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000105_lt,00Q000000105,001000000034,2026-01-27 16:05:16.243399+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000025_nu,00Q000000025,001000000043,2026-01-29 16:05:16.235946+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000127_lt,00Q000000127,001000000460,2026-01-30 16:05:16.245285+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000170_lt,00Q000000170,,2026-01-31 16:05:16.249536+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000023_lt,00Q000000023,001000000202,2026-02-01 16:05:16.235792+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000032_lt,00Q000000032,001000000544,2026-02-02 16:05:16.236621+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000038_lt,00Q000000038,001000000472,2026-02-02 16:05:16.237153+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000166_lt,00Q000000166,001000000566,2026-02-02 16:05:16.249225+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000167_lt,00Q000000167,001000000344,2026-02-02 16:05:16.249364+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000077_lt,00Q000000077,001000000533,2026-02-03 16:05:16.240947+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000115_nu,00Q000000115,,2026-02-07 16:05:16.244373+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000007_lt,00Q000000007,001000000349,2026-02-08 16:05:16.234204+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000021_lt,00Q000000021,001000000325,2026-02-08 16:05:16.235542+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000144_lt,00Q000000144,,2026-02-11 16:05:16.246798+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000078_lt,00Q000000078,,2026-02-12 16:05:16.240979+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000080_nu,00Q000000080,,2026-02-12 16:05:16.241035+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000058_lt,00Q000000058,,2026-02-13 16:05:16.238826+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000083_lt,00Q000000083,001000000069,2026-02-13 16:05:16.241311+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000162_lt,00Q000000162,,2026-02-13 16:05:16.248757+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000153_lt,00Q000000153,001000000541,2026-02-14 16:05:16.247948+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000108_lt,00Q000000108,,2026-02-16 16:05:16.243576+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000025_lt,00Q000000025,001000000043,2026-02-18 16:05:16.235946+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000030_nu,00Q000000030,001000000284,2026-02-18 16:05:16.236471+00:00,nurture_touch,Email,email,Mid-Funnel Nurture
+touch_000131_lt,00Q000000131,001000000312,2026-02-18 16:05:16.245602+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000001_lt,00Q000000001,,2026-02-19 16:05:16.233308+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000132_lt,00Q000000132,001000000527,2026-02-20 16:05:16.245718+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000173_lt,00Q000000173,001000000430,2026-02-20 16:05:16.249883+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000014_lt,00Q000000014,,2026-02-21 16:05:16.234779+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000119_lt,00Q000000119,001000000123,2026-02-21 16:05:16.244607+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000136_lt,00Q000000136,001000000093,2026-02-21 16:05:16.246101+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000151_lt,00Q000000151,001000000454,2026-02-21 16:05:16.247682+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000030_lt,00Q000000030,001000000284,2026-02-22 16:05:16.236471+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000101_lt,00Q000000101,,2026-02-23 16:05:16.242884+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000169_lt,00Q000000169,,2026-02-27 16:05:16.249508+00:00,marketing_touch,Email,email,Lifecycle Nurture
+touch_000080_lt,00Q000000080,,2026-02-28 16:05:16.241035+00:00,marketing_touch,Paid Social,paid_social,LinkedIn Retargeting
+touch_000122_lt,00Q000000122,001000000369,2026-02-28 16:05:16.244876+00:00,marketing_touch,Direct,direct,Direct Visit
+touch_000043_lt,00Q000000043,,2026-03-02 16:05:16.237493+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar
+touch_000115_lt,00Q000000115,,2026-03-07 16:05:16.244373+00:00,marketing_touch,Webinar,webinar,Pipeline Webinar

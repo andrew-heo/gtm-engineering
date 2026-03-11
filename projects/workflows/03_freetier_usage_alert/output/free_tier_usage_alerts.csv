@@ -1,0 +1,11 @@
+account_id,account_name,owner_role,account_owner_name,slack_destination,total_events_last_7_days,distinct_users_last_7_days,top_user_email,top_user_share_of_activity
+001000000380,Free Freeworkspace080,AE,AE_10,UAE0000010,20,4,user1@freeworkspace080.com,0.4
+001000000391,Free Freeworkspace091,AE,AE_1,UAE0000001,20,4,user1@freeworkspace091.com,0.55
+001000000419,Free Freeworkspace119,AE,AE_6,UAE0000006,20,4,user2@freeworkspace119.com,0.35
+001000000361,Free Freeworkspace061,AE,AE_10,UAE0000010,17,4,user3@freeworkspace061.com,0.47
+001000000454,Free Freeworkspace154,AE,AE_7,UAE0000007,17,4,user3@freeworkspace154.com,0.41
+001000000463,Free Freeworkspace163,AE,AE_6,UAE0000006,17,4,user3@freeworkspace163.com,0.35
+001000000545,Free Freeworkspace245,AE,AE_4,UAE0000004,17,4,user2@freeworkspace245.com,0.41
+001000000568,Free Freeworkspace268,AE,AE_2,UAE0000002,17,4,user1@freeworkspace268.com,0.29
+001000000389,Free Freeworkspace089,AE,AE_8,UAE0000008,16,4,user3@freeworkspace089.com,0.5
+001000000467,Free Freeworkspace167,AE,AE_6,UAE0000006,16,4,user1@freeworkspace167.com,0.62

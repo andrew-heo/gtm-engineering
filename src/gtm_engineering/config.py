@@ -8,6 +8,8 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parents[2]
 SRC_ROOT = REPO_ROOT / "src"
 PROJECTS_ROOT = REPO_ROOT / "projects"
+WORKFLOWS_ROOT = PROJECTS_ROOT / "workflows"
+REPORTING_ROOT = REPO_ROOT / "reporting"
 
 DEFAULT_RANDOM_SEED = 42
 DEFAULT_DRY_RUN = True
@@ -33,11 +35,11 @@ DATA_FOUNDATIONS_DIR = PROJECTS_ROOT / "01_gtm_data_foundations"
 DATA_DIR = DATA_FOUNDATIONS_DIR / "data"
 DATA_OUTPUT_DIR = DATA_FOUNDATIONS_DIR / "output"
 
-TERRITORY_BALANCER_DIR = PROJECTS_ROOT / "02_territory_balancer"
-FREETIER_ALERT_DIR = PROJECTS_ROOT / "03_freetier_usage_alert"
-LEAD_ENRICHMENT_DIR = PROJECTS_ROOT / "04_lead_enrichment"
-RENEWAL_AUTOMATION_DIR = PROJECTS_ROOT / "05_am_renewal_form_automation"
-MARKETING_ATTRIBUTION_DIR = PROJECTS_ROOT / "06_marketing_attribution_and_funnel_model"
+TERRITORY_BALANCER_DIR = WORKFLOWS_ROOT / "02_territory_balancer"
+FREETIER_ALERT_DIR = WORKFLOWS_ROOT / "03_freetier_usage_alert"
+LEAD_ENRICHMENT_DIR = WORKFLOWS_ROOT / "04_lead_enrichment"
+RENEWAL_AUTOMATION_DIR = WORKFLOWS_ROOT / "05_am_renewal_form_automation"
+MARKETING_ATTRIBUTION_DIR = WORKFLOWS_ROOT / "06_marketing_attribution_and_funnel_model"
 
 SALESFORCE_CONFIG = {
     "username": os.getenv("SFDC_USERNAME", DEFAULT_SFDC_USERNAME),

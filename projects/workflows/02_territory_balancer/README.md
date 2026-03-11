@@ -61,5 +61,5 @@ Only paying SMB and Mid-Market accounts are included. Enterprise stays out of sc
 Run:
 
 ```bash
-python3 projects/02_territory_balancer/territory_balancer.py
+python3 projects/workflows/02_territory_balancer/territory_balancer.py
 ```

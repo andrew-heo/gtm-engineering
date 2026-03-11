@@ -47,5 +47,5 @@ flowchart LR
 Run:
 
 ```bash
-python3 projects/05_am_renewal_form_automation/am_renewal_form_automation.py
+python3 projects/workflows/05_am_renewal_form_automation/am_renewal_form_automation.py
 ```

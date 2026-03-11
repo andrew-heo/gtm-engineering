@@ -60,5 +60,5 @@ Reuse what exists before creating anything new.
 Run:
 
 ```bash
-python3 projects/04_lead_enrichment/lead_enrichment.py --scenario all
+python3 projects/workflows/04_lead_enrichment/lead_enrichment.py --scenario all
 ```
