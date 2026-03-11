@@ -24,6 +24,7 @@ The shared dataset simulates a Series C SaaS company at roughly `$50M ARR` from 
 | `03_freetier_usage_alert` | Weekly alerts to AEs on free-tier usage | Usage signal detection, Slack alerting, & Salesforce task creation |
 | `04_lead_enrichment` | Lead enrichment & SFDC update | Lead intake, company-email verification, enrichment, & Salesforce update |
 | `05_am_renewal_form_automation` | AM renewal form automation | Parabola-style form processing, renewal validation, & Salesforce writeback |
+| `06_marketing_attribution_and_funnel_model` | Marketing attribution & funnel source of truth | First-touch and last-touch attribution, tracking hygiene, & funnel reporting |
 
 ## Logic
 
@@ -33,6 +34,7 @@ flowchart LR
     A --> C[Free-tier usage alert]
     A --> D[Lead enrichment]
     A --> E[AM renewal form automation]
+    A --> F[Marketing attribution and funnel model]
 ```
 
 One shared GTM data layer. Multiple operational workflows.
@@ -58,4 +60,5 @@ python3 projects/02_territory_balancer/territory_balancer.py
 python3 projects/03_freetier_usage_alert/freetier_usage_alert.py
 python3 projects/04_lead_enrichment/lead_enrichment.py --scenario all
 python3 projects/05_am_renewal_form_automation/am_renewal_form_automation.py
+python3 projects/06_marketing_attribution_and_funnel_model/marketing_attribution_and_funnel_model.py
 ```
