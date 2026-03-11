@@ -1,4 +1,4 @@
-dataset,row_count
+dataset,value
 owners,20
 accounts,600
 leads,180
@@ -6,5 +6,14 @@ opportunities,210
 product_usage_events,5000
 paid_accounts,300
 free_plan_accounts,300
-open_opportunities,160
-matched_leads,128
+open_opportunities,155
+matched_leads,121
+lead_modeled_timeframe_days,180
+opportunity_modeled_timeframe_days,365
+usage_event_modeled_timeframe_days,7
+lead_request_timestamp_min,2025-09-15T02:29:13.733523+00:00
+lead_request_timestamp_max,2026-03-11T02:29:13.730222+00:00
+opportunity_created_date_min,2025-03-12
+opportunity_created_date_max,2026-03-07
+usage_event_timestamp_min,2026-03-04T02:30:13.758709+00:00
+usage_event_timestamp_max,2026-03-11T02:20:13.758709+00:00

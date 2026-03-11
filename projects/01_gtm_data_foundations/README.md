@@ -17,6 +17,16 @@ This project creates one operating picture of the company.
 | Opportunities | 210 |
 | Product usage events | 5,000 |
 
+### Modeled Timeframe
+
+| Dataset | Modeled Window |
+|---|---|
+| Leads | Past 180 days |
+| Opportunities | Past 365 days of pipeline creation |
+| Usage events | Past 7 days |
+
+This means the lead file shows recent demand, the opportunity file shows the last year of pipeline creation, and the usage file shows the last week of product engagement.
+
 ### Account Counts
 
 | Segment | Paying Accounts | Non-Paying Accounts |

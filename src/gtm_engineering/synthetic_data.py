@@ -89,20 +89,21 @@ LEAD_COUNTRY_WEIGHTS = [0.55, 0.15, 0.10, 0.10, 0.10]
 LEAD_SOURCE_OPTIONS = ["Inbound", "Demo Request", "Event", "Partner"]
 LEAD_STATUS_OPTIONS = ["Open", "Working", "Qualified"]
 LEAD_STATUS_WEIGHTS = [0.45, 0.35, 0.20]
-MAX_LEAD_AGE_DAYS = 45
+LEAD_MODELED_TIMEFRAME_DAYS = 180
 
 OPPORTUNITY_STAGE_OPTIONS = ["Prospecting", "Discovery", "Proposal", "Negotiation", "Closed Won", "Closed Lost"]
 OPPORTUNITY_STAGE_WEIGHTS = [0.20, 0.20, 0.20, 0.15, 0.15, 0.10]
 MIN_OPPORTUNITY_AMOUNT = 5000
 MAX_OPPORTUNITY_AMOUNT = 125000
-MIN_CLOSE_DATE_OFFSET_DAYS = -60
+MIN_CLOSE_DATE_OFFSET_DAYS = 0
 MAX_CLOSE_DATE_OFFSET_DAYS = 120
+OPPORTUNITY_MODELED_TIMEFRAME_DAYS = 365
 
 USAGE_EVENT_TYPES = ["page_view", "dashboard_view", "integration_setup", "alert_created", "api_call"]
 USAGE_EVENT_TYPE_WEIGHTS = [0.45, 0.20, 0.10, 0.10, 0.15]
 FREE_PLAN_USAGE_WEIGHT = 3
 PAID_PLAN_USAGE_WEIGHT = 2
-MAX_USAGE_EVENT_AGE_DAYS = 28
+USAGE_EVENT_MODELED_TIMEFRAME_DAYS = 7
 HOURS_PER_DAY = 24
 MINUTES_PER_HOUR = 60
 MAX_USERS_PER_ACCOUNT_FOR_USAGE = 4
@@ -336,7 +337,8 @@ def _build_leads(accounts: pd.DataFrame, lead_count: int) -> pd.DataFrame:
                 "matched_account_id": account_id,
                 "owner_id": owner_id,
                 "request_timestamp": (
-                    datetime.now(timezone.utc) - timedelta(days=int(np.random.randint(0, MAX_LEAD_AGE_DAYS)))
+                    datetime.now(timezone.utc)
+                    - timedelta(days=int(np.random.randint(0, LEAD_MODELED_TIMEFRAME_DAYS)))
                 ).isoformat(),
             }
         )
@@ -351,7 +353,9 @@ def _build_opportunities(accounts: pd.DataFrame, opportunity_count: int) -> pd.D
     for index in range(opportunity_count):
         account = accounts.sample(1).iloc[0]
         stage = np.random.choice(OPPORTUNITY_STAGE_OPTIONS, p=OPPORTUNITY_STAGE_WEIGHTS)
+        created_date = (now - timedelta(days=int(np.random.randint(0, OPPORTUNITY_MODELED_TIMEFRAME_DAYS)))).date()
         close_offset_days = int(np.random.randint(MIN_CLOSE_DATE_OFFSET_DAYS, MAX_CLOSE_DATE_OFFSET_DAYS))
+        close_date = created_date + timedelta(days=close_offset_days)
         rows.append(
             {
                 "opportunity_id": f"006{index + 1:09d}",
@@ -361,7 +365,8 @@ def _build_opportunities(accounts: pd.DataFrame, opportunity_count: int) -> pd.D
                 "stage_name": stage,
                 "amount": int(np.random.randint(MIN_OPPORTUNITY_AMOUNT, MAX_OPPORTUNITY_AMOUNT)),
                 "is_open": stage not in {"Closed Won", "Closed Lost"},
-                "close_date": (now + timedelta(days=close_offset_days)).date().isoformat(),
+                "created_date": created_date.isoformat(),
+                "close_date": close_date.isoformat(),
             }
         )
 
@@ -382,7 +387,7 @@ def _build_usage_events(accounts: pd.DataFrame, event_count: int) -> pd.DataFram
         account_id = np.random.choice(weighted_accounts)
         account = account_lookup[account_id]
         timestamp = now - timedelta(
-            days=int(np.random.randint(0, MAX_USAGE_EVENT_AGE_DAYS)),
+            days=int(np.random.randint(0, USAGE_EVENT_MODELED_TIMEFRAME_DAYS)),
             hours=int(np.random.randint(0, HOURS_PER_DAY)),
             minutes=int(np.random.randint(0, MINUTES_PER_HOUR)),
         )
@@ -481,6 +486,7 @@ def load_sample_data(data_dir: Path) -> Dict[str, pd.DataFrame]:
             "opportunity_name": "string",
             "owner_id": "string",
             "stage_name": "string",
+            "created_date": "string",
             "close_date": "string",
         },
         "product_usage_events": {

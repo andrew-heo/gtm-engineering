@@ -1,181 +1,181 @@
 lead_id,first_name,last_name,email,company_name,job_title,country,lead_source,status,matched_account_id,owner_id,request_timestamp
-00Q000000001,Lead1,Contact,lead1@prospect001.com,Prospect 1,Head of Ops,US,Demo Request,Working,,,2026-02-25T01:55:41.891950+00:00
-00Q000000002,Lead2,Contact,lead2@freeworkspace251.com,Free Freeworkspace251,RevOps Manager,US,Demo Request,Open,001000000551,005AE000005,2026-01-31T01:55:41.892256+00:00
-00Q000000003,Lead3,Contact,lead3@company132.com,Company132 Labs,CTO,SG,Inbound,Working,001000000132,005CSM00006,2026-02-28T01:55:41.892384+00:00
-00Q000000004,Lead4,Contact,lead4@company100.com,Company100 Labs,Head of Ops,DE,Partner,Working,001000000100,005CSM00001,2026-02-09T01:55:41.892501+00:00
-00Q000000005,Lead5,Contact,lead5@freeworkspace144.com,Free Freeworkspace144,Head of Ops,US,Event,Working,001000000444,005AE000005,2026-01-29T01:55:41.892619+00:00
-00Q000000006,Lead6,Contact,lead6@freeworkspace177.com,Free Freeworkspace177,RevOps Manager,AU,Event,Open,001000000477,005AE000002,2026-03-05T01:55:41.892736+00:00
-00Q000000007,Lead7,Contact,lead7@freeworkspace120.com,Free Freeworkspace120,CTO,US,Partner,Working,001000000420,005AE000006,2026-02-02T01:55:41.892855+00:00
-00Q000000008,Lead8,Contact,lead8@freeworkspace151.com,Free Freeworkspace151,VP Sales,US,Partner,Open,001000000451,005AE000002,2026-02-28T01:55:41.892969+00:00
-00Q000000009,Lead9,Contact,lead9@company039.com,Company039 Labs,CTO,UK,Inbound,Open,001000000039,005CSM00003,2026-03-06T01:55:41.893083+00:00
-00Q000000010,Lead10,Contact,lead10@prospect010.com,Prospect 10,CTO,DE,Partner,Qualified,,,2026-03-02T01:55:41.893112+00:00
-00Q000000011,Lead11,Contact,lead11@prospect011.com,Prospect 11,VP Sales,UK,Partner,Working,,,2026-02-04T01:55:41.893138+00:00
-00Q000000012,Lead12,Contact,lead12@prospect012.com,Prospect 12,VP Sales,US,Demo Request,Working,,,2026-02-24T01:55:41.893165+00:00
-00Q000000013,Lead13,Contact,lead13@prospect013.com,Prospect 13,Head of Ops,UK,Demo Request,Qualified,,,2026-02-28T01:55:41.893192+00:00
-00Q000000014,Lead14,Contact,lead14@company046.com,Company046 Labs,CTO,US,Event,Working,001000000046,005CSM00003,2026-01-27T01:55:41.893307+00:00
-00Q000000015,Lead15,Contact,lead15@freeworkspace077.com,Free Freeworkspace077,CTO,US,Demo Request,Qualified,001000000377,005AE000003,2026-02-25T01:55:41.893419+00:00
-00Q000000016,Lead16,Contact,lead16@company143.com,Company143 Labs,Marketing Director,AU,Event,Working,001000000143,005CSM00001,2026-03-08T01:55:41.893531+00:00
-00Q000000017,Lead17,Contact,lead17@freeworkspace266.com,Free Freeworkspace266,VP Sales,UK,Inbound,Working,001000000566,005AE000005,2026-02-07T01:55:41.893642+00:00
-00Q000000018,Lead18,Contact,lead18@prospect018.com,Prospect 18,Marketing Director,US,Inbound,Open,,,2026-01-26T01:55:41.893670+00:00
-00Q000000019,Lead19,Contact,lead19@freeworkspace192.com,Free Freeworkspace192,VP Sales,US,Event,Working,001000000492,005AE000005,2026-03-06T01:55:41.893782+00:00
-00Q000000020,Lead20,Contact,lead20@prospect020.com,Prospect 20,RevOps Manager,AU,Partner,Qualified,,,2026-02-25T01:55:41.893815+00:00
-00Q000000021,Lead21,Contact,lead21@freeworkspace025.com,Free Freeworkspace025,CTO,AU,Partner,Qualified,001000000325,005AE000005,2026-03-01T01:55:41.893928+00:00
-00Q000000022,Lead22,Contact,lead22@freeworkspace084.com,Free Freeworkspace084,CTO,US,Event,Open,001000000384,005AE000005,2026-02-22T01:55:41.894049+00:00
-00Q000000023,Lead23,Contact,lead23@company202.com,Company202 Labs,RevOps Manager,AU,Inbound,Working,001000000202,005CSM00010,2026-02-11T01:55:41.894159+00:00
-00Q000000024,Lead24,Contact,lead24@prospect024.com,Prospect 24,Marketing Director,US,Demo Request,Open,,,2026-03-07T01:55:41.894186+00:00
-00Q000000025,Lead25,Contact,lead25@company043.com,Company043 Labs,RevOps Manager,SG,Partner,Open,001000000043,005CSM00005,2026-03-04T01:55:41.894299+00:00
-00Q000000026,Lead26,Contact,lead26@company047.com,Company047 Labs,Head of Ops,US,Partner,Open,001000000047,005CSM00004,2026-02-11T01:55:41.894410+00:00
-00Q000000027,Lead27,Contact,lead27@freeworkspace092.com,Free Freeworkspace092,CTO,US,Inbound,Working,001000000392,005AE000004,2026-01-26T01:55:41.894520+00:00
-00Q000000028,Lead28,Contact,lead28@freeworkspace118.com,Free Freeworkspace118,Head of Ops,US,Partner,Qualified,001000000418,005AE000008,2026-02-19T01:55:41.894630+00:00
-00Q000000029,Lead29,Contact,lead29@prospect029.com,Prospect 29,VP Sales,US,Partner,Open,,,2026-02-27T01:55:41.894657+00:00
-00Q000000030,Lead30,Contact,lead30@company058.com,Company058 Labs,CTO,UK,Inbound,Open,001000000058,005CSM00005,2026-02-19T01:55:41.894770+00:00
-00Q000000031,Lead31,Contact,lead31@company268.com,Company268 Labs,VP Sales,US,Demo Request,Working,001000000268,005CSM00003,2026-02-27T01:55:41.894881+00:00
-00Q000000032,Lead32,Contact,lead32@company077.com,Company077 Labs,VP Sales,AU,Partner,Open,001000000077,005CSM00004,2026-02-04T01:55:41.894991+00:00
-00Q000000033,Lead33,Contact,lead33@prospect033.com,Prospect 33,VP Sales,US,Partner,Open,,,2026-03-11T01:55:41.895019+00:00
-00Q000000034,Lead34,Contact,lead34@company216.com,Company216 Labs,Head of Ops,US,Partner,Open,001000000216,005CSM00006,2026-02-21T01:55:41.895131+00:00
-00Q000000035,Lead35,Contact,lead35@company049.com,Company049 Labs,Marketing Director,UK,Inbound,Open,001000000049,005CSM00001,2026-02-09T01:55:41.895240+00:00
-00Q000000036,Lead36,Contact,lead36@company294.com,Company294 Labs,Head of Ops,US,Inbound,Qualified,001000000294,005CSM00002,2026-02-18T01:55:41.895352+00:00
-00Q000000037,Lead37,Contact,lead37@company162.com,Company162 Labs,CTO,US,Inbound,Open,001000000162,005CSM00005,2026-02-05T01:55:41.895464+00:00
-00Q000000038,Lead38,Contact,lead38@freeworkspace126.com,Free Freeworkspace126,RevOps Manager,UK,Demo Request,Open,001000000426,005AE000001,2026-02-20T01:55:41.895575+00:00
-00Q000000039,Lead39,Contact,lead39@freeworkspace230.com,Free Freeworkspace230,Marketing Director,UK,Inbound,Working,001000000530,005AE000006,2026-03-05T01:55:41.895686+00:00
-00Q000000040,Lead40,Contact,lead40@prospect040.com,Prospect 40,Marketing Director,UK,Partner,Working,,,2026-03-10T01:55:41.895714+00:00
-00Q000000041,Lead41,Contact,lead41@prospect041.com,Prospect 41,VP Sales,US,Partner,Open,,,2026-02-28T01:55:41.895740+00:00
-00Q000000042,Lead42,Contact,lead42@prospect042.com,Prospect 42,RevOps Manager,US,Event,Open,,,2026-03-02T01:55:41.895766+00:00
-00Q000000043,Lead43,Contact,lead43@prospect043.com,Prospect 43,RevOps Manager,US,Partner,Open,,,2026-03-04T01:55:41.895792+00:00
-00Q000000044,Lead44,Contact,lead44@freeworkspace157.com,Free Freeworkspace157,Marketing Director,SG,Inbound,Open,001000000457,005AE000006,2026-02-02T01:55:41.895905+00:00
-00Q000000045,Lead45,Contact,lead45@company110.com,Company110 Labs,Marketing Director,US,Inbound,Qualified,001000000110,005CSM00002,2026-03-02T01:55:41.896017+00:00
-00Q000000046,Lead46,Contact,lead46@prospect046.com,Prospect 46,CTO,UK,Inbound,Open,,,2026-02-27T01:55:41.896044+00:00
-00Q000000047,Lead47,Contact,lead47@freeworkspace243.com,Free Freeworkspace243,Marketing Director,US,Partner,Qualified,001000000543,005AE000003,2026-03-01T01:55:41.896155+00:00
-00Q000000048,Lead48,Contact,lead48@freeworkspace130.com,Free Freeworkspace130,Marketing Director,SG,Event,Qualified,001000000430,005AE000006,2026-02-13T01:55:41.896312+00:00
-00Q000000049,Lead49,Contact,lead49@freeworkspace286.com,Free Freeworkspace286,CTO,SG,Demo Request,Working,001000000586,005AE000003,2026-02-27T01:55:41.896451+00:00
-00Q000000050,Lead50,Contact,lead50@freeworkspace161.com,Free Freeworkspace161,VP Sales,US,Event,Open,001000000461,005AE000006,2026-03-10T01:55:41.896575+00:00
-00Q000000051,Lead51,Contact,lead51@freeworkspace258.com,Free Freeworkspace258,Head of Ops,US,Event,Qualified,001000000558,005AE000006,2026-03-02T01:55:41.896695+00:00
-00Q000000052,Lead52,Contact,lead52@freeworkspace141.com,Free Freeworkspace141,Marketing Director,US,Inbound,Open,001000000441,005AE000008,2026-01-27T01:55:41.896816+00:00
-00Q000000053,Lead53,Contact,lead53@company229.com,Company229 Labs,VP Sales,US,Event,Qualified,001000000229,005CSM00010,2026-01-30T01:55:41.896938+00:00
-00Q000000054,Lead54,Contact,lead54@prospect054.com,Prospect 54,Marketing Director,US,Partner,Working,,,2026-03-09T01:55:41.896967+00:00
-00Q000000055,Lead55,Contact,lead55@company257.com,Company257 Labs,CTO,SG,Event,Qualified,001000000257,005CSM00010,2026-03-06T01:55:41.897086+00:00
-00Q000000056,Lead56,Contact,lead56@company100.com,Company100 Labs,Head of Ops,DE,Inbound,Working,001000000100,005CSM00001,2026-02-27T01:55:41.897205+00:00
-00Q000000057,Lead57,Contact,lead57@freeworkspace115.com,Free Freeworkspace115,VP Sales,US,Demo Request,Qualified,001000000415,005AE000006,2026-02-11T01:55:41.897321+00:00
-00Q000000058,Lead58,Contact,lead58@freeworkspace145.com,Free Freeworkspace145,Marketing Director,DE,Demo Request,Open,001000000445,005AE000010,2026-02-06T01:55:41.897438+00:00
-00Q000000059,Lead59,Contact,lead59@prospect059.com,Prospect 59,Marketing Director,US,Inbound,Open,,,2026-01-27T01:55:41.897467+00:00
-00Q000000060,Lead60,Contact,lead60@freeworkspace053.com,Free Freeworkspace053,Head of Ops,US,Inbound,Qualified,001000000353,005AE000002,2026-02-02T01:55:41.897585+00:00
-00Q000000061,Lead61,Contact,lead61@freeworkspace121.com,Free Freeworkspace121,VP Sales,US,Inbound,Working,001000000421,005AE000001,2026-02-07T01:55:41.897699+00:00
-00Q000000062,Lead62,Contact,lead62@company129.com,Company129 Labs,Marketing Director,UK,Partner,Open,001000000129,005CSM00002,2026-02-17T01:55:41.897813+00:00
-00Q000000063,Lead63,Contact,lead63@company248.com,Company248 Labs,CTO,US,Partner,Qualified,001000000248,005CSM00010,2026-02-20T01:55:41.897930+00:00
-00Q000000064,Lead64,Contact,lead64@prospect064.com,Prospect 64,VP Sales,UK,Inbound,Qualified,,,2026-01-29T01:55:41.897958+00:00
-00Q000000065,Lead65,Contact,lead65@company165.com,Company165 Labs,Head of Ops,US,Demo Request,Open,001000000165,005CSM00010,2026-01-31T01:55:41.898072+00:00
-00Q000000066,Lead66,Contact,lead66@freeworkspace249.com,Free Freeworkspace249,Head of Ops,US,Inbound,Working,001000000549,005AE000001,2026-02-11T01:55:41.898186+00:00
-00Q000000067,Lead67,Contact,lead67@company139.com,Company139 Labs,CTO,US,Demo Request,Working,001000000139,005CSM00008,2026-02-25T01:55:41.898301+00:00
-00Q000000068,Lead68,Contact,lead68@company167.com,Company167 Labs,CTO,DE,Demo Request,Open,001000000167,005CSM00003,2026-02-16T01:55:41.898414+00:00
-00Q000000069,Lead69,Contact,lead69@company127.com,Company127 Labs,CTO,UK,Demo Request,Open,001000000127,005AE000003,2026-01-31T01:55:41.898531+00:00
-00Q000000070,Lead70,Contact,lead70@company110.com,Company110 Labs,CTO,DE,Demo Request,Qualified,001000000110,005CSM00002,2026-02-20T01:55:41.898644+00:00
-00Q000000071,Lead71,Contact,lead71@prospect071.com,Prospect 71,RevOps Manager,UK,Inbound,Working,,,2026-02-01T01:55:41.898673+00:00
-00Q000000072,Lead72,Contact,lead72@prospect072.com,Prospect 72,Head of Ops,US,Demo Request,Open,,,2026-03-10T01:55:41.898700+00:00
-00Q000000073,Lead73,Contact,lead73@freeworkspace236.com,Free Freeworkspace236,VP Sales,UK,Partner,Qualified,001000000536,005AE000001,2026-03-03T01:55:41.898814+00:00
-00Q000000074,Lead74,Contact,lead74@prospect074.com,Prospect 74,CTO,US,Event,Open,,,2026-02-21T01:55:41.898841+00:00
-00Q000000075,Lead75,Contact,lead75@freeworkspace116.com,Free Freeworkspace116,RevOps Manager,US,Partner,Qualified,001000000416,005AE000002,2026-03-05T01:55:41.898954+00:00
-00Q000000076,Lead76,Contact,lead76@prospect076.com,Prospect 76,VP Sales,US,Inbound,Qualified,,,2026-01-31T01:55:41.898982+00:00
-00Q000000077,Lead77,Contact,lead77@company080.com,Company080 Labs,VP Sales,US,Partner,Qualified,001000000080,005CSM00005,2026-02-25T01:55:41.899096+00:00
-00Q000000078,Lead78,Contact,lead78@company031.com,Company031 Labs,Head of Ops,DE,Event,Qualified,001000000031,005CSM00008,2026-01-30T01:55:41.899210+00:00
-00Q000000079,Lead79,Contact,lead79@freeworkspace194.com,Free Freeworkspace194,CTO,UK,Demo Request,Open,001000000494,005AE000003,2026-02-15T01:55:41.899328+00:00
-00Q000000080,Lead80,Contact,lead80@prospect080.com,Prospect 80,VP Sales,US,Event,Working,,,2026-01-26T01:55:41.899356+00:00
-00Q000000081,Lead81,Contact,lead81@freeworkspace144.com,Free Freeworkspace144,CTO,US,Demo Request,Open,001000000444,005AE000005,2026-02-05T01:55:41.899470+00:00
-00Q000000082,Lead82,Contact,lead82@company232.com,Company232 Labs,Marketing Director,DE,Partner,Qualified,001000000232,005CSM00002,2026-02-01T01:55:41.899581+00:00
-00Q000000083,Lead83,Contact,lead83@prospect083.com,Prospect 83,CTO,US,Event,Working,,,2026-03-06T01:55:41.899609+00:00
-00Q000000084,Lead84,Contact,lead84@prospect084.com,Prospect 84,VP Sales,SG,Event,Open,,,2026-02-05T01:55:41.899635+00:00
-00Q000000085,Lead85,Contact,lead85@company226.com,Company226 Labs,RevOps Manager,US,Demo Request,Working,001000000226,005CSM00007,2026-01-29T01:55:41.899749+00:00
-00Q000000086,Lead86,Contact,lead86@freeworkspace102.com,Free Freeworkspace102,Head of Ops,US,Partner,Qualified,001000000402,005AE000004,2026-02-13T01:55:41.899862+00:00
-00Q000000087,Lead87,Contact,lead87@prospect087.com,Prospect 87,CTO,US,Partner,Open,,,2026-02-22T01:55:41.899890+00:00
-00Q000000088,Lead88,Contact,lead88@prospect088.com,Prospect 88,Marketing Director,US,Partner,Qualified,,,2026-02-12T01:55:41.899916+00:00
-00Q000000089,Lead89,Contact,lead89@prospect089.com,Prospect 89,VP Sales,US,Inbound,Working,,,2026-03-03T01:55:41.899943+00:00
-00Q000000090,Lead90,Contact,lead90@company057.com,Company057 Labs,RevOps Manager,DE,Inbound,Qualified,001000000057,005CSM00002,2026-01-27T01:55:41.900059+00:00
-00Q000000091,Lead91,Contact,lead91@freeworkspace232.com,Free Freeworkspace232,VP Sales,AU,Inbound,Working,001000000532,005AE000010,2026-02-23T01:55:41.900174+00:00
-00Q000000092,Lead92,Contact,lead92@prospect092.com,Prospect 92,VP Sales,UK,Demo Request,Open,,,2026-02-16T01:55:41.900201+00:00
-00Q000000093,Lead93,Contact,lead93@company013.com,Company013 Labs,VP Sales,US,Demo Request,Working,001000000013,005CSM00005,2026-03-06T01:55:41.900315+00:00
-00Q000000094,Lead94,Contact,lead94@prospect094.com,Prospect 94,Marketing Director,US,Inbound,Open,,,2026-02-27T01:55:41.900343+00:00
-00Q000000095,Lead95,Contact,lead95@company216.com,Company216 Labs,Head of Ops,US,Inbound,Qualified,001000000216,005CSM00006,2026-03-08T01:55:41.900458+00:00
-00Q000000096,Lead96,Contact,lead96@freeworkspace020.com,Free Freeworkspace020,Marketing Director,SG,Demo Request,Working,001000000320,005AE000005,2026-01-26T01:55:41.900569+00:00
-00Q000000097,Lead97,Contact,lead97@prospect097.com,Prospect 97,Marketing Director,US,Event,Open,,,2026-02-27T01:55:41.900596+00:00
-00Q000000098,Lead98,Contact,lead98@prospect098.com,Prospect 98,VP Sales,US,Inbound,Qualified,,,2026-03-11T01:55:41.900623+00:00
-00Q000000099,Lead99,Contact,lead99@freeworkspace052.com,Free Freeworkspace052,Head of Ops,UK,Demo Request,Working,001000000352,005AE000009,2026-03-07T01:55:41.900737+00:00
-00Q000000100,Lead100,Contact,lead100@freeworkspace039.com,Free Freeworkspace039,CTO,US,Inbound,Open,001000000339,005AE000004,2026-02-09T01:55:41.900849+00:00
-00Q000000101,Lead101,Contact,lead101@freeworkspace158.com,Free Freeworkspace158,RevOps Manager,US,Event,Working,001000000458,005AE000002,2026-02-13T01:55:41.900961+00:00
-00Q000000102,Lead102,Contact,lead102@freeworkspace271.com,Free Freeworkspace271,CTO,US,Inbound,Qualified,001000000571,005AE000006,2026-02-03T01:55:41.901072+00:00
-00Q000000103,Lead103,Contact,lead103@freeworkspace081.com,Free Freeworkspace081,VP Sales,UK,Demo Request,Open,001000000381,005AE000004,2026-03-07T01:55:41.901185+00:00
-00Q000000104,Lead104,Contact,lead104@freeworkspace278.com,Free Freeworkspace278,VP Sales,US,Inbound,Working,001000000578,005AE000006,2026-03-03T01:55:41.901297+00:00
-00Q000000105,Lead105,Contact,lead105@company047.com,Company047 Labs,Head of Ops,US,Event,Qualified,001000000047,005CSM00004,2026-03-08T01:55:41.901408+00:00
-00Q000000106,Lead106,Contact,lead106@freeworkspace067.com,Free Freeworkspace067,RevOps Manager,US,Event,Open,001000000367,005AE000001,2026-01-26T01:55:41.901520+00:00
-00Q000000107,Lead107,Contact,lead107@freeworkspace175.com,Free Freeworkspace175,CTO,US,Demo Request,Working,001000000475,005AE000008,2026-02-02T01:55:41.901632+00:00
-00Q000000108,Lead108,Contact,lead108@company268.com,Company268 Labs,VP Sales,US,Inbound,Open,001000000268,005CSM00003,2026-03-08T01:55:41.901743+00:00
-00Q000000109,Lead109,Contact,lead109@freeworkspace196.com,Free Freeworkspace196,Marketing Director,AU,Partner,Qualified,001000000496,005AE000008,2026-02-19T01:55:41.901855+00:00
-00Q000000110,Lead110,Contact,lead110@freeworkspace056.com,Free Freeworkspace056,VP Sales,US,Partner,Open,001000000356,005AE000005,2026-03-01T01:55:41.901966+00:00
-00Q000000111,Lead111,Contact,lead111@prospect111.com,Prospect 111,RevOps Manager,US,Inbound,Open,,,2026-03-07T01:55:41.901993+00:00
-00Q000000112,Lead112,Contact,lead112@prospect112.com,Prospect 112,Marketing Director,SG,Partner,Qualified,,,2026-02-24T01:55:41.902020+00:00
-00Q000000113,Lead113,Contact,lead113@prospect113.com,Prospect 113,CTO,US,Inbound,Working,,,2026-01-26T01:55:41.902046+00:00
-00Q000000114,Lead114,Contact,lead114@freeworkspace281.com,Free Freeworkspace281,Marketing Director,UK,Event,Open,001000000581,005AE000003,2026-03-01T01:55:41.902159+00:00
-00Q000000115,Lead115,Contact,lead115@prospect115.com,Prospect 115,Marketing Director,SG,Partner,Qualified,,,2026-02-23T01:55:41.902185+00:00
-00Q000000116,Lead116,Contact,lead116@prospect116.com,Prospect 116,Marketing Director,UK,Event,Working,,,2026-02-02T01:55:41.902211+00:00
-00Q000000117,Lead117,Contact,lead117@freeworkspace165.com,Free Freeworkspace165,CTO,US,Demo Request,Open,001000000465,005AE000008,2026-03-02T01:55:41.902324+00:00
-00Q000000118,Lead118,Contact,lead118@prospect118.com,Prospect 118,Marketing Director,US,Inbound,Qualified,,,2026-02-14T01:55:41.902350+00:00
-00Q000000119,Lead119,Contact,lead119@prospect119.com,Prospect 119,VP Sales,DE,Event,Working,,,2026-01-28T01:55:41.902376+00:00
-00Q000000120,Lead120,Contact,lead120@freeworkspace039.com,Free Freeworkspace039,Marketing Director,UK,Inbound,Open,001000000339,005AE000004,2026-02-15T01:55:41.902491+00:00
-00Q000000121,Lead121,Contact,lead121@company119.com,Company119 Labs,VP Sales,AU,Demo Request,Working,001000000119,005CSM00002,2026-02-27T01:55:41.902605+00:00
-00Q000000122,Lead122,Contact,lead122@prospect122.com,Prospect 122,VP Sales,SG,Demo Request,Open,,,2026-03-07T01:55:41.902631+00:00
-00Q000000123,Lead123,Contact,lead123@company100.com,Company100 Labs,CTO,US,Inbound,Open,001000000100,005CSM00001,2026-03-08T01:55:41.902745+00:00
-00Q000000124,Lead124,Contact,lead124@company143.com,Company143 Labs,Marketing Director,US,Partner,Working,001000000143,005CSM00001,2026-02-17T01:55:41.902855+00:00
-00Q000000125,Lead125,Contact,lead125@freeworkspace222.com,Free Freeworkspace222,Head of Ops,US,Inbound,Open,001000000522,005AE000001,2026-02-07T01:55:41.902979+00:00
-00Q000000126,Lead126,Contact,lead126@prospect126.com,Prospect 126,RevOps Manager,US,Partner,Open,,,2026-02-28T01:55:41.903006+00:00
-00Q000000127,Lead127,Contact,lead127@prospect127.com,Prospect 127,CTO,US,Partner,Open,,,2026-02-26T01:55:41.903032+00:00
-00Q000000128,Lead128,Contact,lead128@freeworkspace025.com,Free Freeworkspace025,VP Sales,US,Partner,Open,001000000325,005AE000005,2026-02-02T01:55:41.903143+00:00
-00Q000000129,Lead129,Contact,lead129@freeworkspace015.com,Free Freeworkspace015,VP Sales,US,Partner,Open,001000000315,005AE000002,2026-02-01T01:55:41.903253+00:00
-00Q000000130,Lead130,Contact,lead130@company111.com,Company111 Labs,VP Sales,US,Event,Open,001000000111,005CSM00006,2026-03-02T01:55:41.903364+00:00
-00Q000000131,Lead131,Contact,lead131@freeworkspace012.com,Free Freeworkspace012,Head of Ops,US,Inbound,Working,001000000312,005AE000010,2026-03-08T01:55:41.903476+00:00
-00Q000000132,Lead132,Contact,lead132@company241.com,Company241 Labs,RevOps Manager,UK,Event,Open,001000000241,005CSM00010,2026-02-23T01:55:41.903588+00:00
-00Q000000133,Lead133,Contact,lead133@company298.com,Company298 Labs,Marketing Director,SG,Partner,Working,001000000298,005CSM00001,2026-02-13T01:55:41.903700+00:00
-00Q000000134,Lead134,Contact,lead134@company195.com,Company195 Labs,VP Sales,US,Demo Request,Open,001000000195,005CSM00005,2026-02-05T01:55:41.903811+00:00
-00Q000000135,Lead135,Contact,lead135@company034.com,Company034 Labs,VP Sales,DE,Event,Open,001000000034,005CSM00002,2026-02-23T01:55:41.903921+00:00
-00Q000000136,Lead136,Contact,lead136@prospect136.com,Prospect 136,Head of Ops,US,Partner,Working,,,2026-02-04T01:55:41.903949+00:00
-00Q000000137,Lead137,Contact,lead137@prospect137.com,Prospect 137,Marketing Director,US,Inbound,Working,,,2026-01-29T01:55:41.903975+00:00
-00Q000000138,Lead138,Contact,lead138@freeworkspace193.com,Free Freeworkspace193,Head of Ops,US,Partner,Qualified,001000000493,005AE000009,2026-02-08T01:55:41.904086+00:00
-00Q000000139,Lead139,Contact,lead139@freeworkspace060.com,Free Freeworkspace060,VP Sales,UK,Demo Request,Open,001000000360,005AE000001,2026-02-27T01:55:41.904196+00:00
-00Q000000140,Lead140,Contact,lead140@company211.com,Company211 Labs,RevOps Manager,US,Demo Request,Open,001000000211,005CSM00010,2026-03-11T01:55:41.904307+00:00
-00Q000000141,Lead141,Contact,lead141@freeworkspace238.com,Free Freeworkspace238,CTO,US,Event,Working,001000000538,005AE000003,2026-02-28T01:55:41.904418+00:00
-00Q000000142,Lead142,Contact,lead142@freeworkspace251.com,Free Freeworkspace251,Marketing Director,SG,Demo Request,Open,001000000551,005AE000005,2026-02-15T01:55:41.904530+00:00
-00Q000000143,Lead143,Contact,lead143@freeworkspace003.com,Free Freeworkspace003,Marketing Director,US,Inbound,Working,001000000303,005AE000007,2026-03-07T01:55:41.904640+00:00
-00Q000000144,Lead144,Contact,lead144@freeworkspace154.com,Free Freeworkspace154,CTO,UK,Demo Request,Working,001000000454,005AE000006,2026-03-04T01:55:41.904751+00:00
-00Q000000145,Lead145,Contact,lead145@freeworkspace246.com,Free Freeworkspace246,VP Sales,US,Inbound,Qualified,001000000546,005AE000008,2026-02-04T01:55:41.904861+00:00
-00Q000000146,Lead146,Contact,lead146@prospect146.com,Prospect 146,CTO,US,Demo Request,Open,,,2026-02-21T01:55:41.904888+00:00
-00Q000000147,Lead147,Contact,lead147@freeworkspace266.com,Free Freeworkspace266,VP Sales,US,Event,Working,001000000566,005AE000005,2026-03-09T01:55:41.905008+00:00
-00Q000000148,Lead148,Contact,lead148@company259.com,Company259 Labs,CTO,US,Event,Working,001000000259,005CSM00007,2026-02-21T01:55:41.905118+00:00
-00Q000000149,Lead149,Contact,lead149@company180.com,Company180 Labs,RevOps Manager,UK,Inbound,Qualified,001000000180,005CSM00009,2026-02-28T01:55:41.905230+00:00
-00Q000000150,Lead150,Contact,lead150@company186.com,Company186 Labs,Head of Ops,UK,Demo Request,Working,001000000186,005CSM00001,2026-02-16T01:55:41.905341+00:00
-00Q000000151,Lead151,Contact,lead151@freeworkspace207.com,Free Freeworkspace207,CTO,US,Demo Request,Working,001000000507,005AE000006,2026-02-15T01:55:41.905451+00:00
-00Q000000152,Lead152,Contact,lead152@company010.com,Company010 Labs,RevOps Manager,US,Event,Open,001000000010,005CSM00010,2026-02-28T01:55:41.905562+00:00
-00Q000000153,Lead153,Contact,lead153@freeworkspace165.com,Free Freeworkspace165,VP Sales,SG,Event,Open,001000000465,005AE000008,2026-01-29T01:55:41.905672+00:00
-00Q000000154,Lead154,Contact,lead154@company149.com,Company149 Labs,CTO,DE,Demo Request,Working,001000000149,005CSM00001,2026-02-14T01:55:41.905782+00:00
-00Q000000155,Lead155,Contact,lead155@freeworkspace091.com,Free Freeworkspace091,VP Sales,AU,Partner,Qualified,001000000391,005AE000009,2026-02-22T01:55:41.905891+00:00
-00Q000000156,Lead156,Contact,lead156@freeworkspace056.com,Free Freeworkspace056,CTO,US,Inbound,Open,001000000356,005AE000005,2026-02-19T01:55:41.906007+00:00
-00Q000000157,Lead157,Contact,lead157@company100.com,Company100 Labs,VP Sales,SG,Event,Open,001000000100,005CSM00001,2026-02-14T01:55:41.906119+00:00
-00Q000000158,Lead158,Contact,lead158@company207.com,Company207 Labs,Marketing Director,US,Event,Qualified,001000000207,005CSM00010,2026-03-03T01:55:41.906236+00:00
-00Q000000159,Lead159,Contact,lead159@company070.com,Company070 Labs,VP Sales,US,Demo Request,Qualified,001000000070,005CSM00010,2026-01-27T01:55:41.906348+00:00
-00Q000000160,Lead160,Contact,lead160@company049.com,Company049 Labs,RevOps Manager,US,Demo Request,Working,001000000049,005CSM00001,2026-02-18T01:55:41.906457+00:00
-00Q000000161,Lead161,Contact,lead161@prospect161.com,Prospect 161,RevOps Manager,AU,Demo Request,Open,,,2026-01-26T01:55:41.906484+00:00
-00Q000000162,Lead162,Contact,lead162@prospect162.com,Prospect 162,Marketing Director,US,Partner,Qualified,,,2026-03-06T01:55:41.906510+00:00
-00Q000000163,Lead163,Contact,lead163@prospect163.com,Prospect 163,Marketing Director,US,Inbound,Qualified,,,2026-02-21T01:55:41.906536+00:00
-00Q000000164,Lead164,Contact,lead164@company200.com,Company200 Labs,CTO,SG,Demo Request,Working,001000000200,005CSM00003,2026-02-24T01:55:41.906650+00:00
-00Q000000165,Lead165,Contact,lead165@company243.com,Company243 Labs,RevOps Manager,US,Partner,Open,001000000243,005CSM00005,2026-02-27T01:55:41.906760+00:00
-00Q000000166,Lead166,Contact,lead166@freeworkspace117.com,Free Freeworkspace117,VP Sales,DE,Inbound,Working,001000000417,005AE000009,2026-02-15T01:55:41.906871+00:00
-00Q000000167,Lead167,Contact,lead167@company275.com,Company275 Labs,RevOps Manager,US,Demo Request,Working,001000000275,005AE000003,2026-02-14T01:55:41.906981+00:00
-00Q000000168,Lead168,Contact,lead168@company269.com,Company269 Labs,RevOps Manager,US,Partner,Working,001000000269,005CSM00002,2026-02-23T01:55:41.907093+00:00
-00Q000000169,Lead169,Contact,lead169@company102.com,Company102 Labs,RevOps Manager,DE,Demo Request,Open,001000000102,005CSM00008,2026-03-01T01:55:41.907203+00:00
-00Q000000170,Lead170,Contact,lead170@freeworkspace090.com,Free Freeworkspace090,Head of Ops,US,Partner,Open,001000000390,005AE000010,2026-02-08T01:55:41.907314+00:00
-00Q000000171,Lead171,Contact,lead171@company165.com,Company165 Labs,Marketing Director,US,Inbound,Working,001000000165,005CSM00010,2026-02-05T01:55:41.907423+00:00
-00Q000000172,Lead172,Contact,lead172@prospect172.com,Prospect 172,Marketing Director,US,Demo Request,Open,,,2026-03-07T01:55:41.907450+00:00
-00Q000000173,Lead173,Contact,lead173@company160.com,Company160 Labs,CTO,US,Partner,Qualified,001000000160,005CSM00009,2026-02-24T01:55:41.907562+00:00
-00Q000000174,Lead174,Contact,lead174@freeworkspace012.com,Free Freeworkspace012,Head of Ops,UK,Demo Request,Working,001000000312,005AE000010,2026-02-16T01:55:41.907672+00:00
-00Q000000175,Lead175,Contact,lead175@company050.com,Company050 Labs,RevOps Manager,SG,Inbound,Working,001000000050,005CSM00005,2026-01-31T01:55:41.907785+00:00
-00Q000000176,Lead176,Contact,lead176@prospect176.com,Prospect 176,Head of Ops,US,Inbound,Working,,,2026-02-22T01:55:41.907812+00:00
-00Q000000177,Lead177,Contact,lead177@company128.com,Company128 Labs,VP Sales,US,Demo Request,Open,001000000128,005CSM00010,2026-02-02T01:55:41.907923+00:00
-00Q000000178,Lead178,Contact,lead178@prospect178.com,Prospect 178,CTO,US,Inbound,Working,,,2026-02-11T01:55:41.907950+00:00
-00Q000000179,Lead179,Contact,lead179@prospect179.com,Prospect 179,VP Sales,AU,Event,Qualified,,,2026-01-29T01:55:41.907976+00:00
-00Q000000180,Lead180,Contact,lead180@freeworkspace087.com,Free Freeworkspace087,RevOps Manager,AU,Demo Request,Open,001000000387,005AE000007,2026-02-04T01:55:41.908087+00:00
+00Q000000001,Lead1,Contact,lead1@prospect001.com,Prospect 1,Head of Ops,US,Demo Request,Working,,,2025-10-20T02:29:13.718851+00:00
+00Q000000002,Lead2,Contact,lead2@freeworkspace251.com,Free Freeworkspace251,RevOps Manager,US,Demo Request,Open,001000000551,005AE000005,2025-09-25T02:29:13.719194+00:00
+00Q000000003,Lead3,Contact,lead3@company132.com,Company132 Labs,CTO,SG,Inbound,Working,001000000132,005CSM00006,2025-11-05T02:29:13.719328+00:00
+00Q000000004,Lead4,Contact,lead4@prospect004.com,Prospect 4,CTO,US,Demo Request,Open,,,2026-02-16T02:29:13.719361+00:00
+00Q000000005,Lead5,Contact,lead5@prospect005.com,Prospect 5,VP Sales,US,Partner,Open,,,2026-02-16T02:29:13.719390+00:00
+00Q000000006,Lead6,Contact,lead6@freeworkspace103.com,Free Freeworkspace103,Head of Ops,DE,Partner,Open,001000000403,005AE000009,2025-09-21T02:29:13.719569+00:00
+00Q000000007,Lead7,Contact,lead7@prospect007.com,Prospect 7,CTO,US,Event,Open,,,2026-03-02T02:29:13.719609+00:00
+00Q000000008,Lead8,Contact,lead8@freeworkspace092.com,Free Freeworkspace092,CTO,AU,Event,Open,001000000392,005AE000004,2025-12-20T02:29:13.719758+00:00
+00Q000000009,Lead9,Contact,lead9@company236.com,Company236 Labs,VP Sales,US,Demo Request,Open,001000000236,005CSM00005,2026-03-01T02:29:13.719889+00:00
+00Q000000010,Lead10,Contact,lead10@company002.com,Company002 Labs,Marketing Director,US,Inbound,Qualified,001000000002,005CSM00001,2026-02-12T02:29:13.720015+00:00
+00Q000000011,Lead11,Contact,lead11@freeworkspace051.com,Free Freeworkspace051,CTO,US,Demo Request,Qualified,001000000351,005AE000001,2025-12-30T02:29:13.720183+00:00
+00Q000000012,Lead12,Contact,lead12@freeworkspace222.com,Free Freeworkspace222,Marketing Director,US,Inbound,Open,001000000522,005AE000001,2025-10-24T02:29:13.720545+00:00
+00Q000000013,Lead13,Contact,lead13@freeworkspace095.com,Free Freeworkspace095,VP Sales,US,Demo Request,Open,001000000395,005AE000007,2025-12-24T02:29:13.720741+00:00
+00Q000000014,Lead14,Contact,lead14@freeworkspace294.com,Free Freeworkspace294,CTO,US,Event,Qualified,001000000594,005AE000006,2025-12-07T02:29:13.721061+00:00
+00Q000000015,Lead15,Contact,lead15@freeworkspace293.com,Free Freeworkspace293,CTO,AU,Partner,Qualified,001000000593,005AE000007,2025-09-30T02:29:13.721235+00:00
+00Q000000016,Lead16,Contact,lead16@freeworkspace063.com,Free Freeworkspace063,RevOps Manager,US,Partner,Open,001000000363,005AE000002,2025-09-25T02:29:13.721360+00:00
+00Q000000017,Lead17,Contact,lead17@freeworkspace016.com,Free Freeworkspace016,Marketing Director,UK,Event,Open,001000000316,005AE000004,2025-09-20T02:29:13.721550+00:00
+00Q000000018,Lead18,Contact,lead18@prospect018.com,Prospect 18,RevOps Manager,DE,Event,Qualified,,,2026-02-19T02:29:13.721584+00:00
+00Q000000019,Lead19,Contact,lead19@prospect019.com,Prospect 19,RevOps Manager,US,Demo Request,Open,,,2025-10-02T02:29:13.721646+00:00
+00Q000000020,Lead20,Contact,lead20@company253.com,Company253 Labs,RevOps Manager,US,Event,Qualified,001000000253,005AE000007,2026-02-14T02:29:13.721772+00:00
+00Q000000021,Lead21,Contact,lead21@freeworkspace300.com,Free Freeworkspace300,CTO,US,Partner,Qualified,001000000600,005AE000009,2026-01-08T02:29:13.721918+00:00
+00Q000000022,Lead22,Contact,lead22@prospect022.com,Prospect 22,VP Sales,AU,Event,Open,,,2025-11-19T02:29:13.721949+00:00
+00Q000000023,Lead23,Contact,lead23@freeworkspace250.com,Free Freeworkspace250,Marketing Director,US,Demo Request,Open,001000000550,005AE000002,2026-02-13T02:29:13.722082+00:00
+00Q000000024,Lead24,Contact,lead24@freeworkspace055.com,Free Freeworkspace055,VP Sales,US,Demo Request,Working,001000000355,005AE000002,2025-09-23T02:29:13.722215+00:00
+00Q000000025,Lead25,Contact,lead25@freeworkspace106.com,Free Freeworkspace106,Marketing Director,US,Demo Request,Working,001000000406,005AE000007,2025-09-23T02:29:13.722357+00:00
+00Q000000026,Lead26,Contact,lead26@company209.com,Company209 Labs,CTO,US,Event,Working,001000000209,005CSM00002,2026-01-07T02:29:13.722505+00:00
+00Q000000027,Lead27,Contact,lead27@prospect027.com,Prospect 27,Head of Ops,AU,Demo Request,Open,,,2026-03-10T02:29:13.722535+00:00
+00Q000000028,Lead28,Contact,lead28@freeworkspace296.com,Free Freeworkspace296,Marketing Director,US,Inbound,Qualified,001000000596,005AE000002,2026-03-03T02:29:13.722663+00:00
+00Q000000029,Lead29,Contact,lead29@prospect029.com,Prospect 29,RevOps Manager,UK,Partner,Working,,,2025-09-17T02:29:13.722723+00:00
+00Q000000030,Lead30,Contact,lead30@freeworkspace124.com,Free Freeworkspace124,Head of Ops,SG,Inbound,Qualified,001000000424,005AE000003,2025-12-30T02:29:13.722925+00:00
+00Q000000031,Lead31,Contact,lead31@prospect031.com,Prospect 31,Head of Ops,US,Partner,Open,,,2026-01-25T02:29:13.722958+00:00
+00Q000000032,Lead32,Contact,lead32@company123.com,Company123 Labs,VP Sales,SG,Inbound,Open,001000000123,005AE000008,2026-02-24T02:29:13.723094+00:00
+00Q000000033,Lead33,Contact,lead33@prospect033.com,Prospect 33,CTO,DE,Partner,Open,,,2026-01-19T02:29:13.723124+00:00
+00Q000000034,Lead34,Contact,lead34@company181.com,Company181 Labs,Head of Ops,SG,Event,Open,001000000181,005CSM00003,2025-11-09T02:29:13.723248+00:00
+00Q000000035,Lead35,Contact,lead35@company019.com,Company019 Labs,RevOps Manager,US,Event,Open,001000000019,005CSM00001,2026-01-14T02:29:13.723370+00:00
+00Q000000036,Lead36,Contact,lead36@freeworkspace076.com,Free Freeworkspace076,VP Sales,SG,Inbound,Qualified,001000000376,005AE000006,2026-01-28T02:29:13.723497+00:00
+00Q000000037,Lead37,Contact,lead37@company009.com,Company009 Labs,Marketing Director,US,Partner,Open,001000000009,005CSM00009,2025-11-09T02:29:13.723678+00:00
+00Q000000038,Lead38,Contact,lead38@freeworkspace247.com,Free Freeworkspace247,VP Sales,US,Demo Request,Working,001000000547,005AE000002,2025-11-02T02:29:13.723803+00:00
+00Q000000039,Lead39,Contact,lead39@company235.com,Company235 Labs,Marketing Director,US,Event,Open,001000000235,005CSM00006,2026-01-07T02:29:13.723924+00:00
+00Q000000040,Lead40,Contact,lead40@prospect040.com,Prospect 40,VP Sales,UK,Partner,Qualified,,,2025-10-31T02:29:13.723953+00:00
+00Q000000041,Lead41,Contact,lead41@company062.com,Company062 Labs,CTO,DE,Event,Qualified,001000000062,005CSM00003,2026-02-07T02:29:13.724072+00:00
+00Q000000042,Lead42,Contact,lead42@freeworkspace151.com,Free Freeworkspace151,RevOps Manager,US,Partner,Open,001000000451,005AE000002,2025-09-20T02:29:13.724190+00:00
+00Q000000043,Lead43,Contact,lead43@prospect043.com,Prospect 43,RevOps Manager,DE,Event,Open,,,2025-09-16T02:29:13.724218+00:00
+00Q000000044,Lead44,Contact,lead44@freeworkspace098.com,Free Freeworkspace098,CTO,UK,Demo Request,Working,001000000398,005AE000009,2026-02-12T02:29:13.724337+00:00
+00Q000000045,Lead45,Contact,lead45@company298.com,Company298 Labs,Head of Ops,US,Demo Request,Working,001000000298,005CSM00001,2025-12-13T02:29:13.724456+00:00
+00Q000000046,Lead46,Contact,lead46@prospect046.com,Prospect 46,Marketing Director,US,Inbound,Open,,,2025-11-18T02:29:13.724485+00:00
+00Q000000047,Lead47,Contact,lead47@company098.com,Company098 Labs,RevOps Manager,US,Demo Request,Open,001000000098,005CSM00007,2026-01-18T02:29:13.724605+00:00
+00Q000000048,Lead48,Contact,lead48@company048.com,Company048 Labs,VP Sales,US,Event,Working,001000000048,005CSM00005,2025-12-03T02:29:13.724725+00:00
+00Q000000049,Lead49,Contact,lead49@freeworkspace020.com,Free Freeworkspace020,VP Sales,US,Inbound,Working,001000000320,005AE000005,2025-12-12T02:29:13.724843+00:00
+00Q000000050,Lead50,Contact,lead50@company027.com,Company027 Labs,Marketing Director,US,Inbound,Qualified,001000000027,005CSM00005,2025-11-24T02:29:13.724962+00:00
+00Q000000051,Lead51,Contact,lead51@company120.com,Company120 Labs,Marketing Director,AU,Partner,Working,001000000120,005CSM00009,2025-11-26T02:29:13.725083+00:00
+00Q000000052,Lead52,Contact,lead52@company124.com,Company124 Labs,CTO,US,Event,Qualified,001000000124,005CSM00001,2025-11-18T02:29:13.725199+00:00
+00Q000000053,Lead53,Contact,lead53@company041.com,Company041 Labs,CTO,US,Partner,Open,001000000041,005CSM00007,2025-11-19T02:29:13.725317+00:00
+00Q000000054,Lead54,Contact,lead54@company281.com,Company281 Labs,Head of Ops,US,Inbound,Working,001000000281,005CSM00003,2025-11-28T02:29:13.725433+00:00
+00Q000000055,Lead55,Contact,lead55@prospect055.com,Prospect 55,Head of Ops,US,Inbound,Qualified,,,2025-10-01T02:29:13.725463+00:00
+00Q000000056,Lead56,Contact,lead56@freeworkspace289.com,Free Freeworkspace289,Marketing Director,SG,Partner,Qualified,001000000589,005AE000006,2025-09-30T02:29:13.725583+00:00
+00Q000000057,Lead57,Contact,lead57@freeworkspace147.com,Free Freeworkspace147,Marketing Director,AU,Inbound,Open,001000000447,005AE000003,2025-10-07T02:29:13.725700+00:00
+00Q000000058,Lead58,Contact,lead58@freeworkspace006.com,Free Freeworkspace006,CTO,UK,Inbound,Open,001000000306,005AE000002,2025-10-28T02:29:13.725820+00:00
+00Q000000059,Lead59,Contact,lead59@prospect059.com,Prospect 59,RevOps Manager,UK,Inbound,Working,,,2026-01-02T02:29:13.725849+00:00
+00Q000000060,Lead60,Contact,lead60@freeworkspace119.com,Free Freeworkspace119,CTO,US,Event,Open,001000000419,005AE000006,2025-10-23T02:29:13.725964+00:00
+00Q000000061,Lead61,Contact,lead61@prospect061.com,Prospect 61,Marketing Director,US,Inbound,Working,,,2026-01-14T02:29:13.725992+00:00
+00Q000000062,Lead62,Contact,lead62@freeworkspace054.com,Free Freeworkspace054,Marketing Director,US,Partner,Open,001000000354,005AE000010,2025-12-26T02:29:13.726111+00:00
+00Q000000063,Lead63,Contact,lead63@prospect063.com,Prospect 63,Marketing Director,DE,Event,Open,,,2025-12-02T02:29:13.726139+00:00
+00Q000000064,Lead64,Contact,lead64@freeworkspace235.com,Free Freeworkspace235,VP Sales,US,Partner,Open,001000000535,005AE000002,2025-10-01T02:29:13.726258+00:00
+00Q000000065,Lead65,Contact,lead65@company162.com,Company162 Labs,CTO,DE,Partner,Open,001000000162,005CSM00005,2025-09-20T02:29:13.726378+00:00
+00Q000000066,Lead66,Contact,lead66@freeworkspace016.com,Free Freeworkspace016,CTO,US,Inbound,Open,001000000316,005AE000004,2026-01-04T02:29:13.726497+00:00
+00Q000000067,Lead67,Contact,lead67@prospect067.com,Prospect 67,CTO,US,Demo Request,Open,,,2025-12-21T02:29:13.726525+00:00
+00Q000000068,Lead68,Contact,lead68@freeworkspace233.com,Free Freeworkspace233,RevOps Manager,US,Inbound,Qualified,001000000533,005AE000003,2026-02-11T02:29:13.726643+00:00
+00Q000000069,Lead69,Contact,lead69@prospect069.com,Prospect 69,Head of Ops,AU,Partner,Open,,,2026-02-21T02:29:13.726676+00:00
+00Q000000070,Lead70,Contact,lead70@prospect070.com,Prospect 70,VP Sales,US,Event,Open,,,2025-11-20T02:29:13.726704+00:00
+00Q000000071,Lead71,Contact,lead71@prospect071.com,Prospect 71,Marketing Director,US,Partner,Open,,,2026-03-11T02:29:13.726731+00:00
+00Q000000072,Lead72,Contact,lead72@prospect072.com,Prospect 72,RevOps Manager,SG,Inbound,Working,,,2025-11-08T02:29:13.726759+00:00
+00Q000000073,Lead73,Contact,lead73@company167.com,Company167 Labs,Head of Ops,US,Demo Request,Open,001000000167,005CSM00003,2026-01-15T02:29:13.726880+00:00
+00Q000000074,Lead74,Contact,lead74@company069.com,Company069 Labs,VP Sales,US,Event,Open,001000000069,005CSM00010,2026-02-27T02:29:13.726997+00:00
+00Q000000075,Lead75,Contact,lead75@freeworkspace254.com,Free Freeworkspace254,Head of Ops,UK,Partner,Working,001000000554,005AE000004,2026-01-05T02:29:13.727113+00:00
+00Q000000076,Lead76,Contact,lead76@freeworkspace263.com,Free Freeworkspace263,CTO,DE,Event,Working,001000000563,005AE000002,2025-10-02T02:29:13.727228+00:00
+00Q000000077,Lead77,Contact,lead77@company278.com,Company278 Labs,CTO,US,Partner,Qualified,001000000278,005CSM00003,2026-01-01T02:29:13.727344+00:00
+00Q000000078,Lead78,Contact,lead78@prospect078.com,Prospect 78,RevOps Manager,AU,Inbound,Open,,,2025-11-28T02:29:13.727374+00:00
+00Q000000079,Lead79,Contact,lead79@company285.com,Company285 Labs,Head of Ops,UK,Partner,Working,001000000285,005CSM00004,2025-09-22T02:29:13.727492+00:00
+00Q000000080,Lead80,Contact,lead80@freeworkspace162.com,Free Freeworkspace162,CTO,US,Partner,Working,001000000462,005AE000001,2025-09-24T02:29:13.727607+00:00
+00Q000000081,Lead81,Contact,lead81@freeworkspace178.com,Free Freeworkspace178,VP Sales,US,Inbound,Qualified,001000000478,005AE000008,2026-02-03T02:29:13.727724+00:00
+00Q000000082,Lead82,Contact,lead82@company138.com,Company138 Labs,RevOps Manager,US,Inbound,Working,001000000138,005CSM00005,2026-01-27T02:29:13.727839+00:00
+00Q000000083,Lead83,Contact,lead83@prospect083.com,Prospect 83,Head of Ops,US,Inbound,Working,,,2026-01-09T02:29:13.727868+00:00
+00Q000000084,Lead84,Contact,lead84@prospect084.com,Prospect 84,VP Sales,SG,Inbound,Open,,,2025-11-30T02:29:13.727895+00:00
+00Q000000085,Lead85,Contact,lead85@prospect085.com,Prospect 85,RevOps Manager,UK,Event,Working,,,2025-10-15T02:29:13.727922+00:00
+00Q000000086,Lead86,Contact,lead86@freeworkspace218.com,Free Freeworkspace218,Head of Ops,US,Inbound,Working,001000000518,005AE000001,2026-01-02T02:29:13.728039+00:00
+00Q000000087,Lead87,Contact,lead87@prospect087.com,Prospect 87,VP Sales,AU,Event,Qualified,,,2025-09-23T02:29:13.728067+00:00
+00Q000000088,Lead88,Contact,lead88@company277.com,Company277 Labs,Marketing Director,US,Event,Working,001000000277,005CSM00010,2025-10-18T02:29:13.728187+00:00
+00Q000000089,Lead89,Contact,lead89@prospect089.com,Prospect 89,VP Sales,US,Inbound,Open,,,2026-01-16T02:29:13.728216+00:00
+00Q000000090,Lead90,Contact,lead90@freeworkspace190.com,Free Freeworkspace190,VP Sales,US,Event,Open,001000000490,005AE000006,2026-01-10T02:29:13.728333+00:00
+00Q000000091,Lead91,Contact,lead91@company040.com,Company040 Labs,CTO,US,Demo Request,Working,001000000040,005CSM00003,2026-01-08T02:29:13.728446+00:00
+00Q000000092,Lead92,Contact,lead92@prospect092.com,Prospect 92,RevOps Manager,US,Demo Request,Open,,,2026-02-27T02:29:13.728474+00:00
+00Q000000093,Lead93,Contact,lead93@freeworkspace174.com,Free Freeworkspace174,RevOps Manager,US,Partner,Working,001000000474,005AE000009,2025-10-04T02:29:13.728590+00:00
+00Q000000094,Lead94,Contact,lead94@freeworkspace006.com,Free Freeworkspace006,VP Sales,US,Demo Request,Open,001000000306,005AE000002,2025-11-08T02:29:13.728707+00:00
+00Q000000095,Lead95,Contact,lead95@company226.com,Company226 Labs,CTO,US,Demo Request,Open,001000000226,005CSM00007,2025-10-15T02:29:13.728831+00:00
+00Q000000096,Lead96,Contact,lead96@company034.com,Company034 Labs,VP Sales,SG,Inbound,Qualified,001000000034,005CSM00002,2026-02-04T02:29:13.728945+00:00
+00Q000000097,Lead97,Contact,lead97@prospect097.com,Prospect 97,RevOps Manager,US,Demo Request,Open,,,2025-09-23T02:29:13.728974+00:00
+00Q000000098,Lead98,Contact,lead98@company045.com,Company045 Labs,RevOps Manager,UK,Event,Open,001000000045,005CSM00010,2025-10-25T02:29:13.729090+00:00
+00Q000000099,Lead99,Contact,lead99@prospect099.com,Prospect 99,Marketing Director,US,Partner,Working,,,2026-02-27T02:29:13.729118+00:00
+00Q000000100,Lead100,Contact,lead100@company010.com,Company010 Labs,CTO,SG,Partner,Open,001000000010,005CSM00010,2025-11-14T02:29:13.729235+00:00
+00Q000000101,Lead101,Contact,lead101@freeworkspace267.com,Free Freeworkspace267,Head of Ops,UK,Partner,Open,001000000567,005AE000005,2025-09-17T02:29:13.729356+00:00
+00Q000000102,Lead102,Contact,lead102@freeworkspace156.com,Free Freeworkspace156,CTO,US,Demo Request,Qualified,001000000456,005AE000007,2025-10-14T02:29:13.729472+00:00
+00Q000000103,Lead103,Contact,lead103@prospect103.com,Prospect 103,Head of Ops,UK,Demo Request,Open,,,2025-12-05T02:29:13.729500+00:00
+00Q000000104,Lead104,Contact,lead104@company277.com,Company277 Labs,RevOps Manager,US,Partner,Working,001000000277,005CSM00010,2025-12-24T02:29:13.729617+00:00
+00Q000000105,Lead105,Contact,lead105@freeworkspace102.com,Free Freeworkspace102,CTO,US,Partner,Open,001000000402,005AE000004,2025-11-26T02:29:13.729733+00:00
+00Q000000106,Lead106,Contact,lead106@prospect106.com,Prospect 106,Head of Ops,US,Inbound,Working,,,2026-03-11T02:29:13.729762+00:00
+00Q000000107,Lead107,Contact,lead107@prospect107.com,Prospect 107,VP Sales,DE,Inbound,Working,,,2025-10-18T02:29:13.729789+00:00
+00Q000000108,Lead108,Contact,lead108@prospect108.com,Prospect 108,Marketing Director,US,Partner,Working,,,2025-12-24T02:29:13.729816+00:00
+00Q000000109,Lead109,Contact,lead109@prospect109.com,Prospect 109,VP Sales,US,Inbound,Open,,,2025-09-29T02:29:13.729843+00:00
+00Q000000110,Lead110,Contact,lead110@company123.com,Company123 Labs,Head of Ops,US,Partner,Open,001000000123,005AE000008,2026-03-01T02:29:13.729961+00:00
+00Q000000111,Lead111,Contact,lead111@company156.com,Company156 Labs,CTO,DE,Inbound,Qualified,001000000156,005CSM00005,2025-12-03T02:29:13.730075+00:00
+00Q000000112,Lead112,Contact,lead112@prospect112.com,Prospect 112,Marketing Director,US,Partner,Open,,,2025-11-10T02:29:13.730103+00:00
+00Q000000113,Lead113,Contact,lead113@freeworkspace069.com,Free Freeworkspace069,CTO,UK,Demo Request,Working,001000000369,005AE000010,2026-03-11T02:29:13.730222+00:00
+00Q000000114,Lead114,Contact,lead114@freeworkspace168.com,Free Freeworkspace168,Head of Ops,UK,Demo Request,Working,001000000468,005AE000002,2025-11-02T02:29:13.730337+00:00
+00Q000000115,Lead115,Contact,lead115@prospect115.com,Prospect 115,Head of Ops,US,Inbound,Qualified,,,2025-12-22T02:29:13.730365+00:00
+00Q000000116,Lead116,Contact,lead116@freeworkspace054.com,Free Freeworkspace054,RevOps Manager,US,Demo Request,Working,001000000354,005AE000010,2026-01-19T02:29:13.730480+00:00
+00Q000000117,Lead117,Contact,lead117@prospect117.com,Prospect 117,RevOps Manager,UK,Partner,Open,,,2025-09-16T02:29:13.730507+00:00
+00Q000000118,Lead118,Contact,lead118@freeworkspace160.com,Free Freeworkspace160,Marketing Director,US,Partner,Working,001000000460,005AE000004,2026-02-01T02:29:13.730622+00:00
+00Q000000119,Lead119,Contact,lead119@prospect119.com,Prospect 119,CTO,DE,Partner,Qualified,,,2025-12-05T02:29:13.730651+00:00
+00Q000000120,Lead120,Contact,lead120@prospect120.com,Prospect 120,Marketing Director,US,Event,Qualified,,,2026-01-15T02:29:13.730679+00:00
+00Q000000121,Lead121,Contact,lead121@company209.com,Company209 Labs,RevOps Manager,US,Partner,Qualified,001000000209,005CSM00002,2025-09-21T02:29:13.730795+00:00
+00Q000000122,Lead122,Contact,lead122@freeworkspace012.com,Free Freeworkspace012,VP Sales,UK,Demo Request,Open,001000000312,005AE000010,2026-02-24T02:29:13.730911+00:00
+00Q000000123,Lead123,Contact,lead123@freeworkspace227.com,Free Freeworkspace227,CTO,UK,Event,Open,001000000527,005AE000005,2026-02-27T02:29:13.731028+00:00
+00Q000000124,Lead124,Contact,lead124@freeworkspace067.com,Free Freeworkspace067,CTO,UK,Demo Request,Open,001000000367,005AE000001,2026-01-07T02:29:13.731144+00:00
+00Q000000125,Lead125,Contact,lead125@freeworkspace280.com,Free Freeworkspace280,VP Sales,UK,Event,Working,001000000580,005AE000009,2025-09-30T02:29:13.731260+00:00
+00Q000000126,Lead126,Contact,lead126@prospect126.com,Prospect 126,VP Sales,US,Partner,Open,,,2025-11-12T02:29:13.731288+00:00
+00Q000000127,Lead127,Contact,lead127@company093.com,Company093 Labs,Head of Ops,US,Demo Request,Working,001000000093,005CSM00007,2026-03-04T02:29:13.731416+00:00
+00Q000000128,Lead128,Contact,lead128@company125.com,Company125 Labs,VP Sales,US,Partner,Open,001000000125,005CSM00010,2026-01-28T02:29:13.731529+00:00
+00Q000000129,Lead129,Contact,lead129@prospect129.com,Prospect 129,Head of Ops,US,Inbound,Working,,,2026-01-09T02:29:13.731558+00:00
+00Q000000130,Lead130,Contact,lead130@freeworkspace274.com,Free Freeworkspace274,VP Sales,AU,Demo Request,Qualified,001000000574,005AE000002,2026-02-02T02:29:13.731675+00:00
+00Q000000131,Lead131,Contact,lead131@company266.com,Company266 Labs,CTO,SG,Event,Open,001000000266,005CSM00003,2025-12-11T02:29:13.731790+00:00
+00Q000000132,Lead132,Contact,lead132@freeworkspace089.com,Free Freeworkspace089,CTO,DE,Partner,Qualified,001000000389,005AE000006,2025-09-20T02:29:13.731906+00:00
+00Q000000133,Lead133,Contact,lead133@prospect133.com,Prospect 133,CTO,AU,Partner,Working,,,2025-10-26T02:29:13.731934+00:00
+00Q000000134,Lead134,Contact,lead134@freeworkspace080.com,Free Freeworkspace080,RevOps Manager,US,Demo Request,Qualified,001000000380,005AE000005,2026-01-29T02:29:13.732049+00:00
+00Q000000135,Lead135,Contact,lead135@prospect135.com,Prospect 135,CTO,DE,Demo Request,Open,,,2026-02-16T02:29:13.732077+00:00
+00Q000000136,Lead136,Contact,lead136@freeworkspace269.com,Free Freeworkspace269,RevOps Manager,US,Inbound,Open,001000000569,005AE000005,2025-12-10T02:29:13.732191+00:00
+00Q000000137,Lead137,Contact,lead137@company147.com,Company147 Labs,RevOps Manager,SG,Inbound,Open,001000000147,005CSM00010,2025-11-29T02:29:13.732306+00:00
+00Q000000138,Lead138,Contact,lead138@freeworkspace166.com,Free Freeworkspace166,VP Sales,US,Event,Open,001000000466,005AE000003,2025-12-29T02:29:13.732420+00:00
+00Q000000139,Lead139,Contact,lead139@prospect139.com,Prospect 139,CTO,US,Demo Request,Open,,,2025-10-23T02:29:13.732448+00:00
+00Q000000140,Lead140,Contact,lead140@company073.com,Company073 Labs,Head of Ops,US,Inbound,Working,001000000073,005CSM00003,2025-11-06T02:29:13.732564+00:00
+00Q000000141,Lead141,Contact,lead141@freeworkspace055.com,Free Freeworkspace055,Marketing Director,UK,Event,Working,001000000355,005AE000002,2025-10-27T02:29:13.732681+00:00
+00Q000000142,Lead142,Contact,lead142@freeworkspace154.com,Free Freeworkspace154,Marketing Director,UK,Partner,Qualified,001000000454,005AE000006,2026-03-05T02:29:13.732798+00:00
+00Q000000143,Lead143,Contact,lead143@freeworkspace126.com,Free Freeworkspace126,RevOps Manager,US,Partner,Open,001000000426,005AE000001,2025-09-19T02:29:13.732912+00:00
+00Q000000144,Lead144,Contact,lead144@freeworkspace241.com,Free Freeworkspace241,CTO,US,Event,Working,001000000541,005AE000001,2026-02-28T02:29:13.733027+00:00
+00Q000000145,Lead145,Contact,lead145@freeworkspace251.com,Free Freeworkspace251,Marketing Director,SG,Demo Request,Open,001000000551,005AE000005,2025-12-13T02:29:13.733143+00:00
+00Q000000146,Lead146,Contact,lead146@freeworkspace003.com,Free Freeworkspace003,Marketing Director,US,Inbound,Working,001000000303,005AE000007,2025-10-30T02:29:13.733261+00:00
+00Q000000147,Lead147,Contact,lead147@freeworkspace154.com,Free Freeworkspace154,CTO,UK,Demo Request,Working,001000000454,005AE000006,2025-12-30T02:29:13.733377+00:00
+00Q000000148,Lead148,Contact,lead148@freeworkspace246.com,Free Freeworkspace246,VP Sales,US,Inbound,Qualified,001000000546,005AE000008,2025-12-02T02:29:13.733494+00:00
+00Q000000149,Lead149,Contact,lead149@prospect149.com,Prospect 149,CTO,US,Demo Request,Open,,,2025-09-15T02:29:13.733523+00:00
+00Q000000150,Lead150,Contact,lead150@prospect150.com,Prospect 150,VP Sales,US,Event,Open,,,2026-01-20T02:29:13.733551+00:00
+00Q000000151,Lead151,Contact,lead151@company122.com,Company122 Labs,Head of Ops,UK,Event,Open,001000000122,005CSM00001,2025-09-25T02:29:13.733668+00:00
+00Q000000152,Lead152,Contact,lead152@company265.com,Company265 Labs,CTO,US,Event,Working,001000000265,005CSM00005,2025-12-06T02:29:13.733783+00:00
+00Q000000153,Lead153,Contact,lead153@prospect153.com,Prospect 153,CTO,US,Partner,Qualified,,,2026-02-22T02:29:13.733811+00:00
+00Q000000154,Lead154,Contact,lead154@company189.com,Company189 Labs,CTO,DE,Demo Request,Open,001000000189,005CSM00009,2025-09-28T02:29:13.733927+00:00
+00Q000000155,Lead155,Contact,lead155@company224.com,Company224 Labs,Marketing Director,US,Event,Qualified,001000000224,005CSM00002,2026-01-28T02:29:13.734044+00:00
+00Q000000156,Lead156,Contact,lead156@freeworkspace128.com,Free Freeworkspace128,RevOps Manager,US,Partner,Qualified,001000000428,005AE000002,2025-11-26T02:29:13.734160+00:00
+00Q000000157,Lead157,Contact,lead157@freeworkspace266.com,Free Freeworkspace266,RevOps Manager,DE,Demo Request,Open,001000000566,005AE000005,2026-02-15T02:29:13.734275+00:00
+00Q000000158,Lead158,Contact,lead158@freeworkspace044.com,Free Freeworkspace044,Head of Ops,UK,Inbound,Open,001000000344,005AE000006,2026-02-16T02:29:13.734389+00:00
+00Q000000159,Lead159,Contact,lead159@company046.com,Company046 Labs,CTO,US,Demo Request,Working,001000000046,005CSM00003,2025-12-30T02:29:13.734504+00:00
+00Q000000160,Lead160,Contact,lead160@prospect160.com,Prospect 160,CTO,US,Inbound,Open,,,2026-03-01T02:29:13.734532+00:00
+00Q000000161,Lead161,Contact,lead161@prospect161.com,Prospect 161,VP Sales,US,Demo Request,Qualified,,,2026-02-03T02:29:13.734560+00:00
+00Q000000162,Lead162,Contact,lead162@freeworkspace228.com,Free Freeworkspace228,CTO,SG,Inbound,Qualified,001000000528,005AE000003,2025-11-04T02:29:13.734675+00:00
+00Q000000163,Lead163,Contact,lead163@freeworkspace285.com,Free Freeworkspace285,VP Sales,US,Demo Request,Working,001000000585,005AE000004,2026-01-06T02:29:13.734791+00:00
+00Q000000164,Lead164,Contact,lead164@freeworkspace130.com,Free Freeworkspace130,Head of Ops,AU,Inbound,Open,001000000430,005AE000006,2026-02-26T02:29:13.734908+00:00
+00Q000000165,Lead165,Contact,lead165@company129.com,Company129 Labs,RevOps Manager,US,Partner,Open,001000000129,005CSM00002,2025-12-04T02:29:13.735026+00:00
+00Q000000166,Lead166,Contact,lead166@prospect166.com,Prospect 166,RevOps Manager,AU,Partner,Open,,,2025-12-09T02:29:13.735054+00:00
+00Q000000167,Lead167,Contact,lead167@freeworkspace228.com,Free Freeworkspace228,VP Sales,DE,Event,Qualified,001000000528,005AE000003,2025-11-11T02:29:13.735169+00:00
+00Q000000168,Lead168,Contact,lead168@company003.com,Company003 Labs,RevOps Manager,US,Inbound,Open,001000000003,005CSM00003,2025-12-11T02:29:13.735283+00:00
+00Q000000169,Lead169,Contact,lead169@prospect169.com,Prospect 169,Head of Ops,DE,Demo Request,Open,,,2026-01-27T02:29:13.735311+00:00
+00Q000000170,Lead170,Contact,lead170@prospect170.com,Prospect 170,VP Sales,US,Partner,Open,,,2025-12-04T02:29:13.735338+00:00
+00Q000000171,Lead171,Contact,lead171@freeworkspace026.com,Free Freeworkspace026,VP Sales,US,Demo Request,Working,001000000326,005AE000008,2025-10-31T02:29:13.735458+00:00
+00Q000000172,Lead172,Contact,lead172@company090.com,Company090 Labs,VP Sales,US,Demo Request,Open,001000000090,005CSM00003,2026-01-24T02:29:13.735573+00:00
+00Q000000173,Lead173,Contact,lead173@company077.com,Company077 Labs,VP Sales,UK,Demo Request,Qualified,001000000077,005CSM00004,2025-10-16T02:29:13.735690+00:00
+00Q000000174,Lead174,Contact,lead174@prospect174.com,Prospect 174,VP Sales,US,Demo Request,Working,,,2025-12-08T02:29:13.735719+00:00
+00Q000000175,Lead175,Contact,lead175@company263.com,Company263 Labs,Head of Ops,SG,Inbound,Working,001000000263,005CSM00007,2025-09-24T02:29:13.735835+00:00
+00Q000000176,Lead176,Contact,lead176@company070.com,Company070 Labs,Head of Ops,US,Demo Request,Open,001000000070,005CSM00010,2025-12-19T02:29:13.735950+00:00
+00Q000000177,Lead177,Contact,lead177@prospect177.com,Prospect 177,Marketing Director,SG,Demo Request,Qualified,,,2025-10-15T02:29:13.735978+00:00
+00Q000000178,Lead178,Contact,lead178@prospect178.com,Prospect 178,Head of Ops,US,Demo Request,Open,,,2025-11-12T02:29:13.736005+00:00
+00Q000000179,Lead179,Contact,lead179@prospect179.com,Prospect 179,Marketing Director,US,Partner,Open,,,2025-10-12T02:29:13.736031+00:00
+00Q000000180,Lead180,Contact,lead180@company188.com,Company188 Labs,CTO,DE,Inbound,Working,001000000188,005CSM00005,2025-11-10T02:29:13.736150+00:00
