@@ -16,6 +16,7 @@
   --color-accent-bg: #dce9f7;
   --color-accent-soft: #aaccf2;
   --color-accent-deep: #1f61ad;
+  --color-warm: #bd5f1d;
 }
 
 html {
@@ -39,6 +40,10 @@ input,
 select,
 textarea {
   font: inherit;
+}
+
+a {
+  color: inherit;
 }
 
 ::selection {

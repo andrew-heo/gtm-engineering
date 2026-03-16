@@ -1,7 +1,7 @@
 const statusLabel = {
   live: null,
   next: 'Next',
-  backlog: null,
+  backlog: 'Later',
 }
 
 export function Sidebar({ workflows, activeWorkflowId, onSelectWorkflow }) {

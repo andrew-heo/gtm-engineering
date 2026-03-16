@@ -1,0 +1,41 @@
+import {
+  heroMetrics,
+  impactCards,
+  sampleRows,
+  territoryPrompt,
+  workflowSteps,
+} from '../../data/territoryBalancingContent'
+
+## The problem
+
+<StoryCard>
+At scale, territories drift. Reps leave, books swell unevenly, and low-value accounts pile up on the wrong desks. Without a systematic rebalance, some AEs carry materially more workload than others and forecast quality degrades because coverage is uneven, not because demand changed.
+</StoryCard>
+
+<MetricBand items={heroMetrics} />
+
+Territory balancing is a strong GTM StratOps use case because it combines **hard operational rules** with **judgment-heavy prioritization**. Revenue operations has to preserve trust with sales leadership, but it also needs a system that can make thousands of ownership decisions on a reliable cadence.
+
+## How AI fits in
+
+<WorkflowSteps steps={workflowSteps} />
+
+The key design choice is that AI does **not** invent the candidate owner pool. Deterministic logic narrows the option set first using segment, language, and capacity rules. AI then helps rank the least disruptive moves and explain them in plain English, which is what makes the output usable in a real planning review.
+
+## What changed mathematically
+
+<TerritoryBalanceViz />
+
+This is the part I wanted the site to make tangible. You should be able to see, not just read, that the system tightened the distribution of accounts and compressed MRR variance across the AM team. The point of automation here is not novelty. It is measurable operating leverage.
+
+## Prompt structure
+
+<PromptPanel fileName="territory_balancer_prompt.txt" prompt={territoryPrompt} />
+
+The prompt is intentionally constrained. AI receives the business context it needs to reason, but it only acts inside a safe operating frame. That pattern is central to the whole portfolio: **LLMs synthesize, rules enforce**.
+
+## Sample outputs
+
+<OutputTable rows={sampleRows} />
+
+<InsightList items={impactCards} />
