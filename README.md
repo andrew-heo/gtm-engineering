@@ -26,6 +26,7 @@ The shared dataset simulates a Series C SaaS company at roughly `$50M ARR` from 
 | `workflows/05_am_renewal_form_automation` | AM renewal form automation | Parabola-style form processing, renewal validation, & Salesforce writeback |
 | `workflows/06_marketing_attribution_and_funnel_model` | Marketing attribution & funnel source of truth | First-touch and last-touch attribution, tracking hygiene, & funnel reporting |
 | `workflows/07_growth_experiment_design` | Growth experiment design for a new plan | ICP scoring, segmentation, targeting, messaging, & experiment metrics |
+| `non-gtm side projects/geo_answer_key_webapp` | GeoGuessr-style answer key from an uploaded photo | Python web app, drag-and-drop upload, demo-mode answer keys, and optional multimodal image analysis |
 | `reporting/*_weekly_report` | Weekly state-of-the-business reporting | Segment-level markdown reporting across GTM workflows |
 
 ## Logic
@@ -70,5 +71,6 @@ python3 projects/workflows/04_lead_enrichment/lead_enrichment.py --scenario all
 python3 projects/workflows/05_am_renewal_form_automation/am_renewal_form_automation.py
 python3 projects/workflows/06_marketing_attribution_and_funnel_model/marketing_attribution_and_funnel_model.py
 python3 projects/workflows/07_growth_experiment_design/growth_experiment_design.py
+python3 "non-gtm side projects/geo_answer_key_webapp/app.py"
 python3 reporting/generate_weekly_reports.py
 ```
