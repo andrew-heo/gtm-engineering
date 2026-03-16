@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-bg: #f6f4ec;
+  --color-panel: #f0ede4;
+  --color-line: #d9d4c8;
+  --color-line-strong: #d2ccbf;
+  --color-ink: #1f1f1d;
+  --color-copy: #43413d;
+  --color-muted: #767168;
+  --color-subtle: #7e786f;
+  --color-dot: #807a71;
+  --color-accent: #3d84d6;
+  --color-accent-bg: #dce9f7;
+  --color-accent-soft: #aaccf2;
+  --color-accent-deep: #1f61ad;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  background: var(--color-bg);
+  color: var(--color-ink);
+  font-family: 'Manrope', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+::selection {
+  background: rgba(61, 132, 214, 0.2);
+  color: var(--color-ink);
+}

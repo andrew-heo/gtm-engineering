@@ -20,6 +20,7 @@ The shared dataset simulates a Series C SaaS company at roughly `$50M ARR` from 
 | Project | Business Output | Technical Details |
 |---|---|---|
 | `01_gtm_data_foundations` | Clean & actionable data | Data ingestion & normalization |
+| `apps/gtm-stratops-webapp` | Interactive walkthrough of GTM strategy and ops workflows | React, Tailwind, reusable workflow page system |
 | `workflows/02_territory_balancer` | Balance AM territories | Territory balancing, reassignment, & Salesforce writeback |
 | `workflows/03_freetier_usage_alert` | Weekly alerts to AEs on free-tier usage | Usage signal detection, Slack alerting, & Salesforce task creation |
 | `workflows/04_lead_enrichment` | Lead enrichment & SFDC update | Lead intake, company-email verification, enrichment, & Salesforce update |
@@ -73,4 +74,5 @@ python3 projects/workflows/06_marketing_attribution_and_funnel_model/marketing_a
 python3 projects/workflows/07_growth_experiment_design/growth_experiment_design.py
 python3 "non-gtm side projects/geo_answer_key_webapp/app.py"
 python3 reporting/generate_weekly_reports.py
+cd projects/apps/gtm-stratops-webapp && npm install && npm run dev
 ```
