@@ -1,6 +1,7 @@
 import { useMemo, useState } from 'react'
 import { Sidebar } from './components/Sidebar'
 import { WorkflowPage } from './components/WorkflowPage'
+import { siteCopy } from './content/site/site-copy.mdx'
 import { workflows } from './data/workflows'
 
 export default function App() {
@@ -15,6 +16,7 @@ export default function App() {
     <div className="min-h-screen bg-[var(--color-bg)] px-0 py-0 text-[var(--color-ink)] lg:p-0">
       <div className="mx-auto min-h-screen max-w-[1440px] overflow-hidden border border-[var(--color-line)] bg-[var(--color-bg)] lg:flex lg:rounded-[18px]">
         <Sidebar
+          siteCopy={siteCopy}
           workflows={workflows}
           activeWorkflowId={activeWorkflow.id}
           onSelectWorkflow={setActiveWorkflowId}

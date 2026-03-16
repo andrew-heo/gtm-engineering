@@ -1,7 +1,6 @@
 import FreeTierAlertsPage, { meta as freeTierMeta } from '../content/workflows/free-tier-alerts.mdx'
 import LeadEnrichmentPage, { meta as leadEnrichmentMeta } from '../content/workflows/lead-enrichment.mdx'
-import TerritoryBalancingPage from '../content/workflows/territory-balancing.mdx'
-import { territoryMeta } from './territoryBalancingContent'
+import TerritoryBalancingPage, { meta as territoryMeta } from '../content/workflows/territory-balancing.mdx'
 
 export const workflows = [
   {
